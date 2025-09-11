@@ -260,6 +260,12 @@
             "collapse_content": false
           }
         },
+        "liquid_nh7UwW": {
+          "type": "liquid",
+          "settings": {
+            "liquid": ""
+          }
+        },
         "buy-buttons": {
           "type": "buy_buttons",
           "settings": {
@@ -277,6 +283,7 @@
         "liquid_XBEr8x",
         "separator",
         "description",
+        "liquid_nh7UwW",
         "buy-buttons"
       ],
       "settings": {
