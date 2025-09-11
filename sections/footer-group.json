@@ -30,7 +30,7 @@
         "customer-support": {
           "type": "item",
           "settings": {
-            "icon": "picto-customer-support",
+            "icon": "picto-return",
             "mobile_icon_width": 24,
             "icon_width": 24,
             "icon_background_type": "circle",
@@ -43,7 +43,7 @@
         "discount": {
           "type": "item",
           "settings": {
-            "icon": "picto-coupon",
+            "icon": "picto-envelope",
             "mobile_icon_width": 24,
             "icon_width": 24,
             "icon_background_type": "circle",
