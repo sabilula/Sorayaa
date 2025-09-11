@@ -308,8 +308,9 @@
         "image_eKMz3W": {
           "type": "image",
           "settings": {
+            "image": "shopify://shop_images/Capture_d_ecran_2025-09-11_a_20.57.25.png",
             "alignment": "start",
-            "max_width": 150
+            "max_width": 500
           }
         },
         "collapsible_text_iBmaT3": {
