@@ -288,6 +288,42 @@
             "payment_button_background": "",
             "payment_button_text_color": ""
           }
+        },
+        "collapsible_text_iBmaT3": {
+          "type": "collapsible_text",
+          "settings": {
+            "icon": "none",
+            "icon_width": 20,
+            "title": "Title",
+            "content": "<p>Share some content to your customers about your products.</p>",
+            "page": ""
+          }
+        },
+        "collapsible_text_kMU4gA": {
+          "type": "collapsible_text",
+          "settings": {
+            "icon": "none",
+            "icon_width": 20,
+            "title": "Title",
+            "content": "<p>Share some content to your customers about your products.</p>",
+            "page": ""
+          }
+        },
+        "collapsible_text_Kw73m4": {
+          "type": "collapsible_text",
+          "settings": {
+            "icon": "none",
+            "icon_width": 20,
+            "title": "Title",
+            "content": "<p>Share some content to your customers about your products.</p>",
+            "page": ""
+          }
+        },
+        "text_CqXtDE": {
+          "type": "text",
+          "settings": {
+            "text": "<p><strong>¡Miles ya disfrutan de sus resultados!</strong></p>"
+          }
         }
       },
       "block_order": [
@@ -298,7 +334,11 @@
         "description",
         "liquid_nh7UwW",
         "liquid_cTQTq6",
-        "buy-buttons"
+        "buy-buttons",
+        "collapsible_text_iBmaT3",
+        "collapsible_text_kMU4gA",
+        "collapsible_text_Kw73m4",
+        "text_CqXtDE"
       ],
       "settings": {
         "full_width": false,
