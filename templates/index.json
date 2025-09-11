@@ -439,7 +439,7 @@
           "settings": {
             "column_size": "3",
             "title": "¿Cómo actúan nuestros parches?",
-            "heading_tag": "h4",
+            "heading_tag": "h3",
             "content": "<p>Nuestros parches ofrecen <strong>una alternativa natural, suave y sin riesgos.</strong> Gracias a una tecnología transdérmica avanzada, los principios activos se liberan a través de la piel y estimulan la hormona GLP-1, nuestra hormona de la saciedad, sin dolor, sin agujas y sin comprometer tu bienestar, de una forma <strong>100% natural.</strong></p>",
             "link_url": "",
             "link_text": "",
@@ -451,7 +451,7 @@
           "settings": {
             "column_size": "3",
             "title": "¿Qué es el GLP-1 y cómo funciona?",
-            "heading_tag": "h4",
+            "heading_tag": "h3",
             "content": "<p><strong>El GLP-1 (Glucagon-Like Peptide-1) es una hormona que tu intestino produce de forma natural cuando comes.<br/>¿Su función? Decirle a tu cerebro: “¡Basta, ya he comido suficiente!”.</strong></p><p><strong>El problema:</strong> en el 73% de las personas con sobrepeso, esta hormona deja de funcionar correctamente.<br/><strong>¿El resultado?</strong> El cerebro nunca recibe la señal de saciedad.</p>",
             "link_url": "",
             "link_text": "",
@@ -463,7 +463,7 @@
           "settings": {
             "column_size": "3",
             "title": "Fin a los problemas digestivos",
-            "heading_tag": "h4",
+            "heading_tag": "h3",
             "content": "<p><strong>Ventaja exclusiva de los parches:</strong>los ingredientes pasan directamente a través de la piel, evitando por completo el estómago y los intestinos.<br/>-<strong> Sin efectos secundarios digestivos</strong>, a diferencia de las pastillas o inyecciones.<br/>- Biodisponibilidad óptima, sin náuseas ni molestias digestivas.</p>",
             "link_url": "",
             "link_text": "",
