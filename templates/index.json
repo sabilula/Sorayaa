@@ -512,15 +512,15 @@
         "166442457738b23caf-0": {
           "type": "item",
           "settings": {
-            "title": "Do you ship overseas?",
-            "content": "<p>Yes, we ship all over the world. Shipping costs will apply, and will be added at checkout. We run discounts and promotions all year, so stay tuned for exclusive deals.</p>"
+            "title": "¿Qué es SlimPatches y cómo funciona?",
+            "content": "<p><strong>Nuestros parches reproducen la acción de la hormona natural GLP-1, que se libera después de las comidas para regular el apetito, estabilizar la glucosa en sangre y enviar al cerebro la señal de saciedad.</strong></p><p>¿El resultado? Menos antojos, menos picoteo y una pérdida de peso más fácil, de manera natural, sin inyecciones ni pastillas.</p>"
           }
         },
         "166442457738b23caf-1": {
           "type": "item",
           "settings": {
-            "title": "How long will it take to get my orders?",
-            "content": "<p>It depends on where you are. Orders processed here will take 5-7 business days to arrive. Overseas deliveries can take anywhere from 7-16 days. Delivery details will be provided in your confirmation email.</p>"
+            "title": "¿Los parches son resistentes al agua y al sudor?",
+            "content": "<p>Sí, nuestros parches están diseñados para mantenerse en su lugar durante todo el día, incluso en caso de sudor, ducha o actividad física. Se recomienda evitar frotar directamente sobre ellos para garantizar una mejor adherencia.</p>"
           }
         },
         "166442457738b23caf-2": {
@@ -540,14 +540,14 @@
         "full_width": false,
         "subheading": "",
         "title": "FAQ",
-        "content": "<p>Use this text to share information about your product or shipping policies.</p>",
+        "content": "",
         "team_avatar_width": 160,
-        "support_hours": "Our customer support is available Monday to Friday: 8am-8:30pm.",
-        "answer_time": "Average answer time: 24h",
+        "support_hours": "",
+        "answer_time": "",
         "button_text": "",
         "button_url": "",
         "text_position": "start",
-        "background": "#ffffff",
+        "background": "#f5ece7",
         "background_gradient": "",
         "text_color": "",
         "heading_color": "",
