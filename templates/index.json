@@ -324,8 +324,8 @@
           "settings": {
             "icon": "none",
             "icon_width": 20,
-            "title": "Title",
-            "content": "<p>Share some content to your customers about your products.</p>",
+            "title": "Sobre este producto",
+            "content": "<p><strong>Nuestros parches GLP-1 han sido diseñados para acompañarte de manera natural en la gestión del peso y la reducción del apetito, gracias a una sinergia de potentes ingredientes activos:</strong></p><h3>🌿 Extractos de berberina, granada y canela</h3><p>Un trío natural para apoyar tu metabolismo:</p><ul><li><strong>La berberina</strong> ayuda a regular la glucosa en sangre y a reducir los antojos de dulce.</li><li><strong>La granada</strong> actúa como un poderoso antioxidante, protegiendo tus células.</li><li><strong>La canela</strong> mejora la sensibilidad a la insulina para una energía más equilibrada.</li></ul><p>👉 Juntos, favorecen un equilibrio metabólico propicio para la pérdida de peso.</p><h3>⚡ Complejo de vitaminas B (B1, B2, B3, B6, B9, B12)</h3><p>Un auténtico impulso para tu metabolismo:</p><ul><li>Estas vitaminas ayudan a tu cuerpo a transformar los alimentos en energía.</li><li>Reducen la fatiga y apoyan una actividad física regular — aliadas clave para una pérdida de peso duradera.</li></ul><h3>💪 L-Glutamina & Cromo</h3><ul><li><strong>La L-Glutamina</strong> favorece la recuperación muscular y ayuda a preservar la masa magra mientras quemas grasa.</li><li><strong>El cromo</strong>, mineral esencial, apoya el metabolismo de la glucosa y ayuda a controlar el apetito — para resistir mejor los antojos y mantener una energía estable.</li></ul><h3>💧 Resistente al agua</h3><p>Puedes ducharte, sudar o lavarte las manos sin problema.</p>",
             "page": ""
           }
         },
@@ -334,8 +334,8 @@
           "settings": {
             "icon": "none",
             "icon_width": 20,
-            "title": "Title",
-            "content": "<p>Share some content to your customers about your products.</p>",
+            "title": "Modo de aplicación",
+            "content": "<p><strong>Empieza cada día de forma sencilla</strong>: al despertar, aplica un parche sobre una zona limpia y seca de tu piel.</p><ul><li>El brazo, la parte baja de la espalda, el abdomen inferior, el hombro o la cadera son perfectos.</li><li>Lo más importante es que sea una zona cómoda para ti.</li></ul><p><strong>Déjalo actuar</strong>: lleva el parche durante todo el día. Libera progresivamente sus activos para apoyar tu metabolismo, controlar el apetito y aumentar tu energía.</p><p><strong>Cámbialo al día siguiente</strong>: cada mañana retira el parche usado y reemplázalo por uno nuevo en otra zona de la piel.</p><p>⚠️ <strong>Precauciones de uso</strong></p><ul><li>Uso externo únicamente.</li><li>No reutilizar los parches. Una vez abierto el envase, usar el parche lo antes posible.</li><li>Mantener fuera del alcance de menores de 18 años.</li><li>Asegúrate de no ser alérgico a ninguno de los ingredientes.</li><li>Utilizar un solo parche a la vez, durante un máximo de 8 horas.</li><li>Alterna la zona de aplicación en cada uso.</li><li>No aplicar sobre heridas, piel dañada o sensible.</li><li>Evitar el contacto con los ojos y lavar bien las manos después de la aplicación.</li><li>En caso de irritación o reacción alérgica, suspender el uso y consultar a un profesional de salud.</li><li>No usar en caso de embarazo, lactancia o tratamiento médico sin consejo previo.</li><li>No utilizar junto con otros productos aplicados localmente, como compresas térmicas, ya que el calor puede alterar la eficacia del parche.</li></ul><p>👉 Este producto no está destinado a diagnosticar, tratar, curar o prevenir ninguna enfermedad.<br/>👉 Los parches GLP-1 no contienen GLP-1 sintético y no son medicamentos agonistas de GLP-1.</p>",
             "page": ""
           }
         },
@@ -344,8 +344,8 @@
           "settings": {
             "icon": "none",
             "icon_width": 20,
-            "title": "Title",
-            "content": "<p>Share some content to your customers about your products.</p>",
+            "title": "Composición",
+            "content": "<p>BERBERIS ARISTATA ROOT EXTRACT, PUNICA GRANATUM FRUIT EXTRACT, CINNAMOMUM ZEYLANICUM BARK EXTRACT, VITAMIN B1 (THIAMINE HYDROCHLORIDE), VITAMIN B2 (RIBOFLAVIN), VITAMIN B3 (NIACINAMIDE), VITAMIN B6 (PYRIDOXINE HYDROCHLORIDE), VITAMIN B9 (FOLIC ACID), VITAMIN B12 (CYANOCOBALAMIN), L-GLUTAMINE, CHROMIUM PICOLINATE</p>",
             "page": ""
           }
         },
