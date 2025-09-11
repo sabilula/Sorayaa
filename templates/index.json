@@ -399,6 +399,97 @@
         "input_text_color": ""
       }
     },
+    "image_with_text_overlay_m6NWwM": {
+      "type": "image-with-text-overlay",
+      "settings": {
+        "full_width": true,
+        "allow_transparent_header": false,
+        "enable_parallax": false,
+        "image_size": "auto",
+        "image": "shopify://shop_images/Copie_de_Template_section_benefice_5.png",
+        "mobile_image": "shopify://shop_images/Copie_de_Template_section_benefice_5.png",
+        "mobile_text_position": "place-self-center text-center",
+        "desktop_text_position": "sm:place-self-center sm:text-center",
+        "text_color": "#ffffff",
+        "overlay_color": "#000000",
+        "overlay_opacity": 0
+      }
+    },
+    "image_with_text_overlay_dAmfqA": {
+      "type": "image-with-text-overlay",
+      "settings": {
+        "full_width": true,
+        "allow_transparent_header": false,
+        "enable_parallax": false,
+        "image_size": "auto",
+        "image": "shopify://shop_images/Copie_de_Template_section_benefice_3.png",
+        "mobile_image": "shopify://shop_images/Copie_de_Template_section_benefice_3.png",
+        "mobile_text_position": "place-self-center text-center",
+        "desktop_text_position": "sm:place-self-center sm:text-center",
+        "text_color": "#ffffff",
+        "overlay_color": "#000000",
+        "overlay_opacity": 0
+      }
+    },
+    "multi_column_GwJhG9": {
+      "type": "multi-column",
+      "blocks": {
+        "item_WBNfhw": {
+          "type": "item",
+          "settings": {
+            "column_size": "3",
+            "title": "¿Cómo actúan nuestros parches?",
+            "heading_tag": "h4",
+            "content": "<p>Nuestros parches ofrecen <strong>una alternativa natural, suave y sin riesgos.</strong> Gracias a una tecnología transdérmica avanzada, los principios activos se liberan a través de la piel y estimulan la hormona GLP-1, nuestra hormona de la saciedad, sin dolor, sin agujas y sin comprometer tu bienestar, de una forma <strong>100% natural.</strong></p>",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        },
+        "item_rXBQfx": {
+          "type": "item",
+          "settings": {
+            "column_size": "3",
+            "title": "¿Qué es el GLP-1 y cómo funciona?",
+            "heading_tag": "h4",
+            "content": "<p><strong>El GLP-1 (Glucagon-Like Peptide-1) es una hormona que tu intestino produce de forma natural cuando comes.<br/>¿Su función? Decirle a tu cerebro: “¡Basta, ya he comido suficiente!”.</strong></p><p><strong>El problema:</strong> en el 73% de las personas con sobrepeso, esta hormona deja de funcionar correctamente.<br/><strong>¿El resultado?</strong> El cerebro nunca recibe la señal de saciedad.</p>",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        },
+        "item_Tpqqfq": {
+          "type": "item",
+          "settings": {
+            "column_size": "3",
+            "title": "Fin a los problemas digestivos",
+            "heading_tag": "h4",
+            "content": "<p><strong>Ventaja exclusiva de los parches:</strong>los ingredientes pasan directamente a través de la piel, evitando por completo el estómago y los intestinos.<br/>- Sin efectos secundarios digestivos, a diferencia de las pastillas o inyecciones.<br/>- Biodisponibilidad óptima, sin náuseas ni molestias digestivas.</p>",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        }
+      },
+      "block_order": [
+        "item_WBNfhw",
+        "item_rXBQfx",
+        "item_Tpqqfq"
+      ],
+      "name": "Multi-column",
+      "settings": {
+        "full_width": true,
+        "stack_on_mobile": false,
+        "gap": "medium",
+        "text_alignment": "start",
+        "subheading": "",
+        "title": "",
+        "content": "",
+        "background": "",
+        "background_gradient": "",
+        "text_color": ""
+      }
+    },
     "faq": {
       "type": "faq",
       "blocks": {
@@ -461,6 +552,9 @@
     "custom_html_FmWgfd",
     "multi_column_8eyRjQ",
     "featured-product",
+    "image_with_text_overlay_m6NWwM",
+    "image_with_text_overlay_dAmfqA",
+    "multi_column_GwJhG9",
     "faq"
   ]
 }
