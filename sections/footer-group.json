@@ -93,31 +93,31 @@
           "settings": {
             "image_width": 150,
             "heading_size": "h3",
-            "title": "Sign up for new stories and personal offers",
+            "title": "Suscríbete a nuestra newsletter",
             "content": ""
-          }
-        },
-        "links": {
-          "type": "links",
-          "settings": {
-            "menu": "footer",
-            "show_menu_title": true,
-            "menu_title": ""
           }
         },
         "text": {
           "type": "text",
           "settings": {
-            "title": "About",
-            "content": "<p>Use this text area to tell your customers about your brand and vision. You can change it in the theme editor.</p>",
+            "title": "Contacto",
+            "content": "<p>Servicio de atención al cliente: <a>contact@nuvia-officiel.com</a></p>",
+            "enable_follow_on_shop": true
+          }
+        },
+        "text_HymchD": {
+          "type": "text",
+          "settings": {
+            "title": "Horario de atención:",
+            "content": "<ul><li><strong>Lunes a viernes:</strong> 9h – 12h / 13h – 18h</li><li><strong>Sábados y domingos:</strong> 10h – 12h</li></ul><p>📩 <strong>Respuesta en menos de 12 horas.</strong></p>",
             "enable_follow_on_shop": true
           }
         }
       },
       "block_order": [
         "newsletter",
-        "links",
-        "text"
+        "text",
+        "text_HymchD"
       ],
       "settings": {
         "show_social_media": true,
