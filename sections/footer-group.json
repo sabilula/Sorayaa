@@ -20,7 +20,7 @@
             "icon": "picto-box",
             "mobile_icon_width": 24,
             "icon_width": 24,
-            "icon_background_type": "none",
+            "icon_background_type": "circle",
             "icon_background": "#b55a68",
             "icon_color": "#ffffff",
             "title": "Envío gratuito",
