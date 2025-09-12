@@ -315,11 +315,12 @@
           "type": "slide",
           "settings": {
             "media_style": "image",
+            "image": "shopify://shop_images/ChatGPT_Image_15_juil._2025_a_00_03_55_1fa186fb-5851-4604-8563-ce84a86220b9.png",
             "video_url": "https://www.youtube.com/watch?v=_9VUPq3SxOc",
             "controls": false,
             "stars_count": 5,
-            "text": "<p>I use it every day early in the morning and on our dining table, it is do convenient and cool</p>",
-            "author": "<p><strong>@dwithpatty</strong></p>"
+            "text": "<p>En 4 meses me he transformado!</p>",
+            "author": "<p><strong>Clara, M</strong></p>"
           }
         }
       },
