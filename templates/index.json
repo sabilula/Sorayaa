@@ -565,6 +565,13 @@
             "title": "¿Es adecuado para diabéticos?",
             "content": "<p>Nuestros parches no influyen en la producción de insulina, pero en caso de diabetes o de tratamiento médico, consulta siempre la opinión de tu profesional de salud.</p>"
           }
+        },
+        "item_LN6H4b": {
+          "type": "item",
+          "settings": {
+            "title": "¿A partir de qué edad se pueden utilizar?",
+            "content": "<p>Los parches están reservados a los adultos mayores de <strong>18 años.</strong></p>"
+          }
         }
       },
       "block_order": [
@@ -573,7 +580,8 @@
         "166442457738b23caf-2",
         "item_nXkchd",
         "item_nCapQD",
-        "item_LjUtpW"
+        "item_LjUtpW",
+        "item_LN6H4b"
       ],
       "settings": {
         "full_width": false,
