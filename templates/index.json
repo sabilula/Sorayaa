@@ -293,6 +293,12 @@
             "liquid": "<div style=\"\n  text-align: center;\n  margin: 20px auto;\n  padding: 15px;\n  max-width: 400px;\n  font-family: 'Arial Black', sans-serif;\n\">\n\n  <div style=\"\n    font-size: 25px;\n    font-weight: bold;\n    color: red;\n    margin-bottom: 5px;\n    text-transform: uppercase;\n    letter-spacing: 1px;\n  \">\n     \n  </div>\n\n  <div id=\"blackBoldTimer\" style=\"\n    font-weight: 900;\n    color: red;\n    font-size: 50px;\n    font-family: 'Arial Black', sans-serif;\n    letter-spacing: 4px;\n  \">20:00:00</div>\n</div>\n\n<script>\n// Configuration du timer\nconst duration = 20 * 60; // 20 minutes en secondes\nlet secondsLeft = duration;\n\nfunction updateTimer() {\n  const hours = Math.floor(secondsLeft / 3600);\n  const minutes = Math.floor((secondsLeft % 3600) / 60);\n  const seconds = secondsLeft % 60;\n  \n  document.getElementById('blackBoldTimer').textContent = \n    `${hours.toString().padStart(2, '0')}:${minutes.toString().padStart(2, '0')}:${seconds.toString().padStart(2, '0')}`;\n  \n  if(secondsLeft <= 0) {\n    clearInterval(timerInterval);\n    document.getElementById('blackBoldTimer').textContent = \"00:00:00\";\n    return;\n  }\n  \n  secondsLeft--;\n}\n\nconst timerInterval = setInterval(updateTimer, 1000);\nupdateTimer(); // Appel initial\n</script>"
           }
         },
+        "kaching_bundles_app_block_r7zeDN": {
+          "type": "shopify://apps/kaching-bundles/blocks/app-block/6c637362-a106-4a32-94ac-94dcfd68cdb8",
+          "settings": {
+            "product": "{{section.settings.product}}"
+          }
+        },
         "buy-buttons": {
           "type": "buy_buttons",
           "settings": {
@@ -373,6 +379,7 @@
         "liquid_nh7UwW",
         "image_yVzwjE",
         "liquid_cTQTq6",
+        "kaching_bundles_app_block_r7zeDN",
         "buy-buttons",
         "image_XwtbBh",
         "image_eKMz3W",
