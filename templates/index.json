@@ -239,6 +239,18 @@
     "testimonials_ygkPMe": {
       "type": "testimonials",
       "blocks": {
+        "slide_hX9xJp": {
+          "type": "slide",
+          "settings": {
+            "media_style": "image",
+            "image": "shopify://shop_images/Capture_d_ecran_2025-07-19_a_22.25.38.png",
+            "video_url": "",
+            "controls": false,
+            "stars_count": 5,
+            "text": "<p>Exbulímica, por fin siento que estoy recuperando el control. Me siento más estable desde que los uso.</p>",
+            "author": "<p><strong>Carmen, C</strong></p>"
+          }
+        },
         "slide_LkKw6D": {
           "type": "slide",
           "settings": {
@@ -275,27 +287,16 @@
             "author": "<p><strong>Pedro, G</strong></p>"
           }
         },
-        "slide_hX9xJp": {
-          "type": "slide",
-          "settings": {
-            "media_style": "image",
-            "image": "shopify://shop_images/Capture_d_ecran_2025-07-19_a_22.25.38.png",
-            "video_url": "",
-            "controls": false,
-            "stars_count": 5,
-            "text": "<p>Exbulímica, por fin siento que estoy recuperando el control. Me siento más estable desde que los uso.</p>",
-            "author": "<p><strong>Carmen, C</strong></p>"
-          }
-        },
         "slide_XFdjQq": {
           "type": "slide",
           "settings": {
             "media_style": "image",
+            "image": "shopify://shop_images/avant-apres-2-1440x1440.png",
             "video_url": "https://www.youtube.com/watch?v=_9VUPq3SxOc",
             "controls": false,
             "stars_count": 5,
-            "text": "<p>The cordless lamp you've been looking for!</p>",
-            "author": "<p><strong>@lacey</strong></p>"
+            "text": "<p>¡Tenía muchos trastornos alimenticios y estos parches me han salvado!</p>",
+            "author": "<p><strong>Ana, F</strong></p>"
           }
         },
         "slide_c9MhQY": {
@@ -322,10 +323,10 @@
         }
       },
       "block_order": [
+        "slide_hX9xJp",
         "slide_LkKw6D",
         "slide_w9pA67",
         "slide_dmXTkN",
-        "slide_hX9xJp",
         "slide_XFdjQq",
         "slide_c9MhQY",
         "slide_aJhX3c"
