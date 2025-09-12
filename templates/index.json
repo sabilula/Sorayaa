@@ -544,12 +544,20 @@
             "title": "¿Puedo llevar varios parches al mismo tiempo?",
             "content": "<p>No, un solo parche al día es suficiente. Cada parche está formulado para liberar sus activos de forma continua durante 24 horas, sin sobrecargar el organismo.</p>"
           }
+        },
+        "item_nXkchd": {
+          "type": "item",
+          "settings": {
+            "title": "¿Está comprobado?",
+            "content": "<p>¡Sí! El GLP-1 es bien conocido en medicina y se utiliza en tratamientos contra la obesidad. Nuestros parches se apoyan en este mecanismo, en <strong>versión botánica</strong>, a base de plantas como la <strong>berberina</strong>, el <strong>cromo </strong>y la <strong>canela</strong>.</p>"
+          }
         }
       },
       "block_order": [
         "166442457738b23caf-0",
         "166442457738b23caf-1",
-        "166442457738b23caf-2"
+        "166442457738b23caf-2",
+        "item_nXkchd"
       ],
       "settings": {
         "full_width": false,
