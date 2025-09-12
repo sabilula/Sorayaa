@@ -193,10 +193,11 @@
         "item_eCtwYU": {
           "type": "item",
           "settings": {
+            "image": "shopify://shop_images/6391efe20ee9dba06e636207cd44c5be.jpg",
             "column_size": "3",
-            "title": "Column title",
+            "title": "",
             "heading_tag": "h4",
-            "content": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
+            "content": "<p><em>Perdido 7 kg en un mes. Ya no tengo ganas de picar entre comidas.</em></p><p><strong>Pedro, G</strong></p>",
             "link_url": "",
             "link_text": "",
             "link_style": "link"
