@@ -303,11 +303,12 @@
           "type": "slide",
           "settings": {
             "media_style": "image",
+            "image": "shopify://shop_images/challenge-perte-poids-homme-1.webp",
             "video_url": "https://www.youtube.com/watch?v=_9VUPq3SxOc",
             "controls": false,
             "stars_count": 5,
-            "text": "<p>All my friends want them too now, at least I was the first one to get them..!</p>",
-            "author": "<p><strong>@mcqueen</strong></p>"
+            "text": "<p>Estoy alucinada... he desinflamado mi vientre en solo 10 días!</p>",
+            "author": "<p><strong>Miguel, O</strong></p>"
           }
         },
         "slide_aJhX3c": {
