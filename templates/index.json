@@ -346,18 +346,6 @@
             "text": "<p>Los parches me ayudan a calmarme, a escuchar mi hambre.</p>",
             "author": "<p><strong>Yasmina, B</strong></p>"
           }
-        },
-        "slide_PELGDc": {
-          "type": "slide",
-          "settings": {
-            "media_style": "image",
-            "image": "shopify://shop_images/ChatGPT_Image_15_juil._2025_a_00_03_55_1fa186fb-5851-4604-8563-ce84a86220b9.png",
-            "video_url": "https://www.youtube.com/watch?v=_9VUPq3SxOc",
-            "controls": false,
-            "stars_count": 5,
-            "text": "<p>En 4 meses me he transformado!</p>",
-            "author": "<p><strong>Clara, M</strong></p>"
-          }
         }
       },
       "block_order": [
@@ -369,8 +357,7 @@
         "slide_c9MhQY",
         "slide_aJhX3c",
         "slide_96QKda",
-        "slide_KyX7AP",
-        "slide_PELGDc"
+        "slide_KyX7AP"
       ],
       "disabled": true,
       "name": "SS - Testimonials #12",
