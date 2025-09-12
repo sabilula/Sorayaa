@@ -551,13 +551,29 @@
             "title": "¿Está comprobado?",
             "content": "<p>¡Sí! El GLP-1 es bien conocido en medicina y se utiliza en tratamientos contra la obesidad. Nuestros parches se apoyan en este mecanismo, en <strong>versión botánica</strong>, a base de plantas como la <strong>berberina</strong>, el <strong>cromo </strong>y la <strong>canela</strong>.</p>"
           }
+        },
+        "item_nCapQD": {
+          "type": "item",
+          "settings": {
+            "title": "¿Puedo usarlo junto con otros parches o complementos?",
+            "content": "<p>Nuestros parches son compatibles con la mayoría de los complementos naturales.<br/>Si sigues un tratamiento médico específico, consulta a tu médico.</p>"
+          }
+        },
+        "item_LjUtpW": {
+          "type": "item",
+          "settings": {
+            "title": "¿Es adecuado para diabéticos?",
+            "content": "<p>Nuestros parches no influyen en la producción de insulina, pero en caso de diabetes o de tratamiento médico, consulta siempre la opinión de tu profesional de salud.</p>"
+          }
         }
       },
       "block_order": [
         "166442457738b23caf-0",
         "166442457738b23caf-1",
         "166442457738b23caf-2",
-        "item_nXkchd"
+        "item_nXkchd",
+        "item_nCapQD",
+        "item_LjUtpW"
       ],
       "settings": {
         "full_width": false,
