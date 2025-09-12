@@ -184,7 +184,7 @@
             "column_size": "3",
             "title": "",
             "heading_tag": "h4",
-            "content": "<p>Nunca podré agradecerles lo suficiente... he cambiado mi vida por completo! Resultado después de 9 meses de tratamiento.</p><p><strong>Lucía, G</strong></p>",
+            "content": "<p><em>Nunca podré agradecerles lo suficiente... he cambiado mi vida por completo! Resultado después de 9 meses de tratamiento.</em></p><p><strong>Lucía, G</strong></p>",
             "link_url": "",
             "link_text": "",
             "link_style": "link"
@@ -221,7 +221,6 @@
         "item_eCtwYU",
         "item_HHactX"
       ],
-      "disabled": true,
       "name": "Multi-column",
       "settings": {
         "full_width": true,
