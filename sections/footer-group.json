@@ -52,26 +52,12 @@
             "title": "Servicio al cliente 7/7",
             "content": ""
           }
-        },
-        "payment": {
-          "type": "item",
-          "settings": {
-            "icon": "picto-lock",
-            "mobile_icon_width": 24,
-            "icon_width": 24,
-            "icon_background_type": "none",
-            "icon_background": "#b55a68",
-            "icon_color": "#ffffff",
-            "title": "Pago seguro",
-            "content": ""
-          }
         }
       },
       "block_order": [
         "free-shipping",
         "customer-support",
-        "discount",
-        "payment"
+        "discount"
       ],
       "settings": {
         "full_width": true,
