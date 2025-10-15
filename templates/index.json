@@ -21,6 +21,7 @@
         },
         "heading_HQ8WWU": {
           "type": "heading",
+          "disabled": true,
           "settings": {
             "text": "Recupera el control de tu apetito, ¡Pierde peso de forma duradera!",
             "heading_tag": "h4"
@@ -38,7 +39,7 @@
         "enable_parallax": false,
         "image_size": "auto",
         "image": "shopify://shop_images/Copie_de_Template_section_benefice-7.png",
-        "mobile_image": "shopify://shop_images/Capture_d_ecran_2025-10-13_a_14.12.31.png",
+        "mobile_image": "shopify://shop_images/Adelgaza_sin_esfuerzo_y_sin_volver_a_engordar.png",
         "mobile_text_position": "place-self-center text-center",
         "desktop_text_position": "sm:place-self-center sm:text-center",
         "text_color": "#ffffff",
