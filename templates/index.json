@@ -481,12 +481,6 @@
             "heading_tag": "h2"
           }
         },
-        "liquid_XBEr8x": {
-          "type": "liquid",
-          "settings": {
-            "liquid": "<style>\n  .stock-alert {\n    display: inline-flex;\n    align-items: center;\n    background-color: #f2f2f2;\n    border-radius: 10px;\n    padding: 6px 12px;\n    font-family: 'Poppins', Arial, sans-serif;\n    font-weight: bold;\n    font-size: 12px;\n    color: red;\n  }\n\n  .pulse-dot {\n    width: 12px;\n    height: 12px;\n    border-radius: 50%;\n    background-color: red;\n    margin-right: 10px;\n    box-shadow: 0 0 0 0 rgba(255, 0, 0, 0.7);\n    animation: pulse 1.5s infinite;\n  }\n\n  @keyframes pulse {\n    0% {\n      transform: scale(0.95);\n      box-shadow: 0 0 0 0 rgba(255, 0, 0, 0.7);\n    }\n    70% {\n      transform: scale(1);\n      box-shadow: 0 0 0 10px rgba(255, 0, 0, 0);\n    }\n    100% {\n      transform: scale(0.95);\n      box-shadow: 0 0 0 0 rgba(255, 0, 0, 0);\n    }\n  }\n</style>\n\n<div class=\"stock-alert\">\n  <div class=\"pulse-dot\"></div>\n  ¡ÚLTIMAS 8 UNIDADES!\n</div>"
-          }
-        },
         "separator": {
           "type": "separator",
           "settings": {}
@@ -507,8 +501,15 @@
         },
         "liquid_nh7UwW": {
           "type": "liquid",
+          "disabled": true,
           "settings": {
             "liquid": "<!-- Indicador de actividad -->\n<div style=\"\n  display: flex;\n  align-items: center;\n  gap: 8px;\n  padding: 10px 15px;\n  background: #f8f9fa;\n  border-left: 3px solid #00b67a;\n  border-radius: 4px;\n  font-family: 'Arial', sans-serif;\n  font-size: 13px;\n  color: #444;\n  margin: 15px 0;\n\">\n  <div style=\"\n    width: 8px;\n    height: 8px;\n    background: #00b67a;\n    border-radius: 50%;\n    animation: pulse 2s infinite;\n  \"></div>\n  <span id=\"activity-text\" style=\"transition: opacity 0.5s ease;\">5 personas están viendo este producto</span>\n</div>\n\n<style>\n@keyframes pulse {\n  0%, 100% { opacity: 1; }\n  50% { opacity: 0.3; }\n}\n</style>\n\n<script>\nconst messages = [\n  \"3 personas están viendo este producto\",\n  \"5 personas están viendo este producto\",\n  \"7 personas están viendo este producto\",\n  \"Se acaba de realizar una compra\",\n  \"Se acaba de hacer un pedido\",\n  \"6 personas están viendo este producto\",\n  \"Alguien acaba de añadir este producto a su carrito\"\n];\n\nlet index = 0;\nconst activityElement = document.getElementById('activity-text');\n\nfunction updateActivity() {\n  if (!activityElement) return;\n\n  // Efecto de desvanecimiento\n  activityElement.style.opacity = 0;\n  setTimeout(() => {\n    activityElement.textContent = messages[index];\n    activityElement.style.opacity = 1;\n    index = (index + 1) % messages.length;\n  }, 500);\n}\n\n// Intervalo natural entre 7 y 11 segundos\n(function loop() {\n  const delay = Math.random() * 4000 + 7000;\n  setTimeout(() => {\n    updateActivity();\n    loop();\n  }, delay);\n})();\n</script>"
+          }
+        },
+        "liquid_XBEr8x": {
+          "type": "liquid",
+          "settings": {
+            "liquid": "<style>\n  .stock-alert {\n    display: inline-flex;\n    align-items: center;\n    background-color: #f2f2f2;\n    border-radius: 10px;\n    padding: 6px 12px;\n    font-family: 'Poppins', Arial, sans-serif;\n    font-weight: bold;\n    font-size: 12px;\n    color: red;\n  }\n\n  .pulse-dot {\n    width: 12px;\n    height: 12px;\n    border-radius: 50%;\n    background-color: red;\n    margin-right: 10px;\n    box-shadow: 0 0 0 0 rgba(255, 0, 0, 0.7);\n    animation: pulse 1.5s infinite;\n  }\n\n  @keyframes pulse {\n    0% {\n      transform: scale(0.95);\n      box-shadow: 0 0 0 0 rgba(255, 0, 0, 0.7);\n    }\n    70% {\n      transform: scale(1);\n      box-shadow: 0 0 0 10px rgba(255, 0, 0, 0);\n    }\n    100% {\n      transform: scale(0.95);\n      box-shadow: 0 0 0 0 rgba(255, 0, 0, 0);\n    }\n  }\n</style>\n\n<div class=\"stock-alert\">\n  <div class=\"pulse-dot\"></div>\n  ¡ÚLTIMAS 8 UNIDADES!\n</div>"
           }
         },
         "kaching_bundles_app_block_r7zeDN": {
@@ -601,11 +602,11 @@
       "block_order": [
         "liquid_XCmwKb",
         "title",
-        "liquid_XBEr8x",
         "separator",
         "liquid_yTcUr9",
         "description",
         "liquid_nh7UwW",
+        "liquid_XBEr8x",
         "kaching_bundles_app_block_r7zeDN",
         "image_yVzwjE",
         "liquid_cTQTq6",
