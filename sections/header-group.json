@@ -20,33 +20,17 @@
             "text": "🔥SOLO HOY: -50 %",
             "url": ""
           }
-        },
-        "message_EwGrDF": {
-          "type": "message",
-          "settings": {
-            "text": "🎁 ¡ENTREGA GRATIS!",
-            "url": ""
-          }
-        },
-        "message_fGpnJL": {
-          "type": "message",
-          "settings": {
-            "text": "🇨🇭 FABRICADO EN SUIZA",
-            "url": ""
-          }
         }
       },
       "block_order": [
-        "message",
-        "message_EwGrDF",
-        "message_fGpnJL"
+        "message"
       ],
       "settings": {
         "enable_sticky": false,
         "autoplay": false,
         "cycle_speed": 6,
         "text_size": "text-xs",
-        "navigation_mode": "scrolling",
+        "navigation_mode": "arrows",
         "scrolling_speed": 10,
         "background": "#b55a68",
         "background_gradient": "",
