@@ -564,6 +564,14 @@
             "max_width": 500
           }
         },
+        "image_3EJ9Vf": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/Copie_de_Template_section_benefice_3.png",
+            "alignment": "start",
+            "max_width": 500
+          }
+        },
         "collapsible_text_iBmaT3": {
           "type": "collapsible_text",
           "settings": {
@@ -593,18 +601,6 @@
             "content": "<p>BERBERIS ARISTATA ROOT EXTRACT, PUNICA GRANATUM FRUIT EXTRACT, CINNAMOMUM ZEYLANICUM BARK EXTRACT, VITAMIN B1 (THIAMINE HYDROCHLORIDE), VITAMIN B2 (RIBOFLAVIN), VITAMIN B3 (NIACINAMIDE), VITAMIN B6 (PYRIDOXINE HYDROCHLORIDE), VITAMIN B9 (FOLIC ACID), VITAMIN B12 (CYANOCOBALAMIN), L-GLUTAMINE, CHROMIUM PICOLINATE</p>",
             "page": ""
           }
-        },
-        "text_CqXtDE": {
-          "type": "text",
-          "settings": {
-            "text": "<p><strong>¡Miles ya disfrutan de sus resultados!</strong></p>"
-          }
-        },
-        "liquid_gc8jBJ": {
-          "type": "liquid",
-          "settings": {
-            "liquid": "<div class=\"video-carousel-container\">\n  <button class=\"carousel-nav prev\" onclick=\"scrollCarousel(-1)\">\n    <svg width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n      <path d=\"M15 19L8 12L15 5\" stroke=\"black\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>\n    </svg>\n  </button>\n  <div class=\"video-grid\" id=\"videoCarousel\">\n    <div class=\"video-container\">\n      <video class=\"grid-video\" autoplay muted loop playsinline onclick=\"togglePlayPause(this)\">\n        <source src=\"https://cdn.shopify.com/videos/c/o/v/89868341a51e4ed1b348845d00789184.mov\" type=\"video/mp4\">\n        Votre navigateur ne supporte pas la lecture vidéo.\n      </video>\n    </div>\n    <div class=\"video-container\">\n      <video class=\"grid-video\" autoplay muted loop playsinline onclick=\"togglePlayPause(this)\">\n        <source src=\"https://cdn.shopify.com/videos/c/o/v/08409d58ca874faf841f9625476424cc.mov\" type=\"video/mp4\">\n        Votre navigateur ne supporte pas la lecture vidéo.\n      </video>\n    </div>\n    <div class=\"video-container\">\n      <video class=\"grid-video\" autoplay muted loop playsinline onclick=\"togglePlayPause(this)\">\n        <source src=\"https://cdn.shopify.com/videos/c/o/v/fd5a79f4bb1344b9b28a7d71dedcb194.mov\" type=\"video/mp4\">\n        Votre navigateur ne supporte pas la lecture vidéo.\n      </video>\n    </div>\n    <div class=\"video-container\">\n      <video class=\"grid-video\" autoplay muted loop playsinline onclick=\"togglePlayPause(this)\">\n        <source src=\"https://cdn.shopify.com/videos/c/o/v/477f0bf815894c0ab5b8fe4daad39a2d.mov\" type=\"video/mp4\">\n        Votre navigateur ne supporte pas la lecture vidéo.\n      </video>\n    </div>\n    <div class=\"video-container\">\n      <video class=\"grid-video\" autoplay muted loop playsinline onclick=\"togglePlayPause(this)\">\n        <source src=\"https://cdn.shopify.com/videos/c/o/v/32e018a4cf0e4454bca316173c1dbf99.mov\" type=\"video/mp4\">\n        Votre navigateur ne supporte pas la lecture vidéo.\n      </video>\n    </div>\n    <div class=\"video-container\">\n      <video class=\"grid-video\" autoplay muted loop playsinline onclick=\"togglePlayPause(this)\">\n        <source src=\"https://cdn.shopify.com/videos/c/o/v/e178ae6fb4924d6bb41e712b5eab5a50.mov\" type=\"video/mp4\">\n        Votre navigateur ne supporte pas la lecture vidéo.\n      </video>\n    </div>\n    <div class=\"video-container\">\n      <video class=\"grid-video\" autoplay muted loop playsinline onclick=\"togglePlayPause(this)\">\n        <source src=\"https://cdn.shopify.com/videos/c/o/v/f4f6d7bef4364756969be9da3c232bc7.mov\" type=\"video/mp4\">\n        Votre navigateur ne supporte pas la lecture vidéo.\n      </video>\n    </div>\n    <div class=\"video-container\">\n      <video class=\"grid-video\" autoplay muted loop playsinline onclick=\"togglePlayPause(this)\">\n        <source src=\"https://cdn.shopify.com/videos/c/o/v/f0497917eb2b47118dfb710de91dee64.mov\" type=\"video/mp4\">\n        Votre navigateur ne supporte pas la lecture vidéo.\n      </video>\n    </div>\n    <div class=\"video-container\">\n      <video class=\"grid-video\" autoplay muted loop playsinline onclick=\"togglePlayPause(this)\">\n        <source src=\"https://cdn.shopify.com/videos/c/o/v/46e9d5671f844f8c92b19fe689b9daa1.mov\" type=\"video/mp4\">\n        Votre navigateur ne supporte pas la lecture vidéo.\n      </video>\n    </div>\n    <div class=\"video-container\">\n      <video class=\"grid-video\" autoplay muted loop playsinline onclick=\"togglePlayPause(this)\">\n        <source src=\"https://cdn.shopify.com/videos/c/o/v/37628e303ef34005b77e75ad8887a99f.mov\" type=\"video/mp4\">\n        Votre navigateur ne supporte pas la lecture vidéo.\n      </video>\n    </div>\n    <div class=\"video-container\">\n      <video class=\"grid-video\" autoplay muted loop playsinline onclick=\"togglePlayPause(this)\">\n        <source src=\"https://cdn.shopify.com/videos/c/o/v/c005d785ccec4b8eaa3d64faa8a3ba80.mp4\" type=\"video/mp4\">\n        Votre navigateur ne supporte pas la lecture vidéo.\n      </video>\n    </div>\n    <div class=\"video-container\">\n      <video class=\"grid-video\" autoplay muted loop playsinline onclick=\"togglePlayPause(this)\">\n        <source src=\"https://cdn.shopify.com/videos/c/o/v/5bab72b07fa545669d8170a72e0fb5c8.mov\" type=\"video/mp4\">\n        Votre navigateur ne supporte pas la lecture vidéo.\n      </video>\n    </div>\n  </div>\n  <button class=\"carousel-nav next\" onclick=\"scrollCarousel(1)\">\n    <svg width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n      <path d=\"M9 5L16 12L9 19\" stroke=\"black\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>\n    </svg>\n  </button>\n</div>\n\n<style>\n  .video-carousel-container {\n    position: relative;\n    display: flex;\n    align-items: center;\n    max-width: 900px;\n    margin: auto;\n  }\n  \n  .video-grid {\n    display: flex;\n    gap: 20px;\n    width: 900px;\n    overflow: hidden;\n  }\n  \n  .video-container {\n    flex: 0 0 auto;\n  }\n  \n  .grid-video {\n    width: 280px;\n    height: 320px;\n    object-fit: cover;\n    border-radius: 8px;\n    cursor: pointer;\n  }\n  \n  .carousel-nav {\n    background-color: rgba(255, 255, 255, 0.8);\n    border: none;\n    border-radius: 50%;\n    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.2);\n    cursor: pointer;\n    position: absolute;\n    top: 50%;\n    transform: translateY(-50%);\n    z-index: 1;\n    padding: 10px;\n  }\n  \n  .carousel-nav.prev {\n    left: -20px;\n  }\n  \n  .carousel-nav.next {\n    right: -20px;\n  }\n\n  .carousel-nav svg {\n    width: 24px;\n    height: 24px;\n  }\n\n  @media (max-width: 768px) {\n    .video-grid {\n      gap: 10px;\n      overflow-x: scroll;\n      scroll-snap-type: x mandatory;\n      -webkit-overflow-scrolling: touch;\n    }\n    \n    .video-container {\n      scroll-snap-align: start;\n    }\n    \n    .grid-video {\n      width: 45vw;\n      height: 80vw;\n    }\n    \n    .carousel-nav {\n      display: none;\n    }\n  }\n</style>\n\n<script>\n  function togglePlayPause(videoElement) {\n    if (videoElement.paused) {\n      const videos = document.querySelectorAll('.grid-video');\n      videos.forEach(video => {\n        if (video !== videoElement) {\n          video.pause();\n          video.muted = true;\n        }\n      });\n      videoElement.muted = false;\n      videoElement.play();\n    } else {\n      videoElement.pause();\n    }\n  }\n\n  function scrollCarousel(direction) {\n    const carousel = document.getElementById('videoCarousel');\n    const scrollAmount = 300;\n    if (direction === 1) {\n      carousel.appendChild(carousel.firstElementChild);\n    } else {\n      carousel.insertBefore(carousel.lastElementChild, carousel.firstElementChild);\n    }\n  }\n</script>"
-          }
         }
       },
       "block_order": [
@@ -622,11 +618,10 @@
         "image_XwtbBh",
         "liquid_aQxCDk",
         "image_eKMz3W",
+        "image_3EJ9Vf",
         "collapsible_text_iBmaT3",
         "collapsible_text_kMU4gA",
-        "collapsible_text_Kw73m4",
-        "text_CqXtDE",
-        "liquid_gc8jBJ"
+        "collapsible_text_Kw73m4"
       ],
       "settings": {
         "full_width": false,
@@ -646,20 +641,6 @@
         "input_text_color": ""
       }
     },
-    "custom_liquid_fKYmaE": {
-      "type": "custom-liquid",
-      "disabled": true,
-      "name": "Custom Liquid",
-      "settings": {
-        "full_width": true,
-        "remove_vertical_spacing": false,
-        "remove_horizontal_spacing": false,
-        "liquid": "<style>\n.video-carousel-container {\n  width: 100%;\n  overflow: hidden;\n  position: relative;\n  margin-top: 0px; \n  margin-bottom: 0px; \n}\n\n.video-carousel-track {\n  display: flex;\n  gap: 15px; \n  overflow-x: scroll; \n  scroll-snap-type: x mandatory; \n  padding: 10px;\n  -webkit-overflow-scrolling: touch; \n}\n\n.video-carousel-track::-webkit-scrollbar {\n  display: none; \n}\n\n.video-carousel-item {\n  flex-shrink: 0;\n  width: 200px; \n  height: 350px; \n  border-radius: 10px; \n  overflow: hidden;\n  scroll-snap-align: start; /* Alignement précis pour chaque vidéo */\n  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);\n}\n\n.video-carousel-item video {\n  width: 100%;\n  height: 100%;\n  object-fit: cover; \n  pointer-events: none;\n}\n</style>\n\n<div class=\"video-carousel-container\">\n  <div class=\"video-carousel-track\">\n    <!-- Vidéos -->\n<div class=\"video-carousel-item\">\n      <video src=\"https://cdn.shopify.com/votre-lien.mp4\" muted autoplay loop playsinline></video>\n    </div>\n    <div class=\"video-carousel-item\">\n \n      <video src=\"https://cdn.shopify.com/votre-lien.mp4\" muted autoplay loop playsinline></video>\n    </div>\n    <div class=\"video-carousel-item\">\n      <video src=\"https://cdn.shopify.com/votre-lien.mp4\" muted autoplay loop playsinline></video>\n\n    </div>\n\n\n  </div>\n</div>",
-        "background": "",
-        "background_gradient": "",
-        "text_color": ""
-      }
-    },
     "image_with_text_overlay_m6NWwM": {
       "type": "image-with-text-overlay",
       "settings": {
@@ -676,20 +657,43 @@
         "overlay_opacity": 0
       }
     },
-    "image_with_text_overlay_dAmfqA": {
-      "type": "image-with-text-overlay",
+    "rich_text_anQRjX": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_RWB8Ey": {
+          "type": "heading",
+          "settings": {
+            "text": "¡Miles ya disfrutan de sus resultados!",
+            "heading_tag": "h3",
+            "text_color": "",
+            "gradient": ""
+          }
+        }
+      },
+      "block_order": [
+        "heading_RWB8Ey"
+      ],
+      "name": "Rich text",
       "settings": {
         "full_width": true,
-        "allow_transparent_header": false,
-        "enable_parallax": false,
-        "image_size": "auto",
-        "image": "shopify://shop_images/Copie_de_Template_section_benefice_3.png",
-        "mobile_image": "shopify://shop_images/Copie_de_Template_section_benefice_3.png",
-        "mobile_text_position": "place-self-center text-center",
-        "desktop_text_position": "sm:place-self-center sm:text-center",
-        "text_color": "#ffffff",
-        "overlay_color": "#000000",
-        "overlay_opacity": 0
+        "content_width": "small",
+        "text_position": "center",
+        "background": "",
+        "background_gradient": "",
+        "text_color": ""
+      }
+    },
+    "custom_liquid_FyfJm4": {
+      "type": "custom-liquid",
+      "name": "Custom Liquid",
+      "settings": {
+        "full_width": true,
+        "remove_vertical_spacing": false,
+        "remove_horizontal_spacing": false,
+        "liquid": "<div class=\"video-carousel-container\">\n  <button class=\"carousel-nav prev\" onclick=\"scrollCarousel(-1)\">\n    <svg width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n      <path d=\"M15 19L8 12L15 5\" stroke=\"black\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>\n    </svg>\n  </button>\n  <div class=\"video-grid\" id=\"videoCarousel\">\n    <div class=\"video-container\">\n      <video class=\"grid-video\" autoplay muted loop playsinline onclick=\"togglePlayPause(this)\">\n        <source src=\"https://cdn.shopify.com/videos/c/o/v/89868341a51e4ed1b348845d00789184.mov\" type=\"video/mp4\">\n        Votre navigateur ne supporte pas la lecture vidéo.\n      </video>\n    </div>\n    <div class=\"video-container\">\n      <video class=\"grid-video\" autoplay muted loop playsinline onclick=\"togglePlayPause(this)\">\n        <source src=\"https://cdn.shopify.com/videos/c/o/v/08409d58ca874faf841f9625476424cc.mov\" type=\"video/mp4\">\n        Votre navigateur ne supporte pas la lecture vidéo.\n      </video>\n    </div>\n    <div class=\"video-container\">\n      <video class=\"grid-video\" autoplay muted loop playsinline onclick=\"togglePlayPause(this)\">\n        <source src=\"https://cdn.shopify.com/videos/c/o/v/fd5a79f4bb1344b9b28a7d71dedcb194.mov\" type=\"video/mp4\">\n        Votre navigateur ne supporte pas la lecture vidéo.\n      </video>\n    </div>\n    <div class=\"video-container\">\n      <video class=\"grid-video\" autoplay muted loop playsinline onclick=\"togglePlayPause(this)\">\n        <source src=\"https://cdn.shopify.com/videos/c/o/v/477f0bf815894c0ab5b8fe4daad39a2d.mov\" type=\"video/mp4\">\n        Votre navigateur ne supporte pas la lecture vidéo.\n      </video>\n    </div>\n    <div class=\"video-container\">\n      <video class=\"grid-video\" autoplay muted loop playsinline onclick=\"togglePlayPause(this)\">\n        <source src=\"https://cdn.shopify.com/videos/c/o/v/32e018a4cf0e4454bca316173c1dbf99.mov\" type=\"video/mp4\">\n        Votre navigateur ne supporte pas la lecture vidéo.\n      </video>\n    </div>\n    <div class=\"video-container\">\n      <video class=\"grid-video\" autoplay muted loop playsinline onclick=\"togglePlayPause(this)\">\n        <source src=\"https://cdn.shopify.com/videos/c/o/v/e178ae6fb4924d6bb41e712b5eab5a50.mov\" type=\"video/mp4\">\n        Votre navigateur ne supporte pas la lecture vidéo.\n      </video>\n    </div>\n    <div class=\"video-container\">\n      <video class=\"grid-video\" autoplay muted loop playsinline onclick=\"togglePlayPause(this)\">\n        <source src=\"https://cdn.shopify.com/videos/c/o/v/f4f6d7bef4364756969be9da3c232bc7.mov\" type=\"video/mp4\">\n        Votre navigateur ne supporte pas la lecture vidéo.\n      </video>\n    </div>\n    <div class=\"video-container\">\n      <video class=\"grid-video\" autoplay muted loop playsinline onclick=\"togglePlayPause(this)\">\n        <source src=\"https://cdn.shopify.com/videos/c/o/v/f0497917eb2b47118dfb710de91dee64.mov\" type=\"video/mp4\">\n        Votre navigateur ne supporte pas la lecture vidéo.\n      </video>\n    </div>\n    <div class=\"video-container\">\n      <video class=\"grid-video\" autoplay muted loop playsinline onclick=\"togglePlayPause(this)\">\n        <source src=\"https://cdn.shopify.com/videos/c/o/v/46e9d5671f844f8c92b19fe689b9daa1.mov\" type=\"video/mp4\">\n        Votre navigateur ne supporte pas la lecture vidéo.\n      </video>\n    </div>\n    <div class=\"video-container\">\n      <video class=\"grid-video\" autoplay muted loop playsinline onclick=\"togglePlayPause(this)\">\n        <source src=\"https://cdn.shopify.com/videos/c/o/v/37628e303ef34005b77e75ad8887a99f.mov\" type=\"video/mp4\">\n        Votre navigateur ne supporte pas la lecture vidéo.\n      </video>\n    </div>\n    <div class=\"video-container\">\n      <video class=\"grid-video\" autoplay muted loop playsinline onclick=\"togglePlayPause(this)\">\n        <source src=\"https://cdn.shopify.com/videos/c/o/v/c005d785ccec4b8eaa3d64faa8a3ba80.mp4\" type=\"video/mp4\">\n        Votre navigateur ne supporte pas la lecture vidéo.\n      </video>\n    </div>\n    <div class=\"video-container\">\n      <video class=\"grid-video\" autoplay muted loop playsinline onclick=\"togglePlayPause(this)\">\n        <source src=\"https://cdn.shopify.com/videos/c/o/v/5bab72b07fa545669d8170a72e0fb5c8.mov\" type=\"video/mp4\">\n        Votre navigateur ne supporte pas la lecture vidéo.\n      </video>\n    </div>\n  </div>\n  <button class=\"carousel-nav next\" onclick=\"scrollCarousel(1)\">\n    <svg width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n      <path d=\"M9 5L16 12L9 19\" stroke=\"black\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>\n    </svg>\n  </button>\n</div>\n\n<style>\n  .video-carousel-container {\n    position: relative;\n    display: flex;\n    align-items: center;\n    max-width: 900px;\n    margin: auto;\n  }\n  \n  .video-grid {\n    display: flex;\n    gap: 20px;\n    width: 900px;\n    overflow: hidden;\n  }\n  \n  .video-container {\n    flex: 0 0 auto;\n  }\n  \n  .grid-video {\n    width: 280px;\n    height: 320px;\n    object-fit: cover;\n    border-radius: 8px;\n    cursor: pointer;\n  }\n  \n  .carousel-nav {\n    background-color: rgba(255, 255, 255, 0.8);\n    border: none;\n    border-radius: 50%;\n    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.2);\n    cursor: pointer;\n    position: absolute;\n    top: 50%;\n    transform: translateY(-50%);\n    z-index: 1;\n    padding: 10px;\n  }\n  \n  .carousel-nav.prev {\n    left: -20px;\n  }\n  \n  .carousel-nav.next {\n    right: -20px;\n  }\n\n  .carousel-nav svg {\n    width: 24px;\n    height: 24px;\n  }\n\n  @media (max-width: 768px) {\n    .video-grid {\n      gap: 10px;\n      overflow-x: scroll;\n      scroll-snap-type: x mandatory;\n      -webkit-overflow-scrolling: touch;\n    }\n    \n    .video-container {\n      scroll-snap-align: start;\n    }\n    \n    .grid-video {\n      width: 45vw;\n      height: 80vw;\n    }\n    \n    .carousel-nav {\n      display: none;\n    }\n  }\n</style>\n\n<script>\n  function togglePlayPause(videoElement) {\n    if (videoElement.paused) {\n      const videos = document.querySelectorAll('.grid-video');\n      videos.forEach(video => {\n        if (video !== videoElement) {\n          video.pause();\n          video.muted = true;\n        }\n      });\n      videoElement.muted = false;\n      videoElement.play();\n    } else {\n      videoElement.pause();\n    }\n  }\n\n  function scrollCarousel(direction) {\n    const carousel = document.getElementById('videoCarousel');\n    const scrollAmount = 300;\n    if (direction === 1) {\n      carousel.appendChild(carousel.firstElementChild);\n    } else {\n      carousel.insertBefore(carousel.lastElementChild, carousel.firstElementChild);\n    }\n  }\n</script>",
+        "background": "",
+        "background_gradient": "",
+        "text_color": ""
       }
     },
     "multi_column_GwJhG9": {
@@ -862,9 +866,9 @@
     "multi_column_8eyRjQ",
     "testimonials_ygkPMe",
     "featured-product",
-    "custom_liquid_fKYmaE",
     "image_with_text_overlay_m6NWwM",
-    "image_with_text_overlay_dAmfqA",
+    "rich_text_anQRjX",
+    "custom_liquid_FyfJm4",
     "multi_column_GwJhG9",
     "image_with_text_overlay_4EjiMX",
     "faq"
