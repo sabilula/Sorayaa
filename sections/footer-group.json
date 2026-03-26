@@ -21,9 +21,9 @@
             "mobile_icon_width": 24,
             "icon_width": 24,
             "icon_background_type": "circle",
-            "icon_background": "#b55a68",
+            "icon_background": "#223547",
             "icon_color": "#ffffff",
-            "title": "Envío gratuito",
+            "title": "Spedizione gratuita",
             "content": ""
           }
         },
@@ -34,9 +34,9 @@
             "mobile_icon_width": 24,
             "icon_width": 24,
             "icon_background_type": "circle",
-            "icon_background": "#b55a68",
+            "icon_background": "#223547",
             "icon_color": "#ffffff",
-            "title": "Satisfecho y reembolsado",
+            "title": "Soddisfatti o rimborsati",
             "content": ""
           }
         },
@@ -47,9 +47,9 @@
             "mobile_icon_width": 24,
             "icon_width": 24,
             "icon_background_type": "circle",
-            "icon_background": "#b55a68",
+            "icon_background": "#223547",
             "icon_color": "#ffffff",
-            "title": "Servicio al cliente 7/7",
+            "title": "Servizio clienti 7 giorni su 7",
             "content": ""
           }
         }
