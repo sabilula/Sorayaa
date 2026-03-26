@@ -79,7 +79,7 @@
           "settings": {
             "image_width": 150,
             "heading_size": "h3",
-            "title": "Suscríbete a nuestra newsletter",
+            "title": "Iscriviti alla nostra newsletter",
             "content": ""
           }
         },
@@ -88,7 +88,7 @@
           "settings": {
             "title": "Contacto",
             "content": "<p><strong>Servizio clienti: </strong><a href=\"mailto:boostplus.team@gmail.com\"><strong>boostplus.team@gmail.com</strong></a></p>",
-            "enable_follow_on_shop": true
+            "enable_follow_on_shop": false
           }
         },
         "text_HymchD": {
@@ -96,7 +96,7 @@
           "settings": {
             "title": "Orari di assistenza:",
             "content": "<p><strong>Lunedì – Venerdì:</strong> 9:00 – 12:00 / 13:00 – 18:00<br/><br/><strong>Sabato – Domenica:</strong> 10:00 – 12:00</p><p><strong>Risposta garantita entro 12 ore.</strong></p>",
-            "enable_follow_on_shop": true
+            "enable_follow_on_shop": false
           }
         }
       },
