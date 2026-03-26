@@ -14,15 +14,23 @@
     "announcement-bar": {
       "type": "announcement-bar",
       "blocks": {
+        "message_BzKRyc": {
+          "type": "message",
+          "settings": {
+            "text": "GARANZIA 30 GIORNI",
+            "url": ""
+          }
+        },
         "message": {
           "type": "message",
           "settings": {
-            "text": "🔥SOLO HOY: -50 %",
+            "text": "🐣 OFFERTA DI PASQUA: L’offerta termina stasera!",
             "url": ""
           }
         }
       },
       "block_order": [
+        "message_BzKRyc",
         "message"
       ],
       "settings": {
@@ -32,7 +40,7 @@
         "text_size": "text-xs",
         "navigation_mode": "arrows",
         "scrolling_speed": 10,
-        "background": "#b55a68",
+        "background": "#223547",
         "background_gradient": "",
         "text_color": "#ffffff"
       }
