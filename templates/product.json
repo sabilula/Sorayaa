@@ -310,11 +310,12 @@
           "type": "slide",
           "settings": {
             "media_style": "image",
+            "image": "shopify://shop_images/Richard-gere-credit-instagram.jpg",
             "video_url": "https://www.youtube.com/watch?v=_9VUPq3SxOc",
             "controls": false,
             "stars_count": 5,
-            "text": "<p>Our kids bring them everywhere, specially when doing puzzles and drawings</p>",
-            "author": "<p><strong>@theworldisyours</strong></p>"
+            "text": "<p><em>« Non avrei mai pensato di poter soddisfare mia moglie così. Da quando uso VigorMax, riesco ad andare 2-3 volte al giorno senza problemi. Lei è raggiante, mi dice che non si è mai sentita così appagata in vita sua. L'altro ieri mi ha guardato e mi ha detto : \"non smettere mai\". Quello sguardo vale tutto. »</em></p>",
+            "author": "<p><strong>@Stefano</strong></p>"
           }
         },
         "slide_EbEDmR": {
