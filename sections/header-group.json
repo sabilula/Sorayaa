@@ -50,9 +50,9 @@
       "settings": {
         "enable_sticky": true,
         "hide_on_scroll": false,
-        "logo": "shopify://shop_images/Copie_de_Template_section_benefice-15_7d9f2b7a-2850-441e-a2a6-e94857050d28.png",
-        "logo_max_width": 120,
-        "logo_mobile_max_width": 100,
+        "logo": "shopify://shop_images/BOHARDI_TRANSPARENT_copie.png",
+        "logo_max_width": 280,
+        "logo_mobile_max_width": 170,
         "menu": "main-menu",
         "sidebar_menu": "",
         "secondary_menu": "",
