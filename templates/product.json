@@ -294,18 +294,6 @@
     "testimonials_FXCdNy": {
       "type": "testimonials",
       "blocks": {
-        "slide_Jwnt83": {
-          "type": "slide",
-          "settings": {
-            "media_style": "image",
-            "image": "shopify://shop_images/Screenshot_2026-03-26_at_21.41.39.png",
-            "video_url": "https://www.youtube.com/watch?v=_9VUPq3SxOc",
-            "controls": false,
-            "stars_count": 5,
-            "text": "<p><em>\"Non mi aspettavo che funzionasse così in fretta. In meno di un minuto, ero duro come il legno e pieno di fiducia in me stesso. Era una sensazione che mi mancava da anni.\"</em></p>",
-            "author": "<p><strong>@Marco</strong></p>"
-          }
-        },
         "slide_aaeLJb": {
           "type": "slide",
           "settings": {
@@ -316,6 +304,18 @@
             "stars_count": 5,
             "text": "<p><em>« Non avrei mai pensato di poter soddisfare mia moglie così. Da quando uso VigorMax, riesco ad andare 2-3 volte al giorno senza problemi. Lei è raggiante, mi dice che non si è mai sentita così appagata in vita sua. L'altro ieri mi ha guardato e mi ha detto : \"non smettere mai\". Quello sguardo vale tutto. »</em></p>",
             "author": "<p><strong>@Stefano</strong></p>"
+          }
+        },
+        "slide_Jwnt83": {
+          "type": "slide",
+          "settings": {
+            "media_style": "image",
+            "image": "shopify://shop_images/Screenshot_2026-03-26_at_21.41.39.png",
+            "video_url": "https://www.youtube.com/watch?v=_9VUPq3SxOc",
+            "controls": false,
+            "stars_count": 5,
+            "text": "<p><em>\"Non mi aspettavo che funzionasse così in fretta. In meno di un minuto, ero duro come il legno e pieno di fiducia in me stesso. Era una sensazione che mi mancava da anni.\"</em></p>",
+            "author": "<p><strong>@Marco</strong></p>"
           }
         },
         "slide_EbEDmR": {
@@ -375,8 +375,8 @@
         }
       },
       "block_order": [
-        "slide_Jwnt83",
         "slide_aaeLJb",
+        "slide_Jwnt83",
         "slide_EbEDmR",
         "slide_YHVhX6",
         "slide_48ypch",
