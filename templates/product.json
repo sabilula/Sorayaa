@@ -255,6 +255,40 @@
         "text_color": ""
       }
     },
+    "multi_column_BMcJih": {
+      "type": "multi-column",
+      "blocks": {
+        "item_dRVgpN": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/ChatGPT_Image_26_mars_2026_18_51_06_39016abf-b8d4-4b19-9211-222ae6be0b9d.png",
+            "column_size": "3",
+            "title": "Come usare VigorMax™ per ottenere i migliori risultati:",
+            "heading_tag": "h3",
+            "content": "<p>Le tue <strong>prestazioni a letto</strong> dicono molto più di quanto pensi. Mostrano come ti senti: se sei <strong>pieno di fiducia, forza e controllo</strong>, oppure se ti senti insicuro e deluso. Ma un’<strong>erezione debole</strong> o <strong>di breve durata</strong> spesso comunica qualcosa di completamente diverso da ciò che sei davvero.</p><p>VigorMax™ è stato appositamente formulato per <strong>eliminare questa insicurezza</strong> e restituirti tutta la tua potenza. Ti garantisce <strong>erezione dure e potenti in soli 43 secondi</strong>, senza pillole, senza stress e senza momenti imbarazzanti.</p><p>Solo rapido, potente e senza sforzo.</p>",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        }
+      },
+      "block_order": [
+        "item_dRVgpN"
+      ],
+      "name": "Multi-column",
+      "settings": {
+        "full_width": true,
+        "stack_on_mobile": true,
+        "gap": "medium",
+        "text_alignment": "start",
+        "subheading": "",
+        "title": "",
+        "content": "",
+        "background": "",
+        "background_gradient": "",
+        "text_color": ""
+      }
+    },
     "related-products": {
       "type": "related-products",
       "settings": {
@@ -285,6 +319,7 @@
     "multi_column_YHRUCR",
     "multi_column_EeJHVR",
     "multi_column_wyqCKB",
+    "multi_column_BMcJih",
     "related-products"
   ]
 }
