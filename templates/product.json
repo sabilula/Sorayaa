@@ -187,6 +187,40 @@
         "text_color": ""
       }
     },
+    "multi_column_EeJHVR": {
+      "type": "multi-column",
+      "blocks": {
+        "item_izntUc": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/IMG_1602.webp",
+            "column_size": "3",
+            "title": "« Da quando ho iniziato a usare questo prodotto, la tengo sveglia tutta la notte. »",
+            "heading_tag": "h3",
+            "content": "<p>« <em>Avevo provato di tutto: pillole, integratori, esercizi. </em><em><strong>Nulla mi dava risultati rapidi e affidabili</strong></em><em> di cui avevo bisogno. Continuavo a sperare, ma finiva quasi sempre con una </em><em><strong>delusione</strong></em><em>.</em></p><p><em>Quando ho letto le </em><em><strong>recensioni</strong></em><em> su questo spray, ho pensato: “Sembra troppo bello per essere vero.” Ma non avevo nulla da perdere. L’ho vaporizzato prima di andare a letto e, in pochi secondi, </em><em><strong>letteralmente pochi secondi</strong></em><em>, ho sentito la differenza. Ero duro, pieno di sicurezza e avevo il </em><em><strong>controllo totale</strong></em><em>. Mia moglie non riusciva a crederci. </em><em><strong>Finalmente qualcosa che funziona davvero.</strong></em><em> </em>»</p><p>— <strong>Nicolas H., 44 anni</strong></p>",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        }
+      },
+      "block_order": [
+        "item_izntUc"
+      ],
+      "name": "Multi-column",
+      "settings": {
+        "full_width": true,
+        "stack_on_mobile": true,
+        "gap": "medium",
+        "text_alignment": "start",
+        "subheading": "",
+        "title": "",
+        "content": "",
+        "background": "",
+        "background_gradient": "",
+        "text_color": ""
+      }
+    },
     "related-products": {
       "type": "related-products",
       "settings": {
@@ -215,6 +249,7 @@
     "main",
     "multi_column_iGXEwa",
     "multi_column_YHRUCR",
+    "multi_column_EeJHVR",
     "related-products"
   ]
 }
