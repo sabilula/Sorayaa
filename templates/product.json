@@ -318,6 +318,18 @@
             "author": "<p><strong>@Marco</strong></p>"
           }
         },
+        "slide_RDbzj7": {
+          "type": "slide",
+          "settings": {
+            "media_style": "image",
+            "image": "shopify://shop_images/bf41565ae48cdac82c99693b8f.jpg",
+            "video_url": "https://www.youtube.com/watch?v=_9VUPq3SxOc",
+            "controls": false,
+            "stars_count": 5,
+            "text": "<p>« Tre volte in una serata. TRE. A 44 anni. Mia moglie non ci credeva, io nemmeno. VigorMax™ è diventato il mio segreto. »</p>",
+            "author": "<p>Author</p>"
+          }
+        },
         "slide_EbEDmR": {
           "type": "slide",
           "settings": {
@@ -377,6 +389,7 @@
       "block_order": [
         "slide_aaeLJb",
         "slide_Jwnt83",
+        "slide_RDbzj7",
         "slide_EbEDmR",
         "slide_YHVhX6",
         "slide_48ypch",
