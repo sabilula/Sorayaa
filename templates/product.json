@@ -50,6 +50,14 @@
             "alignment": "center",
             "max_width": 500
           }
+        },
+        "image_aXLPFg": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/Screenshot_2026-03-26_at_19.46.54.png",
+            "alignment": "start",
+            "max_width": 280
+          }
         }
       },
       "block_order": [
@@ -57,7 +65,8 @@
         "description",
         "liquid_qCjND6",
         "buy_buttons",
-        "image_MX7Ty3"
+        "image_MX7Ty3",
+        "image_aXLPFg"
       ],
       "settings": {
         "full_width": true,
