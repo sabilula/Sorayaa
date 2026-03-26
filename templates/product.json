@@ -142,7 +142,41 @@
       "name": "Multi-column",
       "settings": {
         "full_width": true,
-        "stack_on_mobile": false,
+        "stack_on_mobile": true,
+        "gap": "medium",
+        "text_alignment": "start",
+        "subheading": "",
+        "title": "",
+        "content": "",
+        "background": "",
+        "background_gradient": "",
+        "text_color": ""
+      }
+    },
+    "multi_column_YHRUCR": {
+      "type": "multi-column",
+      "blocks": {
+        "item_WcARxH": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/IMG_1600.webp",
+            "column_size": "3",
+            "title": "Erezioni potenti in soli 60 secondi. Sentiti invincibile e dominante a letto !",
+            "heading_tag": "h3",
+            "content": "<p>Niente più ansia. <strong>Niente più scuse</strong>.<br/>Questo <strong>spray</strong> innovativo <strong>agisce rapidamente</strong> e ti offre prestazioni <strong>intense</strong> e affidabili in appena <strong>43 secondi</strong>, ogni volta.</p><p>Dimentica pillole costose, dispositivi scomodi o momenti imbarazzanti sotto le lenzuola. Con <strong>VigorMax™</strong>, sei sempre pronto a dare il massimo: <strong>più forza, più controllo, più sicurezza, esattamente quando conta.</strong></p><p>Bastano una o <strong>due vaporizzazioni prima del rapporto</strong>. In pochi<strong> istanti sarai</strong> <strong>pronto all’azione</strong>.</p>",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        }
+      },
+      "block_order": [
+        "item_WcARxH"
+      ],
+      "name": "Multi-column",
+      "settings": {
+        "full_width": true,
+        "stack_on_mobile": true,
         "gap": "medium",
         "text_alignment": "start",
         "subheading": "",
@@ -180,6 +214,7 @@
     "custom_liquid_MKktBy",
     "main",
     "multi_column_iGXEwa",
+    "multi_column_YHRUCR",
     "related-products"
   ]
 }
