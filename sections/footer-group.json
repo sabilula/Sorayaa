@@ -87,15 +87,15 @@
           "type": "text",
           "settings": {
             "title": "Contacto",
-            "content": "<p>Servicio de atención al cliente: <a>contact@nuvia-officiel.com</a></p>",
+            "content": "<p><strong>Servizio clienti: </strong><a href=\"mailto:boostplus.team@gmail.com\"><strong>boostplus.team@gmail.com</strong></a></p>",
             "enable_follow_on_shop": true
           }
         },
         "text_HymchD": {
           "type": "text",
           "settings": {
-            "title": "Horario de atención:",
-            "content": "<ul><li><strong>Lunes a viernes:</strong> 9h – 12h / 13h – 18h</li><li><strong>Sábados y domingos:</strong> 10h – 12h</li></ul><p>📩 <strong>Respuesta en menos de 12 horas.</strong></p>",
+            "title": "Orari di assistenza:",
+            "content": "<p><strong>Lunedì – Venerdì:</strong> 9:00 – 12:00 / 13:00 – 18:00<br/><br/><strong>Sabato – Domenica:</strong> 10:00 – 12:00</p><p><strong>Risposta garantita entro 12 ore.</strong></p>",
             "enable_follow_on_shop": true
           }
         }
