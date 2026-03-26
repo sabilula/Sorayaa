@@ -9,6 +9,19 @@
  */
 {
   "sections": {
+    "custom_liquid_MKktBy": {
+      "type": "custom-liquid",
+      "name": "Custom Liquid",
+      "settings": {
+        "full_width": true,
+        "remove_vertical_spacing": false,
+        "remove_horizontal_spacing": false,
+        "liquid": "<div class=\"promo-wrapper\">\n\n  <h2 class=\"promo-title\">\n    La Nostra Offerta Più Grande dell’Anno\n  </h2>\n\n  <p class=\"promo-sub\">\n    Scade a mezzanotte\n  </p>\n\n  <div class=\"countdown\">\n    <div class=\"box\">\n      <span id=\"hours\">00</span>\n      <small>ORE</small>\n    </div>\n\n    <div class=\"dots\">:</div>\n\n    <div class=\"box\">\n      <span id=\"minutes\">00</span>\n      <small>MIN</small>\n    </div>\n\n    <div class=\"dots\">:</div>\n\n    <div class=\"box\">\n      <span id=\"seconds\">00</span>\n      <small>SEC</small>\n    </div>\n  </div>\n\n</div>\n\n<style>\n.promo-wrapper {\n  text-align: center;\n  padding: 25px 15px;\n}\n\n.promo-title {\n  font-size: 26px;\n  font-weight: 800;\n  color: #223547;\n  margin-bottom: 6px;\n}\n\n.promo-sub {\n  font-size: 14px;\n  color: #223547;\n  opacity: 0.7;\n  margin-bottom: 18px;\n}\n\n.countdown {\n  display: flex;\n  justify-content: center;\n  align-items: center;\n  gap: 8px;\n}\n\n.box {\n  background: #223547;\n  color: #ffffff;\n  padding: 10px 14px;\n  border-radius: 6px;\n  min-width: 55px;\n}\n\n.box span {\n  font-size: 20px;\n  font-weight: 700;\n  display: block;\n}\n\n.box small {\n  font-size: 10px;\n  letter-spacing: 1px;\n}\n\n.dots {\n  font-size: 18px;\n  font-weight: 700;\n  color: #223547;\n}\n</style>\n\n<script>\nfunction updateCountdown() {\n  const now = new Date();\n  const midnight = new Date();\n  midnight.setHours(24, 0, 0, 0);\n\n  const diff = midnight - now;\n\n  const hours = Math.floor((diff / (1000 * 60 * 60)) % 24);\n  const minutes = Math.floor((diff / (1000 * 60)) % 60);\n  const seconds = Math.floor((diff / 1000) % 60);\n\n  document.getElementById(\"hours\").innerText = String(hours).padStart(2, '0');\n  document.getElementById(\"minutes\").innerText = String(minutes).padStart(2, '0');\n  document.getElementById(\"seconds\").innerText = String(seconds).padStart(2, '0');\n}\n\nsetInterval(updateCountdown, 1000);\nupdateCountdown();\n</script>",
+        "background": "",
+        "background_gradient": "",
+        "text_color": ""
+      }
+    },
     "main": {
       "type": "main-product",
       "blocks": {
@@ -117,6 +130,7 @@
     }
   },
   "order": [
+    "custom_liquid_MKktBy",
     "main",
     "related-products"
   ]
