@@ -187,6 +187,36 @@
         "text_color": ""
       }
     },
+    "rich_text_9UqKEx": {
+      "type": "rich-text",
+      "blocks": {
+        "subheading_3xfRCn": {
+          "type": "subheading",
+          "settings": {
+            "text": "Visto su…"
+          }
+        },
+        "richtext_mcwbnB": {
+          "type": "richtext",
+          "settings": {
+            "content": "<p>Use this text to share information about your brand with your customers. Describe a product, share announcements, or welcome customers to your store.</p>"
+          }
+        }
+      },
+      "block_order": [
+        "subheading_3xfRCn",
+        "richtext_mcwbnB"
+      ],
+      "name": "Rich text",
+      "settings": {
+        "full_width": true,
+        "content_width": "small",
+        "text_position": "center",
+        "background": "",
+        "background_gradient": "",
+        "text_color": ""
+      }
+    },
     "multi_column_EeJHVR": {
       "type": "multi-column",
       "blocks": {
@@ -289,40 +319,6 @@
         "text_color": ""
       }
     },
-    "multi_column_V8Gf4V": {
-      "type": "multi-column",
-      "blocks": {
-        "item_QJ8iJ9": {
-          "type": "item",
-          "settings": {
-            "image": "shopify://shop_images/DURo_in_43_SECondi_per_4_Ore-3.png",
-            "column_size": "3",
-            "title": "Come usare VigorMax™ per ottenere i migliori risultati:",
-            "heading_tag": "h3",
-            "content": "<p>Le tue <strong>prestazioni a letto</strong> dicono molto più di quanto pensi. Mostrano come ti senti: se sei <strong>pieno di fiducia, forza e controllo</strong>, oppure se ti senti insicuro e deluso. Ma un’<strong>erezione debole</strong> o <strong>di breve durata</strong> spesso comunica qualcosa di completamente diverso da ciò che sei davvero.</p><p>VigorMax™ è stato appositamente formulato per <strong>eliminare questa insicurezza</strong> e restituirti tutta la tua potenza. Ti garantisce <strong>erezione dure e potenti in soli 43 secondi</strong>, senza pillole, senza stress e senza momenti imbarazzanti.</p><p>Solo rapido, potente e senza sforzo.</p>",
-            "link_url": "",
-            "link_text": "",
-            "link_style": "link"
-          }
-        }
-      },
-      "block_order": [
-        "item_QJ8iJ9"
-      ],
-      "name": "Multi-column",
-      "settings": {
-        "full_width": true,
-        "stack_on_mobile": true,
-        "gap": "medium",
-        "text_alignment": "start",
-        "subheading": "",
-        "title": "",
-        "content": "",
-        "background": "",
-        "background_gradient": "",
-        "text_color": ""
-      }
-    },
     "related-products": {
       "type": "related-products",
       "settings": {
@@ -351,10 +347,10 @@
     "main",
     "multi_column_iGXEwa",
     "multi_column_YHRUCR",
+    "rich_text_9UqKEx",
     "multi_column_EeJHVR",
     "multi_column_wyqCKB",
     "multi_column_BMcJih",
-    "multi_column_V8Gf4V",
     "related-products"
   ]
 }
