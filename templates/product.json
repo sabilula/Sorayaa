@@ -547,8 +547,8 @@
         "item_rdMmfP": {
           "type": "item",
           "settings": {
-            "title": "Do you ship overseas?",
-            "content": "<p>Yes, we ship all over the world. Shipping costs will apply, and will be added at checkout. We run discounts and promotions all year, so stay tuned for exclusive deals.</p>"
+            "title": "Posso usarlo ogni giorno?",
+            "content": "<p>Assolutamente! Usalo quotidianamente o solo quando ne hai bisogno, senza alcun rischio.</p>"
           }
         },
         "item_HMn6fN": {
