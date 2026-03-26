@@ -190,10 +190,13 @@
     "rich_text_9UqKEx": {
       "type": "rich-text",
       "blocks": {
-        "subheading_3xfRCn": {
-          "type": "subheading",
+        "heading_Y9KxGf": {
+          "type": "heading",
           "settings": {
-            "text": "Visto su…"
+            "text": "Visto su…",
+            "heading_tag": "h2",
+            "text_color": "",
+            "gradient": ""
           }
         },
         "image_r6RcdH": {
@@ -207,7 +210,7 @@
         }
       },
       "block_order": [
-        "subheading_3xfRCn",
+        "heading_Y9KxGf",
         "image_r6RcdH"
       ],
       "name": "Rich text",
