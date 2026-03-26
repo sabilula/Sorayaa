@@ -221,6 +221,40 @@
         "text_color": ""
       }
     },
+    "multi_column_wyqCKB": {
+      "type": "multi-column",
+      "blocks": {
+        "item_GJRGqN": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/ChatGPT_Image_26_mars_2026_18_51_06_39016abf-b8d4-4b19-9211-222ae6be0b9d.png",
+            "column_size": "3",
+            "title": "Clinicamente testato e raccomandato da oltre 143 medici e sessuologi.",
+            "heading_tag": "h3",
+            "content": "<p>Molti prodotti promettono miracoli, ma non mantengono ciò che promettono.<br/><br/>VigorMax™, invece, elimina ogni dubbio, <strong>ha conquistato la fiducia di oltre 143 professionisti della salute</strong> ed è stato clinicamente dimostrato per offrire <strong>un’erezione in meno di un minuto</strong>.</p><p>Immagina di utilizzare una soluzione che è <strong>non solo rapida e potente</strong>, ma anche <strong>completamente approvata</strong>. Niente pillole. Nessun rischio. Nessuna vergogna.</p><p><strong>Un’erezione clinicamente dimostrata in soli 60 secondi!</strong></p>",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        }
+      },
+      "block_order": [
+        "item_GJRGqN"
+      ],
+      "name": "Multi-column",
+      "settings": {
+        "full_width": true,
+        "stack_on_mobile": true,
+        "gap": "medium",
+        "text_alignment": "start",
+        "subheading": "",
+        "title": "",
+        "content": "",
+        "background": "",
+        "background_gradient": "",
+        "text_color": ""
+      }
+    },
     "related-products": {
       "type": "related-products",
       "settings": {
@@ -250,6 +284,7 @@
     "multi_column_iGXEwa",
     "multi_column_YHRUCR",
     "multi_column_EeJHVR",
+    "multi_column_wyqCKB",
     "related-products"
   ]
 }
