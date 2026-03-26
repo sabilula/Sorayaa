@@ -487,7 +487,7 @@
         "liquid_XBEr8x": {
           "type": "liquid",
           "settings": {
-            "liquid": "<style>\n  .stock-alert {\n    display: inline-flex;\n    align-items: center;\n    background-color: #f2f2f2;\n    border-radius: 10px;\n    padding: 6px 12px;\n    font-family: 'Poppins', Arial, sans-serif;\n    font-weight: bold;\n    font-size: 12px;\n    color: red;\n  }\n\n  .pulse-dot {\n    width: 12px;\n    height: 12px;\n    border-radius: 50%;\n    background-color: red;\n    margin-right: 10px;\n    box-shadow: 0 0 0 0 rgba(255, 0, 0, 0.7);\n    animation: pulse 1.5s infinite;\n  }\n\n  @keyframes pulse {\n    0% {\n      transform: scale(0.95);\n      box-shadow: 0 0 0 0 rgba(255, 0, 0, 0.7);\n    }\n    70% {\n      transform: scale(1);\n      box-shadow: 0 0 0 10px rgba(255, 0, 0, 0);\n    }\n    100% {\n      transform: scale(0.95);\n      box-shadow: 0 0 0 0 rgba(255, 0, 0, 0);\n    }\n  }\n</style>\n\n<div class=\"stock-alert\">\n  <div class=\"pulse-dot\"></div>\n  ¡ÚLTIMAS 8 UNIDADES!\n</div>"
+            "liquid": "<style>\n  .stock-alert {\n    display: inline-flex;\n    align-items: center;\n    background-color: #f2f2f2;\n    border-radius: 10px;\n    padding: 6px 12px;\n    font-family: 'Poppins', Arial, sans-serif;\n    font-weight: bold;\n    font-size: 12px;\n    color: red;\n  }\n\n  .pulse-dot {\n    width: 12px;\n    height: 12px;\n    border-radius: 50%;\n    background-color: red;\n    margin-right: 10px;\n    box-shadow: 0 0 0 0 rgba(255, 0, 0, 0.7);\n    animation: pulse 1.5s infinite;\n  }\n\n  @keyframes pulse {\n    0% {\n      transform: scale(0.95);\n      box-shadow: 0 0 0 0 rgba(255, 0, 0, 0.7);\n    }\n    70% {\n      transform: scale(1);\n      box-shadow: 0 0 0 10px rgba(255, 0, 0, 0);\n    }\n    100% {\n      transform: scale(0.95);\n      box-shadow: 0 0 0 0 rgba(255, 0, 0, 0);\n    }\n  }\n</style>\n\n<div class=\"stock-alert\">\n  <div class=\"pulse-dot\"></div>\n  Alta richiesta, ne restano solo pochi in magazzino!\n</div>"
           }
         },
         "separator": {
@@ -518,7 +518,8 @@
         "kaching_bundles_app_block_r7zeDN": {
           "type": "shopify://apps/kaching-bundles/blocks/app-block/6c637362-a106-4a32-94ac-94dcfd68cdb8",
           "settings": {
-            "product": "{{section.settings.product}}"
+            "product": "{{section.settings.product}}",
+            "manual_deal_block_id": ""
           }
         },
         "image_yVzwjE": {
