@@ -200,7 +200,7 @@
           "type": "image",
           "settings": {
             "image": "shopify://shop_images/Screenshot_2026-03-26_at_21.18.49.png",
-            "width_mode": "custom",
+            "width_mode": "full_width",
             "max_width": 1000,
             "mobile_max_width": 600
           }
