@@ -26,6 +26,12 @@
             "collapse_content": false
           }
         },
+        "liquid_qCjND6": {
+          "type": "liquid",
+          "settings": {
+            "liquid": "<style>\n  .stock-alert {\n    display: inline-flex;\n    align-items: center;\n    background-color: #f2f2f2;\n    border-radius: 10px;\n    padding: 6px 12px;\n    font-family: 'Poppins', Arial, sans-serif;\n    font-weight: bold;\n    font-size: 12px;\n    color: red;\n  }\n\n  .pulse-dot {\n    width: 12px;\n    height: 12px;\n    border-radius: 50%;\n    background-color: red;\n    margin-right: 10px;\n    box-shadow: 0 0 0 0 rgba(255, 0, 0, 0.7);\n    animation: pulse 1.5s infinite;\n  }\n\n  @keyframes pulse {\n    0% {\n      transform: scale(0.95);\n      box-shadow: 0 0 0 0 rgba(255, 0, 0, 0.7);\n    }\n    70% {\n      transform: scale(1);\n      box-shadow: 0 0 0 10px rgba(255, 0, 0, 0);\n    }\n    100% {\n      transform: scale(0.95);\n      box-shadow: 0 0 0 0 rgba(255, 0, 0, 0);\n    }\n  }\n</style>\n\n<div class=\"stock-alert\">\n  <div class=\"pulse-dot\"></div>\n  Alta richiesta, ne restano solo pochi in magazzino!\n</div>"
+          }
+        },
         "buy_buttons": {
           "type": "buy_buttons",
           "settings": {
@@ -41,6 +47,7 @@
       "block_order": [
         "title",
         "description",
+        "liquid_qCjND6",
         "buy_buttons"
       ],
       "settings": {
