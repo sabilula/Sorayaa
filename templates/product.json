@@ -42,13 +42,22 @@
             "payment_button_background": "",
             "payment_button_text_color": ""
           }
+        },
+        "image_MX7Ty3": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/Screenshot_2026-03-26_at_19.38.44.png",
+            "alignment": "center",
+            "max_width": 500
+          }
         }
       },
       "block_order": [
         "title",
         "description",
         "liquid_qCjND6",
-        "buy_buttons"
+        "buy_buttons",
+        "image_MX7Ty3"
       ],
       "settings": {
         "full_width": true,
