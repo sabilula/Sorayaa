@@ -218,6 +218,7 @@
     },
     "image_with_text_overlay_4EjiMX": {
       "type": "image-with-text-overlay",
+      "disabled": true,
       "settings": {
         "full_width": true,
         "allow_transparent_header": false,
