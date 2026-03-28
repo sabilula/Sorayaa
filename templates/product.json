@@ -41,6 +41,12 @@
           "type": "separator",
           "settings": {}
         },
+        "liquid_A94nir": {
+          "type": "liquid",
+          "settings": {
+            "liquid": "<div class=\"swiss-badge\">\n  <div class=\"swiss-badge__flag\">\n    <span class=\"swiss-badge__cross\"></span>\n  </div>\n  <div class=\"swiss-badge__text\">\n    <span class=\"swiss-badge__title\">Formulato in Svizzera</span>\n    <span class=\"swiss-badge__sub\">Laboratorio farmaceutico certificato</span>\n  </div>\n</div>\n\n<style>\n  .swiss-badge {\n    display: flex;\n    align-items: center;\n    gap: 10px;\n    padding: 10px 14px;\n    margin-top: 10px;\n    border: 1px solid #e0e0e0;\n    border-radius: 6px;\n    background: #fff;\n  }\n  .swiss-badge__flag {\n    width: 32px;\n    height: 32px;\n    background: #D52B1E;\n    border-radius: 4px;\n    display: flex;\n    align-items: center;\n    justify-content: center;\n    flex-shrink: 0;\n  }\n  .swiss-badge__cross {\n    display: block;\n    position: relative;\n    width: 14px;\n    height: 14px;\n  }\n  .swiss-badge__cross::before,\n  .swiss-badge__cross::after {\n    content: '';\n    position: absolute;\n    background: #fff;\n    border-radius: 1px;\n  }\n  .swiss-badge__cross::before {\n    width: 4px;\n    height: 14px;\n    left: 5px;\n    top: 0;\n  }\n  .swiss-badge__cross::after {\n    width: 14px;\n    height: 4px;\n    top: 5px;\n    left: 0;\n  }\n  .swiss-badge__text {\n    display: flex;\n    flex-direction: column;\n    gap: 2px;\n  }\n  .swiss-badge__title {\n    font-size: 13px;\n    font-weight: 700;\n    color: #1a1a2e;\n    letter-spacing: 0.01em;\n  }\n  .swiss-badge__sub {\n    font-size: 11px;\n    color: #777;\n    letter-spacing: 0.01em;\n  }\n</style>"
+          }
+        },
         "description": {
           "type": "description",
           "settings": {
@@ -122,6 +128,7 @@
         "liquid_PUUP7c",
         "title",
         "separator_KnnhHt",
+        "liquid_A94nir",
         "description",
         "liquid_qCjND6",
         "kaching_bundles_app_block_AJrNJc",
