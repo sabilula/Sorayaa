@@ -393,11 +393,12 @@
           "disabled": true,
           "settings": {
             "media_style": "image",
+            "image": "shopify://shop_images/Richard-gere-credit-instagram.jpg",
             "video_url": "https://www.youtube.com/watch?v=_9VUPq3SxOc",
             "controls": false,
             "stars_count": 5,
             "text": "<p>Love them, they give the perfect luxury touch to any room</p>",
-            "author": "<p><strong>@allfinds</strong></p>"
+            "author": "<p><strong>Salvatore, 76 anni</strong></p>"
           }
         },
         "slide_48ypch": {
