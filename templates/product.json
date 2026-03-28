@@ -62,6 +62,12 @@
             "manual_deal_block_id": ""
           }
         },
+        "liquid_A94nir": {
+          "type": "liquid",
+          "settings": {
+            "liquid": "<div class=\"cert-badges\">\n  <div class=\"cert-badge cert-badge--swiss\">\n    <div class=\"cert-badge__flag\">\n      <span class=\"cert-badge__cross\"></span>\n    </div>\n    <div class=\"cert-badge__label\">\n      <span class=\"cert-badge__top\">SWISS</span>\n      <span class=\"cert-badge__bot\">MADE</span>\n    </div>\n  </div>\n\n  <div class=\"cert-badge cert-badge--gmp\">\n    <span class=\"cert-badge__icon\">✦</span>\n    <div class=\"cert-badge__label\">\n      <span class=\"cert-badge__top\">GMP</span>\n      <span class=\"cert-badge__bot\">CERTIFIED</span>\n    </div>\n  </div>\n\n  <div class=\"cert-badge cert-badge--iso\">\n    <span class=\"cert-badge__icon\">◈</span>\n    <div class=\"cert-badge__label\">\n      <span class=\"cert-badge__top\">ISO</span>\n      <span class=\"cert-badge__bot\">9001</span>\n    </div>\n  </div>\n</div>\n\n<style>\n  .cert-badges {\n    display: flex;\n    align-items: center;\n    justify-content: center;\n    gap: 10px;\n    margin-top: 12px;\n    flex-wrap: wrap;\n  }\n  .cert-badge {\n    display: flex;\n    flex-direction: column;\n    align-items: center;\n    justify-content: center;\n    gap: 5px;\n    width: 72px;\n    height: 72px;\n    border-radius: 6px;\n    padding: 8px 6px;\n    text-align: center;\n    border: 2px solid;\n  }\n  .cert-badge--swiss {\n    background: #fff;\n    border-color: #D52B1E;\n  }\n  .cert-badge--gmp {\n    background: #fff;\n    border-color: #1a1a2e;\n  }\n  .cert-badge--iso {\n    background: #fff;\n    border-color: #1a1a2e;\n  }\n  .cert-badge__flag {\n    width: 22px;\n    height: 22px;\n    background: #D52B1E;\n    border-radius: 3px;\n    display: flex;\n    align-items: center;\n    justify-content: center;\n    flex-shrink: 0;\n  }\n  .cert-badge__cross {\n    display: block;\n    position: relative;\n    width: 10px;\n    height: 10px;\n  }\n  .cert-badge__cross::before,\n  .cert-badge__cross::after {\n    content: '';\n    position: absolute;\n    background: #fff;\n    border-radius: 1px;\n  }\n  .cert-badge__cross::before {\n    width: 3px;\n    height: 10px;\n    left: 3.5px;\n    top: 0;\n  }\n  .cert-badge__cross::after {\n    width: 10px;\n    height: 3px;\n    top: 3.5px;\n    left: 0;\n  }\n  .cert-badge__icon {\n    font-size: 18px;\n    color: #1a1a2e;\n    line-height: 1;\n  }\n  .cert-badge__label {\n    display: flex;\n    flex-direction: column;\n    gap: 0px;\n  }\n  .cert-badge__top {\n    font-size: 11px;\n    font-weight: 800;\n    letter-spacing: 0.08em;\n    color: #1a1a2e;\n    line-height: 1.1;\n  }\n  .cert-badge__bot {\n    font-size: 8px;\n    font-weight: 600;\n    letter-spacing: 0.06em;\n    color: #888;\n    line-height: 1.2;\n  }\n  .cert-badge--swiss .cert-badge__top {\n    color: #D52B1E;\n  }\n</style>"
+          }
+        },
         "liquid_P9acwF": {
           "type": "liquid",
           "settings": {
@@ -116,12 +122,6 @@
             "content": "<p><em>Al momento non offriamo il pagamento in contrassegno. Sappiamo che per molti italiani questa opzione è importante, ed è una scelta che rispettiamo.</em></p><p><em>Ecco perché abbiamo reso il pagamento online il più sicuro e discreto possibile:</em></p><p><em>✅ Pagamento 100% sicuro con crittografia SSL</em><br/><em>✅ I tuoi dati bancari non vengono mai memorizzati</em><br/><em>✅ La transazione appare sul tuo estratto conto come \"BOHARDI\" — nessun riferimento al prodotto</em><br/><em>✅ Accettiamo PayPal, che ti protegge automaticamente in caso di problema</em><br/><em>✅ Garanzia rimborso 30 giorni — se non sei soddisfatto, ti rimborsiamo senza domande</em></p><p><em>Non rischi nulla. Il tuo acquisto è completamente protetto.</em></p>",
             "page": ""
           }
-        },
-        "liquid_A94nir": {
-          "type": "liquid",
-          "settings": {
-            "liquid": "<div class=\"cert-badges\">\n  <div class=\"cert-badge cert-badge--swiss\">\n    <div class=\"cert-badge__flag\">\n      <span class=\"cert-badge__cross\"></span>\n    </div>\n    <div class=\"cert-badge__label\">\n      <span class=\"cert-badge__top\">SWISS</span>\n      <span class=\"cert-badge__bot\">MADE</span>\n    </div>\n  </div>\n\n  <div class=\"cert-badge cert-badge--gmp\">\n    <span class=\"cert-badge__icon\">✦</span>\n    <div class=\"cert-badge__label\">\n      <span class=\"cert-badge__top\">GMP</span>\n      <span class=\"cert-badge__bot\">CERTIFIED</span>\n    </div>\n  </div>\n\n  <div class=\"cert-badge cert-badge--iso\">\n    <span class=\"cert-badge__icon\">◈</span>\n    <div class=\"cert-badge__label\">\n      <span class=\"cert-badge__top\">ISO</span>\n      <span class=\"cert-badge__bot\">9001</span>\n    </div>\n  </div>\n</div>\n\n<style>\n  .cert-badges {\n    display: flex;\n    align-items: center;\n    justify-content: center;\n    gap: 10px;\n    margin-top: 12px;\n    flex-wrap: wrap;\n  }\n  .cert-badge {\n    display: flex;\n    flex-direction: column;\n    align-items: center;\n    justify-content: center;\n    gap: 5px;\n    width: 72px;\n    height: 72px;\n    border-radius: 6px;\n    padding: 8px 6px;\n    text-align: center;\n    border: 2px solid;\n  }\n  .cert-badge--swiss {\n    background: #fff;\n    border-color: #D52B1E;\n  }\n  .cert-badge--gmp {\n    background: #fff;\n    border-color: #1a1a2e;\n  }\n  .cert-badge--iso {\n    background: #fff;\n    border-color: #1a1a2e;\n  }\n  .cert-badge__flag {\n    width: 22px;\n    height: 22px;\n    background: #D52B1E;\n    border-radius: 3px;\n    display: flex;\n    align-items: center;\n    justify-content: center;\n    flex-shrink: 0;\n  }\n  .cert-badge__cross {\n    display: block;\n    position: relative;\n    width: 10px;\n    height: 10px;\n  }\n  .cert-badge__cross::before,\n  .cert-badge__cross::after {\n    content: '';\n    position: absolute;\n    background: #fff;\n    border-radius: 1px;\n  }\n  .cert-badge__cross::before {\n    width: 3px;\n    height: 10px;\n    left: 3.5px;\n    top: 0;\n  }\n  .cert-badge__cross::after {\n    width: 10px;\n    height: 3px;\n    top: 3.5px;\n    left: 0;\n  }\n  .cert-badge__icon {\n    font-size: 18px;\n    color: #1a1a2e;\n    line-height: 1;\n  }\n  .cert-badge__label {\n    display: flex;\n    flex-direction: column;\n    gap: 0px;\n  }\n  .cert-badge__top {\n    font-size: 11px;\n    font-weight: 800;\n    letter-spacing: 0.08em;\n    color: #1a1a2e;\n    line-height: 1.1;\n  }\n  .cert-badge__bot {\n    font-size: 8px;\n    font-weight: 600;\n    letter-spacing: 0.06em;\n    color: #888;\n    line-height: 1.2;\n  }\n  .cert-badge--swiss .cert-badge__top {\n    color: #D52B1E;\n  }\n</style>"
-          }
         }
       },
       "block_order": [
@@ -131,14 +131,14 @@
         "description",
         "liquid_qCjND6",
         "kaching_bundles_app_block_AJrNJc",
+        "liquid_A94nir",
         "liquid_P9acwF",
         "buy_buttons",
         "liquid_kj6P8U",
         "liquid_6ebqxT",
         "image_MX7Ty3",
         "image_aXLPFg",
-        "collapsible_text_yyUf6D",
-        "liquid_A94nir"
+        "collapsible_text_yyUf6D"
       ],
       "settings": {
         "full_width": true,
