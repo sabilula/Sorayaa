@@ -565,13 +565,6 @@
             "content": "<p>Nessun problema. VigorMax è stato sviluppato per offrire la massima efficacia alla quasi totalità degli uomini. Ma se per qualsiasi motivo non dovesse funzionare? Vieni semplicemente rimborsato. Nessun rischio, nessuna scusa. Solo risultati, o i tuoi soldi indietro.</p>"
           }
         },
-        "item_qa7Xax": {
-          "type": "item",
-          "settings": {
-            "title": "Come posso restituirlo e ottenere il rimborso?",
-            "content": "<p>Non sei soddisfatto? Invia una semplice email al nostro servizio clienti e troveremo insieme una soluzione. Offriamo una <strong>garanzia di rimborso di 30 giorni, senza alcuna complicazione.</strong></p><p>boostplus.team@gmail.com</p><p><em>*Valido unicamente se la tua situazione rientra nelle condizioni della nostra clausola di non responsabilità.</em></p>"
-          }
-        },
         "item_XJGcG4": {
           "type": "item",
           "settings": {
@@ -584,7 +577,6 @@
         "item_rdMmfP",
         "item_HMn6fN",
         "item_PXHYHf",
-        "item_qa7Xax",
         "item_XJGcG4"
       ],
       "name": "FAQ",
