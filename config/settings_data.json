@@ -45,6 +45,7 @@
     "product_info_alignment": "center",
     "cart_icon": "shopping_cart",
     "cart_free_shipping_threshold": "0",
+    "favicon": "shopify://shop_images/DURo_in_43_SECondi_per_4_Ore-4.png",
     "checkout_accent_color": "#f0c417",
     "checkout_button_color": "#1a1a1a",
     "content_for_index": [],
