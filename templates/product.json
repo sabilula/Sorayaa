@@ -73,6 +73,12 @@
             "payment_button_text_color": ""
           }
         },
+        "liquid_kj6P8U": {
+          "type": "liquid",
+          "settings": {
+            "liquid": "<div class=\"paypal-trust-line\">\n  <span class=\"paypal-trust-line__lock\">\n    <svg xmlns=\"http://www.w3.org/2000/svg\" width=\"11\" height=\"11\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><rect x=\"3\" y=\"11\" width=\"18\" height=\"11\" rx=\"2\" ry=\"2\"/><path d=\"M7 11V7a5 5 0 0 1 10 0v4\"/></svg>\n  </span>\n  <span class=\"paypal-trust-line__text\">Pagamento protetto con</span>\n  <svg class=\"paypal-trust-line__logo\" xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 124 33\" height=\"14\" aria-label=\"PayPal\">\n    <path fill=\"#253B80\" d=\"M46.2 8.4h-8.6c-.6 0-1.1.4-1.2 1l-3.5 22.1c-.1.4.2.8.6.8h4.1c.6 0 1.1-.4 1.2-1l.9-5.9c.1-.6.6-1 1.2-1h2.7c5.7 0 8.9-2.7 9.8-8.1.4-2.4 0-4.2-1-5.5-1.2-1.4-3.2-2.1-6.2-2.4zm1 8c-.5 3-2.8 3-5 3h-1.3l.9-5.7c.1-.3.4-.6.7-.6h.6c1.5 0 3 0 3.7.9.5.5.6 1.3.4 2.4zM71 16.3h-4.1c-.4 0-.7.3-.7.6l-.2 1.1-.3-.4c-.9-1.3-2.8-1.7-4.7-1.7-4.4 0-8.2 3.3-8.9 8-.4 2.3.2 4.5 1.5 6 1.2 1.4 3 2 5 2 3.6 0 5.5-2.3 5.5-2.3l-.2 1.1c-.1.4.2.8.6.8h3.7c.6 0 1.1-.4 1.2-1l2.2-13.6c.1-.4-.2-.6-.6-.6zm-5.7 7.7c-.4 2.1-2 3.6-4.2 3.6-1.1 0-2-.4-2.5-1-.5-.7-.7-1.6-.5-2.7.4-2.1 2-3.6 4.1-3.6 1.1 0 2 .4 2.5 1 .5.7.7 1.7.6 2.7zM93.5 16.3h-4.1c-.4 0-.8.2-1 .5l-5.9 8.7-2.5-8.4c-.2-.5-.6-.8-1.1-.8h-4c-.5 0-.8.5-.6.9l4.7 13.9-4.4 6.2c-.3.5 0 1.1.6 1.1h4.1c.4 0 .8-.2 1-.5l14.2-20.5c.2-.4 0-1.1-.5-1.1z\"/>\n    <path fill=\"#179BD7\" d=\"M104.3 8.4h-8.6c-.6 0-1.1.4-1.2 1l-3.5 22.1c-.1.4.2.8.6.8h4.4c.4 0 .8-.3.8-.7l1-6.2c.1-.6.6-1 1.2-1h2.7c5.7 0 8.9-2.7 9.8-8.1.4-2.4 0-4.2-1-5.5-1.2-1.4-3.2-2.1-6.2-2.4zm1 8c-.5 3-2.8 3-5 3h-1.3l.9-5.7c.1-.3.4-.6.7-.6h.6c1.5 0 3 0 3.7.9.5.5.6 1.3.4 2.4zM129 16.3H125c-.4 0-.7.3-.7.6l-.2 1.1-.3-.4c-.9-1.3-2.8-1.7-4.7-1.7-4.4 0-8.2 3.3-8.9 8-.4 2.3.2 4.5 1.5 6 1.2 1.4 3 2 5 2 3.6 0 5.5-2.3 5.5-2.3l-.2 1.1c-.1.4.2.8.6.8h3.7c.6 0 1.1-.4 1.2-1l2.2-13.6c.2-.4-.1-.6-.5-.6zm-5.8 7.7c-.4 2.1-2 3.6-4.2 3.6-1.1 0-2-.4-2.5-1-.5-.7-.7-1.6-.5-2.7.4-2.1 2-3.6 4.1-3.6 1.1 0 2 .4 2.5 1 .5.7.7 1.7.6 2.7z\"/>\n  </svg>\n  <span class=\"paypal-trust-line__sep\">—</span>\n  <span class=\"paypal-trust-line__guarantee\">Protezione acquirenti inclusa</span>\n</div>\n\n<style>\n  .paypal-trust-line {\n    display: flex;\n    align-items: center;\n    justify-content: center;\n    flex-wrap: wrap;\n    gap: 5px;\n    padding: 7px 12px;\n    margin-top: 8px;\n    border: 1px solid rgba(0, 112, 186, 0.22);\n    border-radius: 4px;\n    background: rgba(0, 112, 186, 0.04);\n  }\n  .paypal-trust-line__lock {\n    color: #0070ba;\n    display: flex;\n    align-items: center;\n    flex-shrink: 0;\n  }\n  .paypal-trust-line__text {\n    font-size: 11px;\n    color: #666;\n    letter-spacing: 0.01em;\n    white-space: nowrap;\n  }\n  .paypal-trust-line__logo {\n    flex-shrink: 0;\n    position: relative;\n    top: 1px;\n  }\n  .paypal-trust-line__sep {\n    font-size: 10px;\n    color: #bbb;\n  }\n  .paypal-trust-line__guarantee {\n    font-size: 11px;\n    color: #0070ba;\n    font-weight: 500;\n    letter-spacing: 0.01em;\n    white-space: nowrap;\n  }\n</style>"
+          }
+        },
         "image_MX7Ty3": {
           "type": "image",
           "settings": {
@@ -108,6 +114,7 @@
         "liquid_qCjND6",
         "kaching_bundles_app_block_AJrNJc",
         "buy_buttons",
+        "liquid_kj6P8U",
         "image_MX7Ty3",
         "image_aXLPFg",
         "collapsible_text_yyUf6D"
