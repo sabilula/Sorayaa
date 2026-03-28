@@ -88,6 +88,16 @@
             "alignment": "start",
             "max_width": 330
           }
+        },
+        "collapsible_text_yyUf6D": {
+          "type": "collapsible_text",
+          "settings": {
+            "icon": "none",
+            "icon_width": 20,
+            "title": "Il pagamento alla consegna è disponibile?",
+            "content": "<p><em>Al momento non offriamo il pagamento in contrassegno. Sappiamo che per molti italiani questa opzione è importante, ed è una scelta che rispettiamo.</em></p><p><em>Ecco perché abbiamo reso il pagamento online il più sicuro e discreto possibile:</em></p><p><em>✅ Pagamento 100% sicuro con crittografia SSL</em><br/><em>✅ I tuoi dati bancari non vengono mai memorizzati</em><br/><em>✅ La transazione appare sul tuo estratto conto come \"BOHARDI\" — nessun riferimento al prodotto</em><br/><em>✅ Accettiamo PayPal, che ti protegge automaticamente in caso di problema</em><br/><em>✅ Garanzia rimborso 30 giorni — se non sei soddisfatto, ti rimborsiamo senza domande</em></p><p><em>Non rischi nulla. Il tuo acquisto è completamente protetto.</em></p>",
+            "page": ""
+          }
         }
       },
       "block_order": [
@@ -99,7 +109,8 @@
         "kaching_bundles_app_block_AJrNJc",
         "buy_buttons",
         "image_MX7Ty3",
-        "image_aXLPFg"
+        "image_aXLPFg",
+        "collapsible_text_yyUf6D"
       ],
       "settings": {
         "full_width": true,
