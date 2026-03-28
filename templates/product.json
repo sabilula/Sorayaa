@@ -41,6 +41,12 @@
           "type": "separator",
           "settings": {}
         },
+        "liquid_8ijkHW": {
+          "type": "liquid",
+          "settings": {
+            "liquid": "<div style=\"text-align: center; margin-top: 12px;\">\n<div class=\"poty-badge\">\n  <div class=\"poty-badge__star\">★</div>\n  <div class=\"poty-badge__text\">\n    <span class=\"poty-badge__top\">ELETTO PRODOTTO</span>\n    <span class=\"poty-badge__mid\">DELL'ANNO 2025</span>\n    <span class=\"poty-badge__bot\">Salute Maschile</span>\n  </div>\n  <div class=\"poty-badge__year\">25</div>\n</div>\n</div>\n\n<style>\n  .poty-badge {\n    display: inline-flex;\n    align-items: center;\n    gap: 10px;\n    padding: 10px 16px;\n    background: linear-gradient(135deg, #1a1a2e 0%, #2a2a4e 100%);\n    border: 2px solid #c9a84c;\n    border-radius: 6px;\n  }\n  .poty-badge__star {\n    font-size: 22px;\n    color: #c9a84c;\n    line-height: 1;\n    flex-shrink: 0;\n  }\n  .poty-badge__text {\n    display: flex;\n    flex-direction: column;\n    gap: 1px;\n  }\n  .poty-badge__top {\n    font-size: 9px;\n    font-weight: 700;\n    color: #c9a84c;\n    letter-spacing: 0.12em;\n  }\n  .poty-badge__mid {\n    font-size: 13px;\n    font-weight: 800;\n    color: #fff;\n    letter-spacing: 0.06em;\n  }\n  .poty-badge__bot {\n    font-size: 9px;\n    font-weight: 500;\n    color: #aaa;\n    letter-spacing: 0.08em;\n  }\n  .poty-badge__year {\n    font-size: 28px;\n    font-weight: 900;\n    color: rgba(201, 168, 76, 0.2);\n    letter-spacing: -0.02em;\n    line-height: 1;\n    flex-shrink: 0;\n    font-family: Georgia, serif;\n  }\n</style>"
+          }
+        },
         "description": {
           "type": "description",
           "settings": {
@@ -128,6 +134,7 @@
         "liquid_PUUP7c",
         "title",
         "separator_KnnhHt",
+        "liquid_8ijkHW",
         "description",
         "liquid_qCjND6",
         "kaching_bundles_app_block_AJrNJc",
