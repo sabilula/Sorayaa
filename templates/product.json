@@ -414,14 +414,14 @@
         },
         "slide_ByLRzx": {
           "type": "slide",
-          "disabled": true,
           "settings": {
             "media_style": "image",
+            "image": "shopify://shop_images/pic_1.jpg",
             "video_url": "https://www.youtube.com/watch?v=_9VUPq3SxOc",
             "controls": false,
             "stars_count": 5,
-            "text": "<p>All my friends want them too now, at least I was the first one to get them..!</p>",
-            "author": "<p><strong>@mcqueen</strong></p>"
+            "text": "<p><em>\"Non pensavo di avere questi problemi. Niente di fisico, solo ansia. Il momento arrivava e la testa bloccava tutto. Imbarazzante da dire, devastante da vivere. VigorMax mi ha dato la sicurezza che mancava, non solo fisicamente. Ora sono rilassato, presente, e lei è felicissima.\"</em></p>",
+            "author": "<p><strong>luca, 38 anni</strong></p>"
           }
         },
         "slide_TNVb7m": {
