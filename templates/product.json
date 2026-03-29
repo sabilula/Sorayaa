@@ -426,14 +426,13 @@
         },
         "slide_TNVb7m": {
           "type": "slide",
-          "disabled": true,
           "settings": {
             "media_style": "image",
             "image": "shopify://shop_images/Screenshot_2026-03-29_at_01.05.49.png",
             "video_url": "https://www.youtube.com/watch?v=_9VUPq3SxOc",
             "controls": false,
             "stars_count": 5,
-            "text": "<p><em>Lavoro 12 ore al giorno, stress alle stelle. Da 2 anni non ero più quello di prima con mia moglie. Me ne vergognavo troppo per parlarne. Ho provato Vigormax senza troppe aspettative... ho capito che non era come gli altri prodotti. Mia moglie mi ha guardato in modo diverso quella notte. Finalmente mi sento di nuovo un uomo.\"</em></p>",
+            "text": "<p><em>\"Lavoro 12 ore al giorno, stress alle stelle. Da 2 anni non ero più quello di prima con mia moglie. Me ne vergognavo troppo per parlarne. Ho provato Vigormax senza troppe aspettative... ho capito che non era come gli altri prodotti. Mia moglie mi ha guardato in modo diverso quella notte. Finalmente mi sento di nuovo un uomo.\"</em></p>",
             "author": "<p><strong>Roberto, 56 anni</strong></p>"
           }
         }
