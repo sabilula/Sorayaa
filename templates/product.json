@@ -364,6 +364,18 @@
             "author": "<p><strong>Marco, 68 anni</strong></p>"
           }
         },
+        "slide_48ypch": {
+          "type": "slide",
+          "settings": {
+            "media_style": "image",
+            "image": "shopify://shop_images/photo_d2cc02ccf6a5a61571d269c4ec7f3a4d.jpg",
+            "video_url": "https://www.youtube.com/watch?v=_9VUPq3SxOc",
+            "controls": false,
+            "stars_count": 5,
+            "text": "<p><em>\"Ho speso centinaia di euro in pillole e integratori. Tutti promettono, nessuno mantiene. Ho provato vigormax solo perché c'era la garanzia rimborso, tanto non avevo niente da perdere. Due vaporizzazioni. Un minuto. Non ho parole. Per la prima volta in 3 anni mia moglie mi ha detto 'non smettere mai'. Vale ogni centesimo.\"</em></p>",
+            "author": "<p><strong>Tony, 46 anni</strong></p>"
+          }
+        },
         "slide_RDbzj7": {
           "type": "slide",
           "settings": {
@@ -390,7 +402,6 @@
         },
         "slide_YHVhX6": {
           "type": "slide",
-          "disabled": true,
           "settings": {
             "media_style": "image",
             "image": "shopify://shop_images/Richard-gere-credit-instagram.jpg",
@@ -399,18 +410,6 @@
             "stars_count": 5,
             "text": "<p>Love them, they give the perfect luxury touch to any room</p>",
             "author": "<p><strong>Salvatore, 76 anni</strong></p>"
-          }
-        },
-        "slide_48ypch": {
-          "type": "slide",
-          "disabled": true,
-          "settings": {
-            "media_style": "image",
-            "video_url": "https://www.youtube.com/watch?v=_9VUPq3SxOc",
-            "controls": false,
-            "stars_count": 5,
-            "text": "<p>The cordless lamp you've been looking for!</p>",
-            "author": "<p><strong>@lacey</strong></p>"
           }
         },
         "slide_ByLRzx": {
@@ -441,10 +440,10 @@
       "block_order": [
         "slide_aaeLJb",
         "slide_Jwnt83",
+        "slide_48ypch",
         "slide_RDbzj7",
         "slide_EbEDmR",
         "slide_YHVhX6",
-        "slide_48ypch",
         "slide_ByLRzx",
         "slide_TNVb7m"
       ],
