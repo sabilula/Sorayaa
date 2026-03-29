@@ -412,18 +412,6 @@
             "author": "<p><strong>Salvatore, 76 anni</strong></p>"
           }
         },
-        "slide_ByLRzx": {
-          "type": "slide",
-          "settings": {
-            "media_style": "image",
-            "image": "shopify://shop_images/pic_1.jpg",
-            "video_url": "https://www.youtube.com/watch?v=_9VUPq3SxOc",
-            "controls": false,
-            "stars_count": 5,
-            "text": "<p><em>\"Non pensavo di avere questi problemi. Niente di fisico, solo ansia. Il momento arrivava e la testa bloccava tutto. Imbarazzante da dire, devastante da vivere. VigorMax mi ha dato la sicurezza che mancava, non solo fisicamente. Ora sono rilassato, presente, e lei è felicissima.\"</em></p>",
-            "author": "<p><strong>luca, 38 anni</strong></p>"
-          }
-        },
         "slide_TNVb7m": {
           "type": "slide",
           "settings": {
@@ -435,6 +423,18 @@
             "text": "<p><em>\"Lavoro 12 ore al giorno, stress alle stelle. Da 2 anni non ero più quello di prima con mia moglie. Me ne vergognavo troppo per parlarne. Ho provato Vigormax senza troppe aspettative... ho capito che non era come gli altri prodotti. Mia moglie mi ha guardato in modo diverso quella notte. Finalmente mi sento di nuovo un uomo.\"</em></p>",
             "author": "<p><strong>Roberto, 56 anni</strong></p>"
           }
+        },
+        "slide_ByLRzx": {
+          "type": "slide",
+          "settings": {
+            "media_style": "image",
+            "image": "shopify://shop_images/pic_1.jpg",
+            "video_url": "https://www.youtube.com/watch?v=_9VUPq3SxOc",
+            "controls": false,
+            "stars_count": 5,
+            "text": "<p><em>\"Non pensavo di avere questi problemi. Niente di fisico, solo ansia. Il momento arrivava e la testa bloccava tutto. Imbarazzante da dire, devastante da vivere. VigorMax mi ha dato la sicurezza che mancava, non solo fisicamente. Ora sono rilassato, presente, e lei è felicissima.\"</em></p>",
+            "author": "<p><strong>luca, 38 anni</strong></p>"
+          }
         }
       },
       "block_order": [
@@ -444,8 +444,8 @@
         "slide_RDbzj7",
         "slide_EbEDmR",
         "slide_YHVhX6",
-        "slide_ByLRzx",
-        "slide_TNVb7m"
+        "slide_TNVb7m",
+        "slide_ByLRzx"
       ],
       "name": "SS - Testimonials #12",
       "settings": {
