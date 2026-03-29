@@ -647,28 +647,6 @@
         "accordion_background": "",
         "accordion_text_color": ""
       }
-    },
-    "related-products": {
-      "type": "related-products",
-      "settings": {
-        "recommendations_count": 6,
-        "products": [],
-        "full_width": true,
-        "stack_products": true,
-        "show_progress_bar": false,
-        "products_per_row_mobile": "1",
-        "products_per_row_desktop": 3,
-        "subheading": "",
-        "title": "You may also like",
-        "content": "",
-        "background": "",
-        "background_gradient": "",
-        "text_color": "",
-        "heading_color": "",
-        "heading_gradient": "",
-        "product_card_background": "",
-        "product_card_text_color": ""
-      }
     }
   },
   "order": [
@@ -681,7 +659,6 @@
     "multi_column_wyqCKB",
     "testimonials_FXCdNy",
     "multi_column_BMcJih",
-    "faq_aKtydG",
-    "related-products"
+    "faq_aKtydG"
   ]
 }
