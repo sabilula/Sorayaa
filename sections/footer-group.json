@@ -94,7 +94,7 @@
         "text_HymchD": {
           "type": "text",
           "settings": {
-            "title": "Orari di assistenza:",
+            "title": "Nous sommes disponibles :",
             "content": "<p><strong>Lundi – Vendredi:</strong> 9:00 – 12:00 / 13:00 – 18:00<br/><br/><strong>Samedi – Dimanche:</strong> 10:00 – 12:00</p><p><strong>Réponse garantie sous 12 heures.</strong></p>",
             "enable_follow_on_shop": false
           }
