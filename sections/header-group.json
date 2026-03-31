@@ -17,14 +17,14 @@
         "message_BzKRyc": {
           "type": "message",
           "settings": {
-            "text": "GARANZIA 30 GIORNI",
+            "text": "GARANTIE 30 JOURS",
             "url": ""
           }
         },
         "message": {
           "type": "message",
           "settings": {
-            "text": "🐣 OFFERTA DI PASQUA: L’offerta termina stasera!",
+            "text": "🐣 OFFRE DE PÂQUES: L’offre se termine ce soir !",
             "url": ""
           }
         }
@@ -65,7 +65,7 @@
         "show_country_flag": true,
         "show_country_name": true,
         "transparent_header_text_color": "#ffffff",
-        "transparent_logo": "shopify://shop_images/BOHARDI_TRANSPARENT_copie.png",
+        "transparent_logo": "shopify://shop_images/Screenshot_2026-03-31_at_15.58.25.png",
         "reduce_padding": false,
         "background_opacity": 100,
         "background_blur_radius": 0
