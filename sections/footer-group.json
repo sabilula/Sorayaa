@@ -86,8 +86,8 @@
         "text": {
           "type": "text",
           "settings": {
-            "title": "Contacto",
-            "content": "<p><strong>Servizio clienti: </strong><a href=\"mailto:boostplus.team@gmail.com\"><strong>boostplus.team@gmail.com</strong></a></p>",
+            "title": "Contact",
+            "content": "<p><strong>Service client: </strong></p><p><a href=\"mailto:boostplus.team@gmail.com\"><strong>boostplus.team@gmail.com</strong></a></p>",
             "enable_follow_on_shop": false
           }
         },
@@ -95,7 +95,7 @@
           "type": "text",
           "settings": {
             "title": "Orari di assistenza:",
-            "content": "<p><strong>Lunedì – Venerdì:</strong> 9:00 – 12:00 / 13:00 – 18:00<br/><br/><strong>Sabato – Domenica:</strong> 10:00 – 12:00</p><p><strong>Risposta garantita entro 12 ore.</strong></p>",
+            "content": "<p><strong>Lundi – Vendredi:</strong> 9:00 – 12:00 / 13:00 – 18:00<br/><br/><strong>Samedi – Dimanche:</strong> 10:00 – 12:00</p><p><strong>Réponse garantie sous 12 heures.</strong></p>",
             "enable_follow_on_shop": false
           }
         }
