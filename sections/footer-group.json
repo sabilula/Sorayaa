@@ -23,7 +23,7 @@
             "icon_background_type": "circle",
             "icon_background": "#223547",
             "icon_color": "#ffffff",
-            "title": "Spedizione gratuita",
+            "title": "Livraison offerte",
             "content": ""
           }
         },
@@ -36,7 +36,7 @@
             "icon_background_type": "circle",
             "icon_background": "#223547",
             "icon_color": "#ffffff",
-            "title": "Soddisfatti o rimborsati",
+            "title": "Satisfait ou remboursé",
             "content": ""
           }
         },
@@ -49,7 +49,7 @@
             "icon_background_type": "circle",
             "icon_background": "#223547",
             "icon_color": "#ffffff",
-            "title": "Servizio clienti 7 giorni su 7",
+            "title": "Service clients 7j/7",
             "content": ""
           }
         }
