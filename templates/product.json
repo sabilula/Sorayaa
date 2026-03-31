@@ -583,29 +583,29 @@
         "item_rdMmfP": {
           "type": "item",
           "settings": {
-            "title": "Posso usarlo ogni giorno?",
-            "content": "<p>Assolutamente! Usalo quotidianamente o solo quando ne hai bisogno, senza alcun rischio.</p>"
+            "title": "Puis-je l’utiliser tous les jours ?",
+            "content": "<p>Absolument ! Vous pouvez l’utiliser quotidiennement ou seulement lorsque vous en avez besoin, sans aucun risque.</p>"
           }
         },
         "item_HMn6fN": {
           "type": "item",
           "settings": {
-            "title": "Come usare VigorMax™ al meglio?",
-            "content": "<p>Basta vaporizzare una o due volte sotto la lingua, appena prima di passare all'azione. Nessuna preparazione, nessun rituale complicato, sei letteralmente pronto in pochi secondi.</p>"
+            "title": "Comment utiliser VigorMax™ de manière optimale ?",
+            "content": "<p>Il suffit de vaporiser une ou deux fois sous la langue, juste avant de passer à l’action. Aucune préparation, aucun rituel compliqué : vous êtes littéralement prêt en quelques secondes.</p>"
           }
         },
         "item_PXHYHf": {
           "type": "item",
           "settings": {
-            "title": "E se non funziona per me?",
-            "content": "<p>Nessun problema. VigorMax è stato sviluppato per offrire la massima efficacia alla quasi totalità degli uomini. Ma se per qualsiasi motivo non dovesse funzionare? Vieni semplicemente rimborsato. Nessun rischio, nessuna scusa. Solo risultati, o i tuoi soldi indietro.</p>"
+            "title": "Et si ça ne fonctionne pas pour moi ?",
+            "content": "<p>Aucun problème. VigorMax a été conçu pour offrir une efficacité maximale à la grande majorité des hommes. Mais si, pour une raison quelconque, cela ne fonctionne pas ? Vous êtes simplement remboursé. Aucun risque, aucune excuse. Soit des résultats, soit votre argent est remboursé.</p>"
           }
         },
         "item_XJGcG4": {
           "type": "item",
           "settings": {
-            "title": "VigorMax™ funziona anche se soffro di stress o ansia da prestazione?",
-            "content": "<p>Sì. VigorMax™ è stato appositamente formulato per metterti rapidamente nel giusto stato mentale, anche quando sei teso o poco sicuro di te. La sua formula ti aiuta a rilassarti e aumenta il flusso sanguigno affinché il tuo corpo risponda, anche quando la testa fa resistenza.</p>"
+            "title": "VigorMax™ fonctionne-t-il même si je souffre de stress ou d’anxiété de performance ?",
+            "content": "<p>Oui. VigorMax™ a été spécialement formulé pour vous mettre rapidement dans le bon état mental, même si vous êtes tendu ou peu sûr de vous. Sa formule vous aide à vous détendre et augmente le flux sanguin afin que votre corps réponde, même lorsque votre esprit bloque.</p>"
           }
         }
       },
@@ -619,7 +619,7 @@
       "settings": {
         "full_width": true,
         "subheading": "",
-        "title": "DOMANDE FREQUENTI",
+        "title": "Questions fréquentes",
         "content": "",
         "team_avatar_width": 160,
         "support_hours": "",
