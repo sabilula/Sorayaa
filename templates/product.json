@@ -22,6 +22,22 @@
         "text_color": ""
       }
     },
+    "image_with_text_overlay_UEJtA3": {
+      "type": "image-with-text-overlay",
+      "name": "Image with text overlay",
+      "settings": {
+        "full_width": true,
+        "allow_transparent_header": false,
+        "enable_parallax": false,
+        "image_size": "auto",
+        "image": "shopify://shop_images/hf_20260408_211114_5c1c1580-647b-4a3e-ab68-bbe6e76f86ac.png",
+        "mobile_text_position": "place-self-center text-center",
+        "desktop_text_position": "sm:place-self-center sm:text-center",
+        "text_color": "#ffffff",
+        "overlay_color": "#000000",
+        "overlay_opacity": 0
+      }
+    },
     "main": {
       "type": "main-product",
       "blocks": {
@@ -641,6 +657,7 @@
   },
   "order": [
     "custom_liquid_MKktBy",
+    "image_with_text_overlay_UEJtA3",
     "main",
     "multi_column_iGXEwa",
     "multi_column_YHRUCR",
