@@ -24,6 +24,7 @@
     },
     "image_with_text_overlay_UEJtA3": {
       "type": "image-with-text-overlay",
+      "disabled": true,
       "name": "Image with text overlay",
       "settings": {
         "full_width": true,
@@ -36,42 +37,6 @@
         "text_color": "#ffffff",
         "overlay_color": "#000000",
         "overlay_opacity": 0
-      }
-    },
-    "rich_text_9UqKEx": {
-      "type": "rich-text",
-      "blocks": {
-        "heading_Y9KxGf": {
-          "type": "heading",
-          "settings": {
-            "text": "Vu sur...",
-            "heading_tag": "h2",
-            "text_color": "",
-            "gradient": ""
-          }
-        },
-        "image_r6RcdH": {
-          "type": "image",
-          "settings": {
-            "image": "shopify://shop_images/Screenshot_2026-03-26_at_21.18.49.png",
-            "width_mode": "full_width",
-            "max_width": 1000,
-            "mobile_max_width": 600
-          }
-        }
-      },
-      "block_order": [
-        "heading_Y9KxGf",
-        "image_r6RcdH"
-      ],
-      "name": "Rich text",
-      "settings": {
-        "full_width": true,
-        "content_width": "small",
-        "text_position": "center",
-        "background": "",
-        "background_gradient": "",
-        "text_color": ""
       }
     },
     "main": {
@@ -270,6 +235,42 @@
         "subheading": "",
         "title": "",
         "content": "",
+        "background": "",
+        "background_gradient": "",
+        "text_color": ""
+      }
+    },
+    "rich_text_9UqKEx": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_Y9KxGf": {
+          "type": "heading",
+          "settings": {
+            "text": "Vu sur...",
+            "heading_tag": "h2",
+            "text_color": "",
+            "gradient": ""
+          }
+        },
+        "image_r6RcdH": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/Screenshot_2026-03-26_at_21.18.49.png",
+            "width_mode": "full_width",
+            "max_width": 1000,
+            "mobile_max_width": 600
+          }
+        }
+      },
+      "block_order": [
+        "heading_Y9KxGf",
+        "image_r6RcdH"
+      ],
+      "name": "Rich text",
+      "settings": {
+        "full_width": true,
+        "content_width": "small",
+        "text_position": "center",
         "background": "",
         "background_gradient": "",
         "text_color": ""
@@ -658,10 +659,10 @@
   "order": [
     "custom_liquid_MKktBy",
     "image_with_text_overlay_UEJtA3",
-    "rich_text_9UqKEx",
     "main",
     "multi_column_iGXEwa",
     "multi_column_YHRUCR",
+    "rich_text_9UqKEx",
     "multi_column_EeJHVR",
     "multi_column_wyqCKB",
     "testimonials_FXCdNy",
