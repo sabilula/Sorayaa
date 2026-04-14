@@ -1,0 +1,672 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
+{
+  "sections": {
+    "custom_liquid_MKktBy": {
+      "type": "custom-liquid",
+      "name": "Custom Liquid",
+      "settings": {
+        "full_width": true,
+        "remove_vertical_spacing": false,
+        "remove_horizontal_spacing": false,
+        "liquid": "{% comment %}\n  Compte à rebours jusqu'à minuit - Version Française\n{% endcomment %}\n<style>\n  .promo-announcement-bar {\n    background-color: #223547;\n    color: #ffffff;\n    text-align: center;\n    padding: 10px 16px;\n    font-family: inherit;\n    width: 100%;\n    box-sizing: border-box;\n  }\n  .promo-announcement-bar__top-text {\n    font-size: 13px;\n    font-weight: 700;\n    letter-spacing: 0.04em;\n    text-transform: uppercase;\n    margin-bottom: 6px;\n    color: #ffffff;\n  }\n  .promo-announcement-bar__timer-wrap {\n    display: flex;\n    align-items: center;\n    justify-content: center;\n    gap: 6px;\n  }\n  .promo-timer__block {\n    display: flex;\n    flex-direction: column;\n    align-items: center;\n  }\n  .promo-timer__number {\n    background-color: #ffffff;\n    color: #223547;\n    font-size: 18px;\n    font-weight: 800;\n    line-height: 1;\n    padding: 5px 8px;\n    min-width: 38px;\n    text-align: center;\n    border-radius: 3px;\n    letter-spacing: 0.02em;\n    font-variant-numeric: tabular-nums;\n  }\n  .promo-timer__label {\n    font-size: 9px;\n    font-weight: 600;\n    letter-spacing: 0.08em;\n    text-transform: uppercase;\n    color: #ffffff;\n    margin-top: 3px;\n  }\n  .promo-timer__separator {\n    font-size: 20px;\n    font-weight: 800;\n    color: #ffffff;\n    line-height: 1;\n    margin-bottom: 12px;\n    align-self: flex-start;\n    padding-top: 5px;\n  }\n</style>\n\n<div class=\"promo-announcement-bar\">\n  <div class=\"promo-announcement-bar__top-text\">\n    Notre Plus Grosse Promo de l'Année\n  </div>\n  <div class=\"promo-announcement-bar__timer-wrap\">\n    <div class=\"promo-timer__block\">\n      <span class=\"promo-timer__number\" id=\"promo-hours\">00</span>\n      <span class=\"promo-timer__label\">HEURES</span>\n    </div>\n    <div class=\"promo-timer__separator\">:</div>\n    <div class=\"promo-timer__block\">\n      <span class=\"promo-timer__number\" id=\"promo-minutes\">00</span>\n      <span class=\"promo-timer__label\">MIN</span>\n    </div>\n    <div class=\"promo-timer__separator\">:</div>\n    <div class=\"promo-timer__block\">\n      <span class=\"promo-timer__number\" id=\"promo-seconds\">00</span>\n      <span class=\"promo-timer__label\">SEC</span>\n    </div>\n  </div>\n</div>\n\n<script>\n  (function () {\n    function pad(n) {\n      return String(n).padStart(2, '0');\n    }\n    function updateCountdown() {\n      var now = new Date();\n      var midnight = new Date();\n      midnight.setHours(24, 0, 0, 0);\n      var diff = Math.floor((midnight - now) / 1000);\n      if (diff < 0) diff = 0;\n      var hours   = Math.floor(diff / 3600);\n      var minutes = Math.floor((diff % 3600) / 60);\n      var seconds = diff % 60;\n      document.getElementById('promo-hours').textContent   = pad(hours);\n      document.getElementById('promo-minutes').textContent = pad(minutes);\n      document.getElementById('promo-seconds').textContent = pad(seconds);\n    }\n    updateCountdown();\n    setInterval(updateCountdown, 1000);\n  })();\n</script>",
+        "background": "",
+        "background_gradient": "",
+        "text_color": ""
+      }
+    },
+    "image_with_text_overlay_UEJtA3": {
+      "type": "image-with-text-overlay",
+      "disabled": true,
+      "name": "Image with text overlay",
+      "settings": {
+        "full_width": true,
+        "allow_transparent_header": false,
+        "enable_parallax": false,
+        "image_size": "auto",
+        "image": "shopify://shop_images/hf_20260408_211114_5c1c1580-647b-4a3e-ab68-bbe6e76f86ac.png",
+        "mobile_text_position": "place-self-center text-center",
+        "desktop_text_position": "sm:place-self-center sm:text-center",
+        "text_color": "#ffffff",
+        "overlay_color": "#000000",
+        "overlay_opacity": 0
+      }
+    },
+    "main": {
+      "type": "main-product",
+      "blocks": {
+        "liquid_PUUP7c": {
+          "type": "liquid",
+          "settings": {
+            "liquid": "<title>Trustpilot Stars</title>\n</head>\n<body>\n    <a target=\"_blank\" rel=\"noopener noreferrer\" style=\"text-decoration: none; display: flex; align-items: center;\">\n        <span style=\"font-size: 15px; font-weight: bold; color: #000;\">4.8/5</span>\n        <img src=\"https://cdn.shopify.com/s/files/1/0647/2148/6072/files/trustpilot_5_stars.svg?v=1721578152\" alt=\"Trustpilot 5 stars\" style=\"margin: 0 8px; width: 80px; height: auto;\">\n        <span style=\"font-size: 15px; color: #555;\">(12.750+)</span>\n    </a>"
+          }
+        },
+        "title": {
+          "type": "title",
+          "settings": {
+            "heading_tag": "h4"
+          }
+        },
+        "separator_KnnhHt": {
+          "type": "separator",
+          "settings": {}
+        },
+        "liquid_8ijkHW": {
+          "type": "liquid",
+          "settings": {
+            "liquid": "<div style=\"text-align: center; margin-top: 12px;\">\n<div class=\"poty-badge\">\n  <div class=\"poty-badge__star\">★</div>\n  <div class=\"poty-badge__text\">\n    <span class=\"poty-badge__top\">ÉLU PRODUIT</span>\n    <span class=\"poty-badge__mid\">DE L'ANNÉE 2025</span>\n    <span class=\"poty-badge__bot\">Santé Masculine</span>\n  </div>\n  <div class=\"poty-badge__year\">25</div>\n</div>\n</div>\n\n<style>\n  .poty-badge {\n    display: inline-flex;\n    align-items: center;\n    gap: 10px;\n    padding: 10px 16px;\n    background: linear-gradient(135deg, #1a1a2e 0%, #2a2a4e 100%);\n    border: 2px solid #c9a84c;\n    border-radius: 6px;\n  }\n  .poty-badge__star {\n    font-size: 22px;\n    color: #c9a84c;\n    line-height: 1;\n    flex-shrink: 0;\n  }\n  .poty-badge__text {\n    display: flex;\n    flex-direction: column;\n    gap: 1px;\n  }\n  .poty-badge__top {\n    font-size: 9px;\n    font-weight: 700;\n    color: #c9a84c;\n    letter-spacing: 0.12em;\n  }\n  .poty-badge__mid {\n    font-size: 13px;\n    font-weight: 800;\n    color: #fff;\n    letter-spacing: 0.06em;\n  }\n  .poty-badge__bot {\n    font-size: 9px;\n    font-weight: 500;\n    color: #aaa;\n    letter-spacing: 0.08em;\n  }\n  .poty-badge__year {\n    font-size: 28px;\n    font-weight: 900;\n    color: rgba(201, 168, 76, 0.2);\n    letter-spacing: -0.02em;\n    line-height: 1;\n    flex-shrink: 0;\n    font-family: Georgia, serif;\n  }\n</style>"
+          }
+        },
+        "description": {
+          "type": "description",
+          "settings": {
+            "icon": "none",
+            "icon_width": 20,
+            "collapse_content": false
+          }
+        },
+        "liquid_qCjND6": {
+          "type": "liquid",
+          "settings": {
+            "liquid": "<style>\n  .stock-alert {\n    display: inline-flex;\n    align-items: center;\n    background-color: #ffffff;\n    border-radius: 10px;\n    padding: 6px 12px;\n    font-family: 'Poppins', Arial, sans-serif;\n    font-weight: bold;\n    font-size: 12px;\n    color: red;\n  }\n  .pulse-dot {\n    width: 12px;\n    height: 12px;\n    border-radius: 50%;\n    background-color: red;\n    margin-right: 10px;\n    box-shadow: 0 0 0 0 rgba(255, 0, 0, 0.7);\n    animation: pulse 1.5s infinite;\n  }\n  @keyframes pulse {\n    0% {\n      transform: scale(0.95);\n      box-shadow: 0 0 0 0 rgba(255, 0, 0, 0.7);\n    }\n    70% {\n      transform: scale(1);\n      box-shadow: 0 0 0 10px rgba(255, 0, 0, 0);\n    }\n    100% {\n      transform: scale(0.95);\n      box-shadow: 0 0 0 0 rgba(255, 0, 0, 0);\n    }\n  }\n</style>\n<div class=\"stock-alert\">\n  <div class=\"pulse-dot\"></div>\n  Forte demande, il n'en reste plus que quelques-uns en stock !\n</div>"
+          }
+        },
+        "kaching_bundles_app_block_AJrNJc": {
+          "type": "shopify://apps/kaching-bundles/blocks/app-block/6c637362-a106-4a32-94ac-94dcfd68cdb8",
+          "settings": {
+            "product": "vigormax",
+            "manual_deal_block_id": ""
+          }
+        },
+        "liquid_P9acwF": {
+          "type": "liquid",
+          "settings": {
+            "liquid": "<details class=\"disc-block\">\n  <summary class=\"disc-block__title\">\n    <svg xmlns=\"http://www.w3.org/2000/svg\" width=\"18\" height=\"18\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><path d=\"M17.94 17.94A10.07 10.07 0 0 1 12 20c-7 0-11-8-11-8a18.45 18.45 0 0 1 5.06-5.94\"/><path d=\"M9.9 4.24A9.12 9.12 0 0 1 12 4c7 0 11 8 11 8a18.5 18.5 0 0 1-2.16 3.19\"/><line x1=\"1\" y1=\"1\" x2=\"23\" y2=\"23\"/></svg>\n    Livraison & paiement discrets\n    <svg class=\"disc-block__chevron\" xmlns=\"http://www.w3.org/2000/svg\" width=\"16\" height=\"16\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><polyline points=\"6 9 12 15 18 9\"/></svg>\n  </summary>\n  <div class=\"disc-block__content\">\n    <ul class=\"disc-block__list\">\n      <li>\n        <svg xmlns=\"http://www.w3.org/2000/svg\" width=\"13\" height=\"13\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><polyline points=\"20 6 9 17 4 12\"/></svg>\n        Le colis est expédié dans une <strong>enveloppe neutre, sans logo ni indication sur le contenu</strong>\n      </li>\n      <li>\n        <svg xmlns=\"http://www.w3.org/2000/svg\" width=\"13\" height=\"13\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><polyline points=\"20 6 9 17 4 12\"/></svg>\n        Sur ton relevé bancaire apparaîtra uniquement <strong>\"BOHARDI\"</strong> — aucune référence au produit\n      </li>\n      <li>\n        <svg xmlns=\"http://www.w3.org/2000/svg\" width=\"13\" height=\"13\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><polyline points=\"20 6 9 17 4 12\"/></svg>\n        Tes données personnelles ne sont jamais partagées ni vendues à des tiers\n      </li>\n    </ul>\n  </div>\n</details>\n\n<style>\n  .disc-block {\n    border: 2px solid #1a1a2e;\n    border-radius: 8px;\n    margin-top: 14px;\n    overflow: hidden;\n    font-family: inherit;\n  }\n  .disc-block__title {\n    display: flex;\n    align-items: center;\n    gap: 10px;\n    padding: 15px 16px;\n    font-size: 12px;\n    font-weight: 700;\n    color: #fff;\n    cursor: pointer;\n    list-style: none;\n    background: #1a1a2e;\n    letter-spacing: 0.01em;\n  }\n  .disc-block__title::-webkit-details-marker { display: none; }\n  .disc-block__title svg:first-child {\n    flex-shrink: 0;\n    color: #fff;\n  }\n  .disc-block__chevron {\n    margin-left: auto;\n    flex-shrink: 0;\n    transition: transform 0.2s ease;\n    color: #fff;\n  }\n  details[open] .disc-block__chevron {\n    transform: rotate(180deg);\n  }\n  .disc-block__content {\n    padding: 16px 18px;\n    border-top: 2px solid #1a1a2e;\n    background: #fff;\n  }\n  .disc-block__list {\n    list-style: none;\n    margin: 0;\n    padding: 0;\n    display: flex;\n    flex-direction: column;\n    gap: 12px;\n  }\n  .disc-block__list li {\n    display: flex;\n    align-items: flex-start;\n    gap: 9px;\n    font-size: 14px;\n    color: #333;\n    line-height: 1.6;\n  }\n  .disc-block__list li svg {\n    flex-shrink: 0;\n    margin-top: 3px;\n    color: #2ecc71;\n  }\n  .disc-block__list li strong {\n    color: #1a1a2e;\n    font-weight: 700;\n  }\n</style>"
+          }
+        },
+        "buy_buttons": {
+          "type": "buy_buttons",
+          "settings": {
+            "show_payment_button": false,
+            "show_gift_card_recipient": true,
+            "atc_button_background": "",
+            "atc_button_text_color": "",
+            "payment_button_background": "",
+            "payment_button_text_color": ""
+          }
+        },
+        "liquid_kj6P8U": {
+          "type": "liquid",
+          "settings": {
+            "liquid": "<div class=\"pp-trust\">\n  <svg xmlns=\"http://www.w3.org/2000/svg\" width=\"10\" height=\"10\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"#0070ba\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><rect x=\"3\" y=\"11\" width=\"18\" height=\"11\" rx=\"2\" ry=\"2\"/><path d=\"M7 11V7a5 5 0 0 1 10 0v4\"/></svg>\n  <span class=\"pp-trust__text\">Protégé avec</span>\n  <span class=\"pp-trust__logo\"><span style=\"color:#253B80;font-weight:700;\">Pay</span><span style=\"color:#179BD7;font-weight:700;\">Pal</span></span>\n  <span class=\"pp-trust__sep\">—</span>\n  <span class=\"pp-trust__guarantee\">Protection acheteurs</span>\n</div>\n\n<style>\n  .pp-trust {\n    display: flex;\n    align-items: center;\n    justify-content: center;\n    flex-wrap: nowrap;\n    gap: 4px;\n    padding: 6px 10px;\n    margin-top: 8px;\n    border: 1px solid rgba(0, 112, 186, 0.22);\n    border-radius: 4px;\n    background: rgba(0, 112, 186, 0.04);\n  }\n  .pp-trust__text {\n    font-size: 10px;\n    color: #666;\n    white-space: nowrap;\n  }\n  .pp-trust__logo {\n    font-size: 11px;\n    font-family: Arial, sans-serif;\n    white-space: nowrap;\n  }\n  .pp-trust__sep {\n    font-size: 9px;\n    color: #bbb;\n  }\n  .pp-trust__guarantee {\n    font-size: 10px;\n    color: #0070ba;\n    font-weight: 500;\n    white-space: nowrap;\n  }\n</style>"
+          }
+        },
+        "liquid_6ebqxT": {
+          "type": "liquid",
+          "settings": {
+            "liquid": "<div class=\"secure-payment-block\">\n  <div class=\"secure-payment-block__top\">\n    <svg xmlns=\"http://www.w3.org/2000/svg\" width=\"12\" height=\"12\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><path d=\"M12 22s8-4 8-10V5l-8-3-8 3v7c0 6 8 10 8 10z\"/></svg>\n    <span class=\"secure-payment-block__label\">Paiement 100% Sécurisé et Protégé</span>\n    <span class=\"secure-payment-block__ssl\">🔒 SSL</span>\n  </div>\n  <div class=\"secure-payment-block__bottom\">\n    <span class=\"secure-payment-block__item\">\n      <svg xmlns=\"http://www.w3.org/2000/svg\" width=\"10\" height=\"10\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><polyline points=\"20 6 9 17 4 12\"/></svg>\n      Données cryptées\n    </span>\n    <span class=\"secure-payment-block__dot\">·</span>\n    <span class=\"secure-payment-block__item\">\n      <svg xmlns=\"http://www.w3.org/2000/svg\" width=\"10\" height=\"10\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><polyline points=\"20 6 9 17 4 12\"/></svg>\n      Aucune donnée sauvegardée\n    </span>\n    <span class=\"secure-payment-block__dot\">·</span>\n    <span class=\"secure-payment-block__item\">\n      <svg xmlns=\"http://www.w3.org/2000/svg\" width=\"10\" height=\"10\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><polyline points=\"20 6 9 17 4 12\"/></svg>\n      Achat discret\n    </span>\n  </div>\n</div>\n\n<style>\n  .secure-payment-block {\n    margin-top: 10px;\n    border: 1px solid #e0e0e0;\n    border-radius: 6px;\n    overflow: hidden;\n    font-family: inherit;\n  }\n  .secure-payment-block__top {\n    display: flex;\n    align-items: center;\n    justify-content: center;\n    gap: 6px;\n    background: #1a1a2e;\n    color: #fff;\n    padding: 7px 12px;\n  }\n  .secure-payment-block__label {\n    font-size: 11px;\n    font-weight: 500;\n    letter-spacing: 0.03em;\n    white-space: nowrap;\n  }\n  .secure-payment-block__ssl {\n    font-size: 10px;\n    background: #2ecc71;\n    color: #fff;\n    padding: 2px 6px;\n    border-radius: 3px;\n    font-weight: 600;\n    letter-spacing: 0.05em;\n  }\n  .secure-payment-block__bottom {\n    display: flex;\n    align-items: center;\n    justify-content: center;\n    flex-wrap: wrap;\n    gap: 4px;\n    padding: 6px 12px;\n    background: #f8f8f8;\n  }\n  .secure-payment-block__item {\n    display: flex;\n    align-items: center;\n    gap: 3px;\n    font-size: 10px;\n    color: #555;\n    letter-spacing: 0.01em;\n  }\n  .secure-payment-block__item svg {\n    color: #2ecc71;\n    flex-shrink: 0;\n  }\n  .secure-payment-block__dot {\n    color: #ccc;\n    font-size: 12px;\n  }\n</style>"
+          }
+        },
+        "image_MX7Ty3": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/Screenshot_2026-03-26_at_19.38.44.png",
+            "alignment": "center",
+            "max_width": 500
+          }
+        },
+        "image_aXLPFg": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/Screenshot_2026-03-31_at_20.21.09.png",
+            "alignment": "start",
+            "max_width": 250
+          }
+        },
+        "liquid_A94nir": {
+          "type": "liquid",
+          "disabled": true,
+          "settings": {
+            "liquid": "<div class=\"cert-badges\">\n  <div class=\"cert-badge cert-badge--swiss\">\n    <div class=\"cert-badge__flag\">\n      <span class=\"cert-badge__cross\"></span>\n    </div>\n    <div class=\"cert-badge__label\">\n      <span class=\"cert-badge__top\">SWISS</span>\n      <span class=\"cert-badge__bot\">MADE</span>\n    </div>\n  </div>\n\n  <div class=\"cert-badge cert-badge--gmp\">\n    <span class=\"cert-badge__icon\">✦</span>\n    <div class=\"cert-badge__label\">\n      <span class=\"cert-badge__top\">GMP</span>\n      <span class=\"cert-badge__bot\">CERTIFIED</span>\n    </div>\n  </div>\n\n  <div class=\"cert-badge cert-badge--iso\">\n    <span class=\"cert-badge__icon\">◈</span>\n    <div class=\"cert-badge__label\">\n      <span class=\"cert-badge__top\">ISO</span>\n      <span class=\"cert-badge__bot\">9001</span>\n    </div>\n  </div>\n</div>\n\n<style>\n  .cert-badges {\n    display: flex;\n    align-items: center;\n    justify-content: center;\n    gap: 10px;\n    margin-top: 12px;\n    flex-wrap: wrap;\n  }\n  .cert-badge {\n    display: flex;\n    flex-direction: column;\n    align-items: center;\n    justify-content: center;\n    gap: 5px;\n    width: 72px;\n    height: 72px;\n    border-radius: 6px;\n    padding: 8px 6px;\n    text-align: center;\n    border: 2px solid;\n  }\n  .cert-badge--swiss {\n    background: #fff;\n    border-color: #D52B1E;\n  }\n  .cert-badge--gmp {\n    background: #fff;\n    border-color: #1a1a2e;\n  }\n  .cert-badge--iso {\n    background: #fff;\n    border-color: #1a1a2e;\n  }\n  .cert-badge__flag {\n    width: 22px;\n    height: 22px;\n    background: #D52B1E;\n    border-radius: 3px;\n    display: flex;\n    align-items: center;\n    justify-content: center;\n    flex-shrink: 0;\n  }\n  .cert-badge__cross {\n    display: block;\n    position: relative;\n    width: 10px;\n    height: 10px;\n  }\n  .cert-badge__cross::before,\n  .cert-badge__cross::after {\n    content: '';\n    position: absolute;\n    background: #fff;\n    border-radius: 1px;\n  }\n  .cert-badge__cross::before {\n    width: 3px;\n    height: 10px;\n    left: 3.5px;\n    top: 0;\n  }\n  .cert-badge__cross::after {\n    width: 10px;\n    height: 3px;\n    top: 3.5px;\n    left: 0;\n  }\n  .cert-badge__icon {\n    font-size: 18px;\n    color: #1a1a2e;\n    line-height: 1;\n  }\n  .cert-badge__label {\n    display: flex;\n    flex-direction: column;\n    gap: 0px;\n  }\n  .cert-badge__top {\n    font-size: 11px;\n    font-weight: 800;\n    letter-spacing: 0.08em;\n    color: #1a1a2e;\n    line-height: 1.1;\n  }\n  .cert-badge__bot {\n    font-size: 8px;\n    font-weight: 600;\n    letter-spacing: 0.06em;\n    color: #888;\n    line-height: 1.2;\n  }\n  .cert-badge--swiss .cert-badge__top {\n    color: #D52B1E;\n  }\n</style>"
+          }
+        }
+      },
+      "block_order": [
+        "liquid_PUUP7c",
+        "title",
+        "separator_KnnhHt",
+        "liquid_8ijkHW",
+        "description",
+        "liquid_qCjND6",
+        "kaching_bundles_app_block_AJrNJc",
+        "liquid_P9acwF",
+        "buy_buttons",
+        "liquid_kj6P8U",
+        "liquid_6ebqxT",
+        "image_MX7Ty3",
+        "image_aXLPFg",
+        "liquid_A94nir"
+      ],
+      "settings": {
+        "full_width": true,
+        "show_fixed_add_to_cart": true,
+        "desktop_media_width": 55,
+        "desktop_media_layout": "carousel_thumbnails_bottom",
+        "mobile_media_size": "expanded",
+        "mobile_carousel_control": "thumbnails",
+        "enable_video_autoplay": true,
+        "enable_video_looping": true,
+        "enable_image_zoom": true,
+        "max_image_zoom_level": 3,
+        "background": "",
+        "background_gradient": "",
+        "text_color": "",
+        "input_background": "rgba(0,0,0,0)",
+        "input_text_color": ""
+      }
+    },
+    "multi_column_iGXEwa": {
+      "type": "multi-column",
+      "blocks": {
+        "item_6bAzkp": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/IMG_1600.webp",
+            "column_size": "3",
+            "title": "Des érections dures en 43 secondes, sentez-vous invincible au lit !",
+            "heading_tag": "h3",
+            "content": "<p>Plus d'anxiété, <strong>plus d'excuses</strong>.<br/><br/>Ce <strong>spray</strong> révolutionnaire <strong>agit plus rapidement</strong> que tout autre produit sur le marché et vous <strong>procure</strong> des érections dures et <strong>palpitantes</strong> en seulement <strong>43 secondes</strong>, à chaque fois.</p><p>Oubliez les pilules coûteuses, les pompes encombrantes ou les pauses embarrassantes dans la chambre à coucher. Avec <strong>Bohardi™</strong>, vous êtes toujours prêt à <strong>performer</strong> comme un <strong>animal</strong>, plein de puissance, plein de confiance, exactement <strong>quand il le faut</strong>.</p><p>Il suffit de <strong>vaporiser une ou deux fois sous la langue</strong> juste avant de passer à l'action. Vous serez littéralement <strong>prêt à passer à l'action en quelques secondes</strong>.</p>",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        }
+      },
+      "block_order": [
+        "item_6bAzkp"
+      ],
+      "name": "Multi-column",
+      "settings": {
+        "full_width": true,
+        "stack_on_mobile": true,
+        "gap": "medium",
+        "text_alignment": "start",
+        "subheading": "",
+        "title": "",
+        "content": "",
+        "background": "",
+        "background_gradient": "",
+        "text_color": ""
+      }
+    },
+    "multi_column_YHRUCR": {
+      "type": "multi-column",
+      "blocks": {
+        "item_WcARxH": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/IMG_1597.webp",
+            "column_size": "3",
+            "title": "Tenez 5 fois plus longtemps et laissez-la en redemander à chaque fois.",
+            "heading_tag": "h3",
+            "content": "<p></p><p>Sentez-vous invincible et reprenez <strong>le contrôle total</strong> de vos <strong>performances</strong>.<br/><br/>Cette <strong>formule</strong> extrêmement <strong>puissante</strong> envoie plus de <strong>sang</strong> que d'habitude vers votre <strong>pénis</strong>, vous permettant ainsi de <strong>rester en érection jusqu'à 4 heures</strong> sans effort, tout cela grâce à <strong>une simple vaporisation</strong>.</p><p>Que ce soit le premier ou le troisième round, <strong>vous continuez</strong>. C'est vous qui décidez du rythme. Vous avez le contrôle du début à la fin. Fini les moments de faiblesse, fini les déceptions, place à <strong>une puissance pure et une endurance inégalée</strong>.</p><p>Avec <strong>VigorMax™</strong>, vous pouvez maintenir <strong>des érections puissantes</strong> pendant des heures et lui donner <strong>envie de plus</strong>, encore et encore. À chaque fois. Chaque nuit.</p>",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        }
+      },
+      "block_order": [
+        "item_WcARxH"
+      ],
+      "name": "Multi-column",
+      "settings": {
+        "full_width": true,
+        "stack_on_mobile": true,
+        "gap": "medium",
+        "text_alignment": "start",
+        "subheading": "",
+        "title": "",
+        "content": "",
+        "background": "",
+        "background_gradient": "",
+        "text_color": ""
+      }
+    },
+    "rich_text_9UqKEx": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_Y9KxGf": {
+          "type": "heading",
+          "settings": {
+            "text": "Vu sur...",
+            "heading_tag": "h2",
+            "text_color": "",
+            "gradient": ""
+          }
+        },
+        "image_r6RcdH": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/Screenshot_2026-03-26_at_21.18.49.png",
+            "width_mode": "full_width",
+            "max_width": 1000,
+            "mobile_max_width": 600
+          }
+        }
+      },
+      "block_order": [
+        "heading_Y9KxGf",
+        "image_r6RcdH"
+      ],
+      "name": "Rich text",
+      "settings": {
+        "full_width": true,
+        "content_width": "small",
+        "text_position": "center",
+        "background": "",
+        "background_gradient": "",
+        "text_color": ""
+      }
+    },
+    "multi_column_EeJHVR": {
+      "type": "multi-column",
+      "blocks": {
+        "item_izntUc": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/IMG_1602.webp",
+            "column_size": "3",
+            "title": "« Depuis que j'ai commencé à utiliser ce produit, je la garde éveillée toute la nuit. »",
+            "heading_tag": "h3",
+            "content": "<p>« J'avais <strong>tout essayé</strong> : pilules, compléments alimentaires, exercices. <strong>Rien ne me donnait</strong> les <strong>résultats</strong> rapides et fiables dont j'avais besoin. Je continuais à espérer, mais cela <strong>se terminait</strong> généralement par une <strong>déception</strong>.</p><p>Quand j'ai lu les <strong>avis</strong> sur ce spray, je me suis dit : « C'est trop beau pour être vrai. » Mais je n'avais rien à perdre. Je l'ai <strong>vaporisé</strong> avant d'aller me coucher et en quelques secondes, <strong>littéralement quelques secondes</strong>, j'ai senti la différence. J'étais dur, plein de confiance et j'avais le contrôle total. Ma femme n'en croyait pas ses yeux. <strong>Enfin quelque chose qui fonctionne vraiment.</strong> »</p><p>— <strong>Nicolas H., 44 ans</strong></p>",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        }
+      },
+      "block_order": [
+        "item_izntUc"
+      ],
+      "name": "Multi-column",
+      "settings": {
+        "full_width": true,
+        "stack_on_mobile": true,
+        "gap": "medium",
+        "text_alignment": "start",
+        "subheading": "",
+        "title": "",
+        "content": "",
+        "background": "",
+        "background_gradient": "",
+        "text_color": ""
+      }
+    },
+    "multi_column_wyqCKB": {
+      "type": "multi-column",
+      "blocks": {
+        "item_GJRGqN": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/CE7A15C5-4126-470F-9E2F-59446E235D5B.png",
+            "column_size": "3",
+            "title": "Testé cliniquement et recommandé par plus de 143 médecins et sexologues.",
+            "heading_tag": "h3",
+            "content": "<p>De nombreux produits promettent monts et merveilles, mais ne tiennent pas leurs promesses. <strong>VigorMax™</strong>, quant à lui, dissipe tous les doutes, <strong>a gagné la confiance</strong> de plus de <strong>143 professionnels de santé</strong> et a été cliniquement prouvé pour procurer une <strong>érection en moins d'une minute</strong>.</p><p>Imaginez que vous utilisiez une solution qui <strong>est non seulement rapide et puissante</strong>, mais aussi <strong>entièrement approuvée</strong>. Pas de pilules. Pas de risques. Pas de honte.</p><p><strong>Une érection cliniquement prouvée en seulement 43 secondes !</strong></p>",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        }
+      },
+      "block_order": [
+        "item_GJRGqN"
+      ],
+      "name": "Multi-column",
+      "settings": {
+        "full_width": true,
+        "stack_on_mobile": true,
+        "gap": "medium",
+        "text_alignment": "start",
+        "subheading": "",
+        "title": "",
+        "content": "",
+        "background": "",
+        "background_gradient": "",
+        "text_color": ""
+      }
+    },
+    "testimonials_FXCdNy": {
+      "type": "testimonials",
+      "blocks": {
+        "slide_aaeLJb": {
+          "type": "slide",
+          "settings": {
+            "media_style": "image",
+            "image": "shopify://shop_images/images_12.jpg",
+            "video_url": "https://www.youtube.com/watch?v=_9VUPq3SxOc",
+            "controls": false,
+            "stars_count": 5,
+            "text": "<p><em>« Je n’aurais jamais pensé pouvoir satisfaire ma femme comme ça. Depuis que j’utilise VigorMax, j’arrive à y aller 2 à 3 fois par jour sans problème. Elle est rayonnante, elle me dit qu’elle ne s’est jamais sentie aussi comblée de toute sa vie. Avant-hier, elle m’a regardé et m’a dit : “n’arrête jamais”. Ce regard vaut tout. »</em></p>",
+            "author": "<p><strong>Stephane, 63 ans</strong></p>"
+          }
+        },
+        "slide_Jwnt83": {
+          "type": "slide",
+          "settings": {
+            "media_style": "image",
+            "image": "shopify://shop_images/Screenshot_2026-03-26_at_21.41.39.png",
+            "video_url": "https://www.youtube.com/watch?v=_9VUPq3SxOc",
+            "controls": false,
+            "stars_count": 5,
+            "text": "<p><em>« Je ne m’attendais pas à ce que ça fonctionne aussi vite. En moins d’une minute, j’étais dur comme du bois et plein de confiance en moi. C’était une sensation qui me manquait depuis des années. »</em></p>",
+            "author": "<p><strong>Marc, 67 ans</strong></p>"
+          }
+        },
+        "slide_48ypch": {
+          "type": "slide",
+          "settings": {
+            "media_style": "image",
+            "image": "shopify://shop_images/photo_d2cc02ccf6a5a61571d269c4ec7f3a4d.jpg",
+            "video_url": "https://www.youtube.com/watch?v=_9VUPq3SxOc",
+            "controls": false,
+            "stars_count": 5,
+            "text": "<p><em>« J’ai dépensé des centaines d’euros en pilules et compléments. Tous promettent, aucun ne tient. J’ai essayé VigorMax uniquement parce qu’il y avait la garantie de remboursement, je n’avais rien à perdre. Deux pulvérisations. Une minute. Je n’ai pas les mots. Ça vaut chaque centime. »</em></p>",
+            "author": "<p><strong>Tony, 46 ans</strong></p>"
+          }
+        },
+        "slide_RDbzj7": {
+          "type": "slide",
+          "settings": {
+            "media_style": "image",
+            "image": "shopify://shop_images/bf41565ae48cdac82c99693b8f.jpg",
+            "video_url": "https://www.youtube.com/watch?v=_9VUPq3SxOc",
+            "controls": false,
+            "stars_count": 5,
+            "text": "<p><em>« 3 fois en une soirée, 3 À 64 ans! Mon épouse n’en revenait pas, moi non plus. Ce spray est devenu mon secret. »</em></p>",
+            "author": "<p><strong>Pascal, 64 ans</strong></p>"
+          }
+        },
+        "slide_EbEDmR": {
+          "type": "slide",
+          "settings": {
+            "media_style": "image",
+            "image": "shopify://shop_images/images_10.jpg",
+            "video_url": "https://www.youtube.com/watch?v=_9VUPq3SxOc",
+            "controls": false,
+            "stars_count": 4.5,
+            "text": "<p><em>« Je fume depuis mes 16 ans. À 36 ans, j’avais déjà des problèmes d’érection, quelque chose que je n’aurais jamais imaginé à cet âge. J’avais trop honte pour en parler. Depuis que j’utilise VigorMax, c’est comme si j’avais à nouveau 20 ans. Dur, rapide, stable. Le tabac ne m’atteint plus. »</em></p>",
+            "author": "<p><strong>Fabrice, 36 ans</strong></p>"
+          }
+        },
+        "slide_YHVhX6": {
+          "type": "slide",
+          "settings": {
+            "media_style": "image",
+            "image": "shopify://shop_images/Richard-gere-credit-instagram.jpg",
+            "video_url": "https://www.youtube.com/watch?v=_9VUPq3SxOc",
+            "controls": false,
+            "stars_count": 5,
+            "text": "<p>« Je pensais que certains plaisirs appartenaient désormais au passé. Je ne voulais pas décevoir ma compagne, mais je n’osais même pas en parler. Un ami m’en a parlé, je l’ai essayé sans trop y croire. La première fois que ça a fonctionné, j’ai ressenti quelque chose que je n’avais pas ressenti depuis des années. Elle était rayonnante. Je me suis senti à nouveau homme. »</p>",
+            "author": "<p><strong>Pierre, 76 ans</strong></p>"
+          }
+        },
+        "slide_TNVb7m": {
+          "type": "slide",
+          "settings": {
+            "media_style": "image",
+            "image": "shopify://shop_images/Screenshot_2026-03-29_at_01.05.49.png",
+            "video_url": "https://www.youtube.com/watch?v=_9VUPq3SxOc",
+            "controls": false,
+            "stars_count": 5,
+            "text": "<p><em>« Je travaille 12 heures par jour, avec un stress énorme. Depuis 2 ans, je n’étais plus comme avant avec ma femme. J’en avais trop honte pour en parler. J’ai essayé VigorMax sans trop d’attentes… et j’ai compris que ce n’était pas comme les autres produits. Ma femme a adoré. Enfin, je me sens à nouveau homme. »</em></p>",
+            "author": "<p><strong>Robert, 56 ans</strong></p>"
+          }
+        },
+        "slide_ByLRzx": {
+          "type": "slide",
+          "settings": {
+            "media_style": "image",
+            "image": "shopify://shop_images/pic_1.jpg",
+            "video_url": "https://www.youtube.com/watch?v=_9VUPq3SxOc",
+            "controls": false,
+            "stars_count": 4,
+            "text": "<p><em>« Franchement, ça m’a vraiment redonné confiance, </em>j’ai vu la différence, c’était net, rapide, efficace.<em> Le seul point négatif, c’est que le produit était en rupture de stock après… j’ai dû attendre un bon moment avant de pouvoir en recommander, et c’était frustrant.Mais honnêtement, ça vaut largement le coup d’attendre. »</em></p>",
+            "author": "<p><strong>Luca, 38 ans</strong></p>"
+          }
+        }
+      },
+      "block_order": [
+        "slide_aaeLJb",
+        "slide_Jwnt83",
+        "slide_48ypch",
+        "slide_RDbzj7",
+        "slide_EbEDmR",
+        "slide_YHVhX6",
+        "slide_TNVb7m",
+        "slide_ByLRzx"
+      ],
+      "name": "SS - Testimonials #12",
+      "settings": {
+        "heading": "<p><strong>Ne vous fiez pas seulement à nous, découvrez ce que disent les autres !</strong></p>",
+        "heading_custom": false,
+        "heading_font": "josefin_sans_n4",
+        "heading_size": 30,
+        "heading_size_mobile": 22,
+        "heading_height": 130,
+        "heading_align": "center",
+        "heading_align_mobile": "center",
+        "sub_heading": "",
+        "sub_heading_custom": false,
+        "sub_heading_font": "josefin_sans_n4",
+        "sub_heading_size": 30,
+        "sub_heading_size_mobile": 22,
+        "sub_heading_height": 130,
+        "sub_heading_mt": 12,
+        "sub_heading_align": "center",
+        "sub_heading_align_mobile": "center",
+        "slider_view": 5.4,
+        "slider_view_mobile": 1.5,
+        "slider_gap": 28,
+        "slider_gap_mobile": 20,
+        "slider_mt": 20,
+        "autoplay": false,
+        "autoplay_delay": 5,
+        "card_padding_vertical": 20,
+        "card_padding_vertical_mobile": 16,
+        "card_padding_horizontal": 20,
+        "card_padding_horizontal_mobile": 16,
+        "card_radius": 20,
+        "card_border_thickness": 1,
+        "card_shadow": false,
+        "media_radius": 20,
+        "media_border_thickness": 0,
+        "media_ratio": "square",
+        "media_ratio_mobile": "square",
+        "content_padding_vertical": 0,
+        "content_padding_vertical_mobile": 0,
+        "content_padding_horizontal": 0,
+        "content_padding_horizontal_mobile": 0,
+        "hide_content": false,
+        "stars_size": 16,
+        "stars_mt": 12,
+        "stars_align": "center",
+        "stars_align_mobile": "center",
+        "text_custom": false,
+        "text_font": "josefin_sans_n4",
+        "text_size": 16,
+        "text_size_mobile": 16,
+        "text_height": 130,
+        "text_mt": 12,
+        "text_align": "center",
+        "text_align_mobile": "center",
+        "author_custom": false,
+        "author_font": "josefin_sans_n4",
+        "author_size": 14,
+        "author_size_mobile": 14,
+        "author_height": 130,
+        "author_mt": 12,
+        "author_align": "center",
+        "author_align_mobile": "center",
+        "navigation_mt": 40,
+        "navigation_gap": 20,
+        "navigation_align": "center",
+        "navigation_align_mobile": "center",
+        "arrow_size": 50,
+        "arrow_size_mobile": 50,
+        "arrow_show_desktop": true,
+        "arrow_show_mobile": false,
+        "dots_size": 10,
+        "dots_size_mobile": 10,
+        "dots_show_desktop": false,
+        "dots_show_mobile": true,
+        "btn_icon_size": 50,
+        "btn_icon_size_mobile": 40,
+        "card_bg_color": "#ffffff",
+        "card_bg_gradient": "",
+        "card_border_color": "#223547",
+        "card_shadow_color": "#000000",
+        "media_border_color": "#000000",
+        "stars_color": "#00b67a",
+        "text_color": "#323232",
+        "author_color": "#323232",
+        "video_icon_bg_color": "#ffffff",
+        "video_icon_color": "#000000",
+        "arrow_color": "#223547",
+        "arrow_hover_color": "#223547",
+        "dots_color": "#223547",
+        "heading_color": "#223547",
+        "sub_heading_color": "#223547",
+        "background_color": "#f2f2f2",
+        "background_gradient": "",
+        "border_color": "#000000",
+        "margin_top": 0,
+        "margin_bottom": 0,
+        "padding_top": 36,
+        "padding_bottom": 36,
+        "padding_horizontal": 0,
+        "padding_horizontal_mobile": 0,
+        "full_width": true,
+        "content_width": 120,
+        "border_thickness": 0,
+        "lazy": true
+      }
+    },
+    "multi_column_BMcJih": {
+      "type": "multi-column",
+      "blocks": {
+        "item_dRVgpN": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/IMG_1604_2.webp",
+            "column_size": "3",
+            "title": "Comment utiliser VigorMax™ pour obtenir les meilleurs résultats :",
+            "heading_tag": "h3",
+            "content": "<p>Tes <strong>performances au lit</strong> en disent plus long que tu ne le penses. Elles montrent comment tu te sens, si tu es <strong>plein de confiance, de force et de contrôle</strong>, ou si tu es incertain et déçu. Mais une <strong>érection molle ou de courte durée</strong> montre souvent quelque chose de complètement différent de ce que tu es vraiment.</p><p><strong>VigorMax™</strong> a été spécialement conçu pour <strong>éliminer cette insécurité</strong> et vous redonner toute votre puissance. Il vous procure <strong>des érections dures et puissantes en seulement 43 à 60 secondes</strong>, sans pilules, sans tracas et sans retards embarrassants.</p><p><strong>Juste rapide, puissant et sans effort.</strong></p>",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        }
+      },
+      "block_order": [
+        "item_dRVgpN"
+      ],
+      "name": "Multi-column",
+      "settings": {
+        "full_width": true,
+        "stack_on_mobile": true,
+        "gap": "medium",
+        "text_alignment": "start",
+        "subheading": "",
+        "title": "",
+        "content": "",
+        "background": "",
+        "background_gradient": "",
+        "text_color": ""
+      }
+    },
+    "faq_aKtydG": {
+      "type": "faq",
+      "blocks": {
+        "item_rdMmfP": {
+          "type": "item",
+          "settings": {
+            "title": "Puis-je l’utiliser tous les jours ?",
+            "content": "<p>Absolument ! Vous pouvez l’utiliser quotidiennement ou seulement lorsque vous en avez besoin, sans aucun risque.</p>"
+          }
+        },
+        "item_HMn6fN": {
+          "type": "item",
+          "settings": {
+            "title": "Comment utiliser VigorMax™ de manière optimale ?",
+            "content": "<p>Il suffit de vaporiser une ou deux fois sous la langue, juste avant de passer à l’action. Aucune préparation, aucun rituel compliqué : vous êtes littéralement prêt en quelques secondes.</p>"
+          }
+        },
+        "item_PXHYHf": {
+          "type": "item",
+          "settings": {
+            "title": "Et si ça ne fonctionne pas pour moi ?",
+            "content": "<p>Aucun problème. VigorMax a été conçu pour offrir une efficacité maximale à la grande majorité des hommes. Mais si, pour une raison quelconque, cela ne fonctionne pas ? Vous êtes simplement remboursé. Aucun risque, aucune excuse. Soit des résultats, soit votre argent est remboursé.</p>"
+          }
+        },
+        "item_XJGcG4": {
+          "type": "item",
+          "settings": {
+            "title": "VigorMax™ fonctionne-t-il même si je souffre de stress ou d’anxiété de performance ?",
+            "content": "<p>Oui. VigorMax™ a été spécialement formulé pour vous mettre rapidement dans le bon état mental, même si vous êtes tendu ou peu sûr de vous. Sa formule vous aide à vous détendre et augmente le flux sanguin afin que votre corps réponde, même lorsque votre esprit bloque.</p>"
+          }
+        }
+      },
+      "block_order": [
+        "item_rdMmfP",
+        "item_HMn6fN",
+        "item_PXHYHf",
+        "item_XJGcG4"
+      ],
+      "name": "FAQ",
+      "settings": {
+        "full_width": true,
+        "subheading": "",
+        "title": "Questions fréquentes",
+        "content": "",
+        "team_avatar_width": 160,
+        "support_hours": "",
+        "answer_time": "",
+        "button_text": "",
+        "button_url": "",
+        "text_position": "center",
+        "background": "",
+        "background_gradient": "",
+        "text_color": "",
+        "heading_color": "",
+        "heading_gradient": "",
+        "button_background": "",
+        "button_text_color": "",
+        "accordion_background": "",
+        "accordion_text_color": ""
+      }
+    }
+  },
+  "order": [
+    "custom_liquid_MKktBy",
+    "image_with_text_overlay_UEJtA3",
+    "main",
+    "multi_column_iGXEwa",
+    "multi_column_YHRUCR",
+    "rich_text_9UqKEx",
+    "multi_column_EeJHVR",
+    "multi_column_wyqCKB",
+    "testimonials_FXCdNy",
+    "multi_column_BMcJih",
+    "faq_aKtydG"
+  ]
+}
