@@ -24,7 +24,6 @@
     },
     "image_with_text_overlay_UEJtA3": {
       "type": "image-with-text-overlay",
-      "disabled": true,
       "name": "Image with text overlay",
       "settings": {
         "full_width": true,
