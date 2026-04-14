@@ -9,19 +9,6 @@
  */
 {
   "sections": {
-    "custom_liquid_MKktBy": {
-      "type": "custom-liquid",
-      "name": "Custom Liquid",
-      "settings": {
-        "full_width": true,
-        "remove_vertical_spacing": false,
-        "remove_horizontal_spacing": false,
-        "liquid": "{% comment %}\n  Compte à rebours jusqu'à minuit - Version Française\n{% endcomment %}\n<style>\n  .promo-announcement-bar {\n    background-color: #223547;\n    color: #ffffff;\n    text-align: center;\n    padding: 10px 16px;\n    font-family: inherit;\n    width: 100%;\n    box-sizing: border-box;\n  }\n  .promo-announcement-bar__top-text {\n    font-size: 13px;\n    font-weight: 700;\n    letter-spacing: 0.04em;\n    text-transform: uppercase;\n    margin-bottom: 6px;\n    color: #ffffff;\n  }\n  .promo-announcement-bar__timer-wrap {\n    display: flex;\n    align-items: center;\n    justify-content: center;\n    gap: 6px;\n  }\n  .promo-timer__block {\n    display: flex;\n    flex-direction: column;\n    align-items: center;\n  }\n  .promo-timer__number {\n    background-color: #ffffff;\n    color: #223547;\n    font-size: 18px;\n    font-weight: 800;\n    line-height: 1;\n    padding: 5px 8px;\n    min-width: 38px;\n    text-align: center;\n    border-radius: 3px;\n    letter-spacing: 0.02em;\n    font-variant-numeric: tabular-nums;\n  }\n  .promo-timer__label {\n    font-size: 9px;\n    font-weight: 600;\n    letter-spacing: 0.08em;\n    text-transform: uppercase;\n    color: #ffffff;\n    margin-top: 3px;\n  }\n  .promo-timer__separator {\n    font-size: 20px;\n    font-weight: 800;\n    color: #ffffff;\n    line-height: 1;\n    margin-bottom: 12px;\n    align-self: flex-start;\n    padding-top: 5px;\n  }\n</style>\n\n<div class=\"promo-announcement-bar\">\n  <div class=\"promo-announcement-bar__top-text\">\n    Notre Plus Grosse Promo de l'Année\n  </div>\n  <div class=\"promo-announcement-bar__timer-wrap\">\n    <div class=\"promo-timer__block\">\n      <span class=\"promo-timer__number\" id=\"promo-hours\">00</span>\n      <span class=\"promo-timer__label\">HEURES</span>\n    </div>\n    <div class=\"promo-timer__separator\">:</div>\n    <div class=\"promo-timer__block\">\n      <span class=\"promo-timer__number\" id=\"promo-minutes\">00</span>\n      <span class=\"promo-timer__label\">MIN</span>\n    </div>\n    <div class=\"promo-timer__separator\">:</div>\n    <div class=\"promo-timer__block\">\n      <span class=\"promo-timer__number\" id=\"promo-seconds\">00</span>\n      <span class=\"promo-timer__label\">SEC</span>\n    </div>\n  </div>\n</div>\n\n<script>\n  (function () {\n    function pad(n) {\n      return String(n).padStart(2, '0');\n    }\n    function updateCountdown() {\n      var now = new Date();\n      var midnight = new Date();\n      midnight.setHours(24, 0, 0, 0);\n      var diff = Math.floor((midnight - now) / 1000);\n      if (diff < 0) diff = 0;\n      var hours   = Math.floor(diff / 3600);\n      var minutes = Math.floor((diff % 3600) / 60);\n      var seconds = diff % 60;\n      document.getElementById('promo-hours').textContent   = pad(hours);\n      document.getElementById('promo-minutes').textContent = pad(minutes);\n      document.getElementById('promo-seconds').textContent = pad(seconds);\n    }\n    updateCountdown();\n    setInterval(updateCountdown, 1000);\n  })();\n</script>",
-        "background": "",
-        "background_gradient": "",
-        "text_color": ""
-      }
-    },
     "image_with_text_overlay_UEJtA3": {
       "type": "image-with-text-overlay",
       "name": "Image with text overlay",
@@ -37,6 +24,36 @@
         "text_color": "#ffffff",
         "overlay_color": "#000000",
         "overlay_opacity": 0
+      }
+    },
+    "image_with_text_overlay_y6mycM": {
+      "type": "image-with-text-overlay",
+      "name": "Image with text overlay",
+      "settings": {
+        "full_width": true,
+        "allow_transparent_header": false,
+        "enable_parallax": false,
+        "image_size": "auto",
+        "image": "shopify://shop_images/Img_benef_spray.png",
+        "mobile_image": "shopify://shop_images/Img_benef_spray.png",
+        "mobile_text_position": "place-self-center text-center",
+        "desktop_text_position": "sm:place-self-center sm:text-center",
+        "text_color": "#ffffff",
+        "overlay_color": "#000000",
+        "overlay_opacity": 0
+      }
+    },
+    "custom_liquid_MKktBy": {
+      "type": "custom-liquid",
+      "name": "Custom Liquid",
+      "settings": {
+        "full_width": true,
+        "remove_vertical_spacing": false,
+        "remove_horizontal_spacing": false,
+        "liquid": "{% comment %}\n  Compte à rebours jusqu'à minuit - Version Française\n{% endcomment %}\n<style>\n  .promo-announcement-bar {\n    background-color: #223547;\n    color: #ffffff;\n    text-align: center;\n    padding: 10px 16px;\n    font-family: inherit;\n    width: 100%;\n    box-sizing: border-box;\n  }\n  .promo-announcement-bar__top-text {\n    font-size: 13px;\n    font-weight: 700;\n    letter-spacing: 0.04em;\n    text-transform: uppercase;\n    margin-bottom: 6px;\n    color: #ffffff;\n  }\n  .promo-announcement-bar__timer-wrap {\n    display: flex;\n    align-items: center;\n    justify-content: center;\n    gap: 6px;\n  }\n  .promo-timer__block {\n    display: flex;\n    flex-direction: column;\n    align-items: center;\n  }\n  .promo-timer__number {\n    background-color: #ffffff;\n    color: #223547;\n    font-size: 18px;\n    font-weight: 800;\n    line-height: 1;\n    padding: 5px 8px;\n    min-width: 38px;\n    text-align: center;\n    border-radius: 3px;\n    letter-spacing: 0.02em;\n    font-variant-numeric: tabular-nums;\n  }\n  .promo-timer__label {\n    font-size: 9px;\n    font-weight: 600;\n    letter-spacing: 0.08em;\n    text-transform: uppercase;\n    color: #ffffff;\n    margin-top: 3px;\n  }\n  .promo-timer__separator {\n    font-size: 20px;\n    font-weight: 800;\n    color: #ffffff;\n    line-height: 1;\n    margin-bottom: 12px;\n    align-self: flex-start;\n    padding-top: 5px;\n  }\n</style>\n\n<div class=\"promo-announcement-bar\">\n  <div class=\"promo-announcement-bar__top-text\">\n    Notre Plus Grosse Promo de l'Année\n  </div>\n  <div class=\"promo-announcement-bar__timer-wrap\">\n    <div class=\"promo-timer__block\">\n      <span class=\"promo-timer__number\" id=\"promo-hours\">00</span>\n      <span class=\"promo-timer__label\">HEURES</span>\n    </div>\n    <div class=\"promo-timer__separator\">:</div>\n    <div class=\"promo-timer__block\">\n      <span class=\"promo-timer__number\" id=\"promo-minutes\">00</span>\n      <span class=\"promo-timer__label\">MIN</span>\n    </div>\n    <div class=\"promo-timer__separator\">:</div>\n    <div class=\"promo-timer__block\">\n      <span class=\"promo-timer__number\" id=\"promo-seconds\">00</span>\n      <span class=\"promo-timer__label\">SEC</span>\n    </div>\n  </div>\n</div>\n\n<script>\n  (function () {\n    function pad(n) {\n      return String(n).padStart(2, '0');\n    }\n    function updateCountdown() {\n      var now = new Date();\n      var midnight = new Date();\n      midnight.setHours(24, 0, 0, 0);\n      var diff = Math.floor((midnight - now) / 1000);\n      if (diff < 0) diff = 0;\n      var hours   = Math.floor(diff / 3600);\n      var minutes = Math.floor((diff % 3600) / 60);\n      var seconds = diff % 60;\n      document.getElementById('promo-hours').textContent   = pad(hours);\n      document.getElementById('promo-minutes').textContent = pad(minutes);\n      document.getElementById('promo-seconds').textContent = pad(seconds);\n    }\n    updateCountdown();\n    setInterval(updateCountdown, 1000);\n  })();\n</script>",
+        "background": "",
+        "background_gradient": "",
+        "text_color": ""
       }
     },
     "main": {
@@ -657,8 +674,9 @@
     }
   },
   "order": [
-    "custom_liquid_MKktBy",
     "image_with_text_overlay_UEJtA3",
+    "image_with_text_overlay_y6mycM",
+    "custom_liquid_MKktBy",
     "main",
     "multi_column_iGXEwa",
     "multi_column_YHRUCR",
