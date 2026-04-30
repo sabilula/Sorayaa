@@ -358,6 +358,19 @@
         "text_color": ""
       }
     },
+    "custom_liquid_FYM8ei": {
+      "type": "custom-liquid",
+      "name": "Custom Liquid",
+      "settings": {
+        "full_width": true,
+        "remove_vertical_spacing": false,
+        "remove_horizontal_spacing": false,
+        "liquid": "<style>\n  .vmband-wrap {\n    background: #0a1220;\n    border-top: 1px solid rgba(140,180,230,0.12);\n    border-bottom: 1px solid rgba(140,180,230,0.12);\n    overflow: hidden;\n    padding: 11px 0;\n    position: relative;\n  }\n\n  .vmband-wrap::before,\n  .vmband-wrap::after {\n    content: '';\n    position: absolute;\n    top: 0; bottom: 0;\n    width: 60px;\n    z-index: 2;\n    pointer-events: none;\n  }\n  .vmband-wrap::before { left: 0; background: linear-gradient(90deg, #0a1220, transparent); }\n  .vmband-wrap::after  { right: 0; background: linear-gradient(270deg, #0a1220, transparent); }\n\n  .vmband-track {\n    display: flex;\n    width: max-content;\n    animation: vmband-scroll 20s linear infinite;\n  }\n\n  @keyframes vmband-scroll {\n    0%   { transform: translateX(0); }\n    100% { transform: translateX(-50%); }\n  }\n\n  .vmband-item {\n    display: flex;\n    align-items: center;\n    gap: 28px;\n    padding: 0 28px;\n    font-family: Arial, Helvetica, sans-serif;\n    font-size: 13px;\n    font-weight: 600;\n    color: #c8d8ec;\n    letter-spacing: 0.8px;\n    white-space: nowrap;\n  }\n\n  .vmband-sep {\n    width: 1px;\n    height: 14px;\n    background: rgba(140,180,230,0.25);\n    flex-shrink: 0;\n  }\n\n  .vmband-dot {\n    width: 4px; height: 4px;\n    background: rgba(140,180,230,0.4);\n    border-radius: 50%;\n    flex-shrink: 0;\n  }\n</style>\n\n<div class=\"vmband-wrap\">\n  <div class=\"vmband-track\">\n\n    <!-- SET 1 -->\n    <div class=\"vmband-item\">\n      <span>🛡️ Garantie 30 Jours</span>\n      <div class=\"vmband-sep\"></div>\n      <span>⚡ Action en 60 sec</span>\n      <div class=\"vmband-sep\"></div>\n      <span>🌿 100% Naturel</span>\n      <div class=\"vmband-sep\"></div>\n      <span>🇨🇭 Fabriqué en Suisse</span>\n      <div class=\"vmband-sep\"></div>\n      <span>📦 Livraison Discrète</span>\n      <div class=\"vmband-sep\"></div>\n      <span>💊 Sans Ordonnance</span>\n      <div class=\"vmband-sep\"></div>\n    </div>\n\n    <!-- SET 2 — clone identique pour boucle infinie -->\n    <div class=\"vmband-item\">\n      <span>🛡️ Garantie 30 Jours</span>\n      <div class=\"vmband-sep\"></div>\n      <span>⚡ Action en 60 sec</span>\n      <div class=\"vmband-sep\"></div>\n      <span>🌿 100% Naturel</span>\n      <div class=\"vmband-sep\"></div>\n      <span>🇨🇭 Fabriqué en Suisse</span>\n      <div class=\"vmband-sep\"></div>\n      <span>📦 Livraison Discrète</span>\n      <div class=\"vmband-sep\"></div>\n      <span>💊 Sans Ordonnance</span>\n      <div class=\"vmband-sep\"></div>\n    </div>\n\n  </div>\n</div>",
+        "background": "",
+        "background_gradient": "",
+        "text_color": ""
+      }
+    },
     "multi_column_BMcJih": {
       "type": "multi-column",
       "blocks": {
@@ -680,6 +693,7 @@
     "multi_column_YHRUCR",
     "multi_column_EeJHVR",
     "multi_column_wyqCKB",
+    "custom_liquid_FYM8ei",
     "multi_column_BMcJih",
     "faq_aKtydG",
     "testimonials_FXCdNy"
