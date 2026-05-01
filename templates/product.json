@@ -240,18 +240,6 @@
             "author": "<p><strong>Yvan, 49 ans</strong></p>"
           }
         },
-        "slide_EbEDmR": {
-          "type": "slide",
-          "settings": {
-            "media_style": "image",
-            "image": "shopify://shop_images/fce1693dd611ff3d-580x0-1.jpg",
-            "video_url": "https://www.youtube.com/watch?v=_9VUPq3SxOc",
-            "controls": false,
-            "stars_count": 4.5,
-            "text": "<p><em>« À 54 ans, j’ai déjà des problèmes d’érection, quelque chose que je n’aurais jamais imaginé à cet âge. J’avais trop honte pour en parler. Depuis que j’utilise VigorMax, c’est comme si j’avais à nouveau 20 ans. Dur, rapide, stable. La honte ne m’atteint plus. »</em></p>",
-            "author": "<p><strong>Fabrice, 54 ans</strong></p>"
-          }
-        },
         "slide_TNVb7m": {
           "type": "slide",
           "settings": {
@@ -275,6 +263,18 @@
             "text": "<p><em>« Franchement, ça m’a vraiment redonné confiance, </em>j’ai vu la différence, c’était net, rapide, efficace.<em> Le seul point négatif, c’est que le produit était en rupture de stock après… j’ai dû attendre un bon moment avant de pouvoir en recommander, et c’était frustrant. Mais honnêtement, ça vaut largement le coup d’attendre. »</em></p>",
             "author": "<p><strong>Tony, 53 ans</strong></p>"
           }
+        },
+        "slide_EbEDmR": {
+          "type": "slide",
+          "settings": {
+            "media_style": "image",
+            "image": "shopify://shop_images/fce1693dd611ff3d-580x0-1.jpg",
+            "video_url": "https://www.youtube.com/watch?v=_9VUPq3SxOc",
+            "controls": false,
+            "stars_count": 4.5,
+            "text": "<p><em>« À 50 ans, j’ai déjà des problèmes d’érection, quelque chose que je n’aurais jamais imaginé à cet âge. J’avais trop honte pour en parler. Depuis que j’utilise VigorMax, c’est comme si j’avais à nouveau 20 ans. Dur, rapide, stable. La honte ne m’atteint plus. »</em></p>",
+            "author": "<p><strong>Fabrice, 50 ans</strong></p>"
+          }
         }
       },
       "block_order": [
@@ -283,9 +283,9 @@
         "slide_Jwnt83",
         "slide_48ypch",
         "slide_YHVhX6",
-        "slide_EbEDmR",
         "slide_TNVb7m",
-        "slide_ByLRzx"
+        "slide_ByLRzx",
+        "slide_EbEDmR"
       ],
       "name": "SS - Testimonials #12",
       "settings": {
