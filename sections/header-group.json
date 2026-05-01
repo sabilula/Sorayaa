@@ -17,14 +17,14 @@
         "message_BzKRyc": {
           "type": "message",
           "settings": {
-            "text": "GARANTIE 30 JOURS",
+            "text": "✔ GARANTIE 30 JOURS",
             "url": ""
           }
         },
         "message": {
           "type": "message",
           "settings": {
-            "text": "OFFRE DE PRINTEMPS 🔥",
+            "text": "🔥 L'OFFRE DE PRINTEMPS SE TERMINE BIENTÔT",
             "url": ""
           }
         }
