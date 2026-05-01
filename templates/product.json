@@ -75,7 +75,7 @@
         "liquid_qCjND6": {
           "type": "liquid",
           "settings": {
-            "liquid": "<style>\n  .stock-alert {\n    display: inline-flex;\n    align-items: center;\n    background-color: #ffffff;\n    border-radius: 10px;\n    padding: 6px 12px;\n    font-family: 'Poppins', Arial, sans-serif;\n    font-weight: bold;\n    font-size: 12px;\n    color: red;\n  }\n  .pulse-dot {\n    width: 12px;\n    height: 12px;\n    border-radius: 50%;\n    background-color: red;\n    margin-right: 10px;\n    box-shadow: 0 0 0 0 rgba(255, 0, 0, 0.7);\n    animation: pulse 1.5s infinite;\n  }\n  @keyframes pulse {\n    0% {\n      transform: scale(0.95);\n      box-shadow: 0 0 0 0 rgba(255, 0, 0, 0.7);\n    }\n    70% {\n      transform: scale(1);\n      box-shadow: 0 0 0 10px rgba(255, 0, 0, 0);\n    }\n    100% {\n      transform: scale(0.95);\n      box-shadow: 0 0 0 0 rgba(255, 0, 0, 0);\n    }\n  }\n</style>\n<div class=\"stock-alert\">\n  <div class=\"pulse-dot\"></div>\n  Forte demande, il n'en reste plus que quelques-uns en stock !\n</div>"
+            "liquid": "<style>\n  .stock-alert {\n    display: inline-flex;\n    align-items: center;\n    background-color: #ffffff;\n    border-radius: 10px;\n    padding: 6px 12px;\n    font-family: 'Poppins', Arial, sans-serif;\n    font-weight: bold;\n    font-size: 12px;\n    color: red;\n  }\n  .pulse-dot {\n    width: 12px;\n    height: 12px;\n    border-radius: 50%;\n    background-color: red;\n    margin-right: 10px;\n    box-shadow: 0 0 0 0 rgba(255, 0, 0, 0.7);\n    animation: pulse 1.5s infinite;\n  }\n  @keyframes pulse {\n    0% {\n      transform: scale(0.95);\n      box-shadow: 0 0 0 0 rgba(255, 0, 0, 0.7);\n    }\n    70% {\n      transform: scale(1);\n      box-shadow: 0 0 0 10px rgba(255, 0, 0, 0);\n    }\n    100% {\n      transform: scale(0.95);\n      box-shadow: 0 0 0 0 rgba(255, 0, 0, 0);\n    }\n  }\n</style>\n<div class=\"stock-alert\">\n  <div class=\"pulse-dot\"></div>\n  Forte demande, plus que 7 en stock !\n</div>"
           }
         },
         "kaching_bundles_app_block_AJrNJc": {
@@ -180,9 +180,9 @@
           "settings": {
             "image": "shopify://shop_images/IMG_1600.webp",
             "column_size": "3",
-            "title": "Des érections dures en 43 secondes, sentez-vous invincible au lit !",
+            "title": "Un vrai alpha ne planifie pas. Il est prêt. En moins de 60 secondes !",
             "heading_tag": "h3",
-            "content": "<p>Plus d'anxiété, <strong>plus d'excuses</strong>.<br/><br/>Ce <strong>spray</strong> révolutionnaire <strong>agit plus rapidement</strong> que tout autre produit sur le marché et vous <strong>procure</strong> des érections dures et <strong>palpitantes</strong> en seulement <strong>43 secondes</strong>, à chaque fois.</p><p>Oubliez les pilules coûteuses, les pompes encombrantes ou les pauses embarrassantes dans la chambre à coucher. Avec <strong>Bohardi™</strong>, vous êtes toujours prêt à <strong>performer</strong> comme un <strong>animal</strong>, plein de puissance, plein de confiance, exactement <strong>quand il le faut</strong>.</p><p>Il suffit de <strong>vaporiser une ou deux fois sous la langue</strong> juste avant de passer à l'action. Vous serez littéralement <strong>prêt à passer à l'action en quelques secondes</strong>.</p>",
+            "content": "<p>Fini l'anxiété, finie la honte. Ce spray à absorption instantanée agit plus vite que n'importe quelle alternative et vous redonne une vigueur* puissante et durable en seulement 60 secondes — à chaque fois, sans exception.</p><p>Oubliez les pilules coûteuses à avaler en cachette, les dispositifs encombrants ou ces pauses embarrassantes qui brisent l'élan. Avec <strong>VigorMax™</strong>, vous êtes toujours prêt. Plein de puissance. Plein de confiance. Exactement au moment où ça compte.</p><p>Il suffit de vaporiser une ou deux fois directement sur le pénis juste avant le moment choisi. En moins d'une minute, vous serez prêt à performer comme un animal — comme aux meilleures années.</p>",
             "link_url": "",
             "link_text": "",
             "link_style": "link"
@@ -608,7 +608,7 @@
           "type": "item",
           "settings": {
             "title": "Comment utiliser VigorMax™ de manière optimale ?",
-            "content": "<p>Il suffit de vaporiser une ou deux fois sous la langue, juste avant de passer à l’action. Aucune préparation, aucun rituel compliqué : vous êtes littéralement prêt en quelques secondes.</p>"
+            "content": "<p>Il suffit de vaporiser une ou deux fois sur le pénis, juste avant de passer à l’action. </p><p>Aucune préparation, aucun rituel compliqué : vous êtes littéralement prêt en quelques secondes.</p><p></p><p><em>Complément alimentaire — résultats variables selon les individus</em></p>"
           }
         },
         "item_PXHYHf": {
