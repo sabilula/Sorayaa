@@ -137,6 +137,7 @@
         },
         "liquid_8Tn7fn": {
           "type": "liquid",
+          "disabled": true,
           "settings": {
             "liquid": "<style>\n  .vmdr-section {\n    background: linear-gradient(175deg, #060b14 0%, #0d1b2e 50%, #0a1525 100%);\n    position: relative;\n    padding: 56px 0 64px;\n    overflow: hidden;\n    font-family: Arial, Helvetica, sans-serif;\n  }\n\n  .vmdr-section::before {\n    content: '';\n    position: absolute;\n    inset: 0;\n    background:\n      radial-gradient(ellipse 80% 40% at 50% 0%, rgba(120,160,210,0.07) 0%, transparent 55%),\n      repeating-linear-gradient(90deg, transparent, transparent 80px, rgba(255,255,255,0.008) 80px, rgba(255,255,255,0.008) 81px);\n    pointer-events: none;\n    z-index: 0;\n  }\n\n  .vmdr-section::after {\n    content: '';\n    position: absolute;\n    top: 0; left: 0; right: 0; height: 1px;\n    background: linear-gradient(90deg, transparent, rgba(160,200,240,0.35), transparent);\n    z-index: 1;\n  }\n\n  .vmdr-inner {\n    position: relative;\n    z-index: 2;\n    padding: 0 20px;\n    max-width: 100%;\n  }\n\n  /* ── TITRE ── */\n  .vmdr-title {\n    text-align: center;\n    font-family: Georgia, 'Times New Roman', serif;\n    font-size: clamp(22px, 4.5vw, 42px);\n    font-weight: 400;\n    color: #eef4fa;\n    line-height: 1.25;\n    margin: 0 auto 28px;\n    max-width: 680px;\n    text-shadow: 0 2px 20px rgba(0,0,0,0.5);\n  }\n\n  .vmdr-title strong {\n    font-weight: 900;\n    color: #fff;\n  }\n\n  /* ── STATS BAR ── */\n  .vmdr-stats {\n    display: flex;\n    justify-content: center;\n    gap: 0;\n    background: rgba(255,255,255,0.05);\n    border: 1px solid rgba(140,180,230,0.15);\n    border-radius: 12px;\n    padding: 18px 10px;\n    margin: 0 auto 40px;\n    max-width: 600px;\n    backdrop-filter: blur(4px);\n  }\n\n  .vmdr-stat {\n    flex: 1;\n    text-align: center;\n    padding: 0 12px;\n    border-right: 1px solid rgba(140,180,230,0.15);\n  }\n\n  .vmdr-stat:last-child { border-right: none; }\n\n  .vmdr-stat-num {\n    font-family: Georgia, serif;\n    font-size: clamp(20px, 4vw, 30px);\n    font-weight: 900;\n    color: #fff;\n    line-height: 1;\n    margin-bottom: 6px;\n  }\n\n  .vmdr-stat-label {\n    font-size: 11px;\n    color: #7a9abf;\n    line-height: 1.3;\n    font-weight: 500;\n  }\n\n  /* ── CAROUSEL WRAPPER ── */\n  .vmdr-carousel-wrap {\n    position: relative;\n    overflow: hidden;\n    margin: 0 -20px;\n    padding: 0 20px;\n  }\n\n  .vmdr-carousel-wrap::after {\n    content: '';\n    position: absolute;\n    top: 0; right: 0; bottom: 0;\n    width: 60px;\n    background: linear-gradient(270deg, #060b14 0%, transparent 100%);\n    pointer-events: none;\n    z-index: 5;\n  }\n\n  .vmdr-carousel {\n    display: flex;\n    gap: 16px;\n    overflow-x: auto;\n    scroll-snap-type: x mandatory;\n    -webkit-overflow-scrolling: touch;\n    scrollbar-width: none;\n    padding: 8px 0 16px;\n    cursor: grab;\n  }\n\n  .vmdr-carousel::-webkit-scrollbar { display: none; }\n  .vmdr-carousel:active { cursor: grabbing; }\n\n  /* ── CARD ── */\n  .vmdr-card {\n    min-width: 280px;\n    width: 280px;\n    background: #ffffff;\n    border-radius: 18px;\n    overflow: hidden;\n    flex-shrink: 0;\n    scroll-snap-align: start;\n    box-shadow: 0 8px 32px rgba(0,0,0,0.4), 0 0 0 1px rgba(26,74,138,0.1);\n  }\n\n  /* ── VIDEO PLACEHOLDER ── */\n  .vmdr-video {\n    width: 100%;\n    aspect-ratio: 3/4;\n    background: linear-gradient(145deg, #0d1b2e 0%, #1a3a6a 50%, #0d1b2e 100%);\n    display: flex;\n    align-items: center;\n    justify-content: center;\n    position: relative;\n    overflow: hidden;\n  }\n\n  /* Si URL image fournie */\n  .vmdr-video img {\n    width: 100%;\n    height: 100%;\n    object-fit: cover;\n    display: block;\n  }\n\n  .vmdr-play {\n    position: absolute;\n    top: 50%; left: 50%;\n    transform: translate(-50%, -50%);\n    width: 56px; height: 56px;\n    background: rgba(255,255,255,0.92);\n    border-radius: 50%;\n    display: flex;\n    align-items: center;\n    justify-content: center;\n    box-shadow: 0 4px 20px rgba(0,0,0,0.3);\n    z-index: 2;\n  }\n\n  .vmdr-play::after {\n    content: '';\n    width: 0; height: 0;\n    border-top: 10px solid transparent;\n    border-bottom: 10px solid transparent;\n    border-left: 18px solid #0a1220;\n    margin-left: 3px;\n  }\n\n  .vmdr-url-hint {\n    position: absolute;\n    bottom: 12px; left: 0; right: 0;\n    text-align: center;\n    font-size: 10px;\n    font-weight: 700;\n    letter-spacing: 1.5px;\n    text-transform: uppercase;\n    color: rgba(255,255,255,0.25);\n  }\n\n  /* ── CARD BODY ── */\n  .vmdr-card-body {\n    padding: 16px 18px 20px;\n    background: #fff;\n  }\n\n  .vmdr-badge-row {\n    display: flex;\n    align-items: center;\n    gap: 10px;\n    margin-bottom: 10px;\n  }\n\n  .vmdr-badge {\n    display: inline-flex;\n    align-items: center;\n    gap: 5px;\n    background: #0a1220;\n    color: #fff;\n    font-size: 10px;\n    font-weight: 700;\n    letter-spacing: 0.8px;\n    text-transform: uppercase;\n    padding: 5px 10px;\n    border-radius: 20px;\n  }\n\n  .vmdr-badge-icon { font-size: 11px; }\n\n  .vmdr-badge-sub {\n    font-size: 13px;\n    color: #555;\n    font-weight: 500;\n  }\n\n  .vmdr-card-name {\n    font-size: 17px;\n    font-weight: 800;\n    color: #0a1220;\n    margin-bottom: 3px;\n  }\n\n  .vmdr-card-exp {\n    font-size: 13px;\n    color: #8a9ab0;\n    margin-bottom: 12px;\n  }\n\n  .vmdr-card-quote {\n    font-size: 14px;\n    color: #333;\n    line-height: 1.6;\n    border-left: 2px solid #0d1b2e;\n    padding-left: 12px;\n  }\n\n  /* ── DOTS ── */\n  .vmdr-dots {\n    display: flex;\n    justify-content: center;\n    gap: 6px;\n    margin-top: 20px;\n  }\n\n  .vmdr-dot {\n    width: 6px; height: 6px;\n    border-radius: 50%;\n    background: rgba(255,255,255,0.2);\n    transition: all 0.3s;\n    cursor: pointer;\n  }\n\n  .vmdr-dot.active {\n    background: #fff;\n    width: 20px;\n    border-radius: 3px;\n  }\n</style>\n\n<div class=\"vmdr-section\">\n  <div class=\"vmdr-inner\">\n\n    <!-- TITRE -->\n    <p class=\"vmdr-title\">\n      <strong>Recommandé</strong> et expliqué<br> par les <strong>professionnels</strong>\n      <!-- STATS -->\n    <div class=\"vmdr-stats\">\n      <div class=\"vmdr-stat\">\n        <div class=\"vmdr-stat-num\">5 ans</div>\n        <div class=\"vmdr-stat-label\">de tests<br>cliniques</div>\n      </div>\n      <div class=\"vmdr-stat\">\n        <div class=\"vmdr-stat-num\">1 748</div>\n        <div class=\"vmdr-stat-label\">patients<br>suivis</div>\n      </div>\n      <div class=\"vmdr-stat\">\n        <div class=\"vmdr-stat-num\">0</div>\n        <div class=\"vmdr-stat-label\">effet secondaire<br>reporté</div>\n      </div>\n    </div>\n\n    <!-- CAROUSEL -->\n    <div class=\"vmdr-carousel-wrap\">\n      <div class=\"vmdr-carousel\" id=\"vmdrCarousel\">\n\n        <!-- CARTE 1 — MÉDECIN UROLOGUE -->\n        <div class=\"vmdr-card\">\n          <div class=\"vmdr-video\">\n            <img src=\"METTRE_URL_VIDEO_THUMBNAIL_1\" alt=\"\" onerror=\"this.style.display='none'\">\n            <div class=\"vmdr-play\"></div>\n            <div class=\"vmdr-url-hint\">Mettre URL vidéo ici</div>\n          </div>\n          <div class=\"vmdr-card-body\">\n            <div class=\"vmdr-badge-row\">\n              <span class=\"vmdr-badge\"><span class=\"vmdr-badge-icon\">⚕️</span> Médecin</span>\n              <span class=\"vmdr-badge-sub\">Spécialiste en urologie</span>\n            </div>\n            <div class=\"vmdr-card-name\">Dr. Christophe Iselin</div>\n            <div class=\"vmdr-card-exp\">22 ans d'expérience</div>\n            <div class=\"vmdr-card-quote\">\"22 ans de consultations m'ont appris une chose : les hommes qui souffrent de ça n'en parlent à personne. VigorMax™ est la seule solution que je prescris aujourd'hui sans la moindre réserve. L'action est immédiate, le cœur n'est pas sollicité, et mes patients reviennent me remercier.\"</div>\n          </div>\n        </div>\n\n        <!-- CARTE 2 — SEXOLOGUE -->\n        <div class=\"vmdr-card\">\n          <div class=\"vmdr-video\">\n            <img src=\"METTRE_URL_VIDEO_THUMBNAIL_2\" alt=\"\" onerror=\"this.style.display='none'\">\n            <div class=\"vmdr-play\"></div>\n            <div class=\"vmdr-url-hint\">Mettre URL vidéo ici</div>\n          </div>\n          <div class=\"vmdr-card-body\">\n            <div class=\"vmdr-badge-row\">\n              <span class=\"vmdr-badge\"><span class=\"vmdr-badge-icon\">💬</span> Sexologue</span>\n              <span class=\"vmdr-badge-sub\">Spécialiste du couple</span>\n            </div>\n            <div class=\"vmdr-card-name\">Dr. Patricia Fisch</div>\n            <div class=\"vmdr-card-exp\">15 ans d'expérience</div>\n            <div class=\"vmdr-card-quote\">\"8 hommes sur 10 ne souffrent pas d'un problème physique, ils souffrent de la peur que ça recommence. VigorMax™ est la première chose que je leur conseille : en quelques secondes l'anxiété disparaît, la confiance revient, et le couple respire à nouveau.\"</div>\n          </div>\n        </div>\n\n        <!-- CARTE 3 — CLIENTE -->\n        <div class=\"vmdr-card\">\n          <div class=\"vmdr-video\">\n            <img src=\"METTRE_URL_VIDEO_THUMBNAIL_3\" alt=\"\" onerror=\"this.style.display='none'\">\n            <div class=\"vmdr-play\"></div>\n            <div class=\"vmdr-url-hint\">Mettre URL vidéo ici</div>\n          </div>\n          <div class=\"vmdr-card-body\">\n            <div class=\"vmdr-badge-row\">\n              <span class=\"vmdr-badge\" style=\"background:#27ae60;\"><span class=\"vmdr-badge-icon\">✓</span> Cliente</span>\n              <span class=\"vmdr-badge-sub\">Achat vérifié</span>\n            </div>\n            <div class=\"vmdr-card-name\">Amélie M.</div>\n            <div class=\"vmdr-card-exp\">Mariée depuis 27 ans</div>\n            <div class=\"vmdr-card-quote\">*\"Je l'ai commandé sans lui dire. Trois semaines plus tard il avait retrouvé son regard d'avant. Et moi, j'avais retrouvé mon mari.\"*</div>\n          </div>\n        </div>\n\n      </div>\n    </div>\n\n    <!-- DOTS -->\n    <div class=\"vmdr-dots\" id=\"vmdrDots\">\n      <div class=\"vmdr-dot active\" onclick=\"vmdrGoTo(0)\"></div>\n      <div class=\"vmdr-dot\" onclick=\"vmdrGoTo(1)\"></div>\n      <div class=\"vmdr-dot\" onclick=\"vmdrGoTo(2)\"></div>\n    </div>\n\n  </div>\n</div>\n\n<script>\n  const vmdrC = document.getElementById('vmdrCarousel');\n  const vmdrD = document.querySelectorAll('.vmdr-dot');\n\n  vmdrC.addEventListener('scroll', () => {\n    const index = Math.round(vmdrC.scrollLeft / 296);\n    vmdrD.forEach((d, i) => d.classList.toggle('active', i === index));\n  });\n\n  function vmdrGoTo(i) {\n    vmdrC.scrollTo({ left: i * 296, behavior: 'smooth' });\n  }\n</script>"
           }
@@ -174,6 +175,222 @@
         "text_color": "",
         "input_background": "rgba(0,0,0,0)",
         "input_text_color": ""
+      }
+    },
+    "testimonials_FXCdNy": {
+      "type": "testimonials",
+      "blocks": {
+        "slide_aaeLJb": {
+          "type": "slide",
+          "settings": {
+            "media_style": "image",
+            "image": "shopify://shop_images/images_12.jpg",
+            "video_url": "https://www.youtube.com/watch?v=_9VUPq3SxOc",
+            "controls": false,
+            "stars_count": 5,
+            "text": "<p><em>« Je n’aurais jamais pensé pouvoir satisfaire ma femme comme ça. Depuis que j’utilise VigorMax, j’arrive à y aller 2 à 3 fois par jour sans problème. Elle est rayonnante, elle me dit qu’elle ne s’est jamais sentie aussi comblée de toute sa vie. Avant-hier, elle m’a regardé et m’a dit : “n’arrête jamais”. Ce regard vaut tout. »</em></p>",
+            "author": "<p><strong>Stephane, 63 ans</strong></p>"
+          }
+        },
+        "slide_Jwnt83": {
+          "type": "slide",
+          "settings": {
+            "media_style": "image",
+            "image": "shopify://shop_images/Screenshot_2026-03-26_at_21.41.39.png",
+            "video_url": "https://www.youtube.com/watch?v=_9VUPq3SxOc",
+            "controls": false,
+            "stars_count": 5,
+            "text": "<p><em>« Je ne m’attendais pas à ce que ça fonctionne aussi vite. En moins d’une minute, j’étais dur comme du bois et plein de confiance en moi. C’était une sensation qui me manquait depuis des années. »</em></p>",
+            "author": "<p><strong>Marc, 67 ans</strong></p>"
+          }
+        },
+        "slide_48ypch": {
+          "type": "slide",
+          "settings": {
+            "media_style": "image",
+            "image": "shopify://shop_images/photo_d2cc02ccf6a5a61571d269c4ec7f3a4d.jpg",
+            "video_url": "https://www.youtube.com/watch?v=_9VUPq3SxOc",
+            "controls": false,
+            "stars_count": 5,
+            "text": "<p><em>« J’ai dépensé des centaines d’euros en pilules et compléments. Tous promettent, aucun ne tient. J’ai essayé VigorMax uniquement parce qu’il y avait la garantie de remboursement, je n’avais rien à perdre. Deux pulvérisations. Une minute. Je n’ai pas les mots. Ça vaut chaque centime. »</em></p>",
+            "author": "<p><strong>Tony, 46 ans</strong></p>"
+          }
+        },
+        "slide_RDbzj7": {
+          "type": "slide",
+          "settings": {
+            "media_style": "image",
+            "image": "shopify://shop_images/bf41565ae48cdac82c99693b8f.jpg",
+            "video_url": "https://www.youtube.com/watch?v=_9VUPq3SxOc",
+            "controls": false,
+            "stars_count": 5,
+            "text": "<p><em>« 3 fois en une soirée, 3 À 64 ans! Mon épouse n’en revenait pas, moi non plus. Ce spray est devenu mon secret. »</em></p>",
+            "author": "<p><strong>Pascal, 64 ans</strong></p>"
+          }
+        },
+        "slide_EbEDmR": {
+          "type": "slide",
+          "settings": {
+            "media_style": "image",
+            "image": "shopify://shop_images/fce1693dd611ff3d-580x0-1.jpg",
+            "video_url": "https://www.youtube.com/watch?v=_9VUPq3SxOc",
+            "controls": false,
+            "stars_count": 4.5,
+            "text": "<p><em>« Je fume depuis mes 16 ans. À 36 ans, j’avais déjà des problèmes d’érection, quelque chose que je n’aurais jamais imaginé à cet âge. J’avais trop honte pour en parler. Depuis que j’utilise VigorMax, c’est comme si j’avais à nouveau 20 ans. Dur, rapide, stable. Le tabac ne m’atteint plus. »</em></p>",
+            "author": "<p><strong>Fabrice, 36 ans</strong></p>"
+          }
+        },
+        "slide_YHVhX6": {
+          "type": "slide",
+          "settings": {
+            "media_style": "image",
+            "image": "shopify://shop_images/images_16.jpg",
+            "video_url": "https://www.youtube.com/watch?v=_9VUPq3SxOc",
+            "controls": false,
+            "stars_count": 5,
+            "text": "<p>« Je pensais que certains plaisirs appartenaient désormais au passé. Je ne voulais pas décevoir ma compagne, mais je n’osais même pas en parler. Un ami m’en a parlé, je l’ai essayé sans trop y croire. La première fois que ça a fonctionné, j’ai ressenti quelque chose que je n’avais pas ressenti depuis des années. Elle était rayonnante. Je me suis senti à nouveau homme. »</p>",
+            "author": "<p><strong>Pierre, 76 ans</strong></p>"
+          }
+        },
+        "slide_TNVb7m": {
+          "type": "slide",
+          "settings": {
+            "media_style": "image",
+            "image": "shopify://shop_images/Screenshot_2026-03-29_at_01.05.49.png",
+            "video_url": "https://www.youtube.com/watch?v=_9VUPq3SxOc",
+            "controls": false,
+            "stars_count": 5,
+            "text": "<p><em>« Je travaille 12 heures par jour, avec un stress énorme. Depuis 2 ans, je n’étais plus comme avant avec ma femme. J’en avais trop honte pour en parler. J’ai essayé VigorMax sans trop d’attentes… et j’ai compris que ce n’était pas comme les autres produits. Ma femme a adoré. Enfin, je me sens à nouveau homme. »</em></p>",
+            "author": "<p><strong>Robert, 56 ans</strong></p>"
+          }
+        },
+        "slide_ByLRzx": {
+          "type": "slide",
+          "settings": {
+            "media_style": "image",
+            "image": "shopify://shop_images/Screenshot_2026-05-01_at_16.48.35.png",
+            "video_url": "https://www.youtube.com/watch?v=_9VUPq3SxOc",
+            "controls": false,
+            "stars_count": 4,
+            "text": "<p><em>« Franchement, ça m’a vraiment redonné confiance, </em>j’ai vu la différence, c’était net, rapide, efficace.<em> Le seul point négatif, c’est que le produit était en rupture de stock après… j’ai dû attendre un bon moment avant de pouvoir en recommander, et c’était frustrant. Mais honnêtement, ça vaut largement le coup d’attendre. »</em></p>",
+            "author": "<p><strong>Luca, 53 ans</strong></p>"
+          }
+        }
+      },
+      "block_order": [
+        "slide_aaeLJb",
+        "slide_Jwnt83",
+        "slide_48ypch",
+        "slide_RDbzj7",
+        "slide_EbEDmR",
+        "slide_YHVhX6",
+        "slide_TNVb7m",
+        "slide_ByLRzx"
+      ],
+      "name": "SS - Testimonials #12",
+      "settings": {
+        "heading": "<p><strong>Ils l'ont adotpé et ils témoignent :</strong></p>",
+        "heading_custom": false,
+        "heading_font": "josefin_sans_n4",
+        "heading_size": 30,
+        "heading_size_mobile": 22,
+        "heading_height": 130,
+        "heading_align": "center",
+        "heading_align_mobile": "center",
+        "sub_heading": "",
+        "sub_heading_custom": false,
+        "sub_heading_font": "josefin_sans_n4",
+        "sub_heading_size": 30,
+        "sub_heading_size_mobile": 22,
+        "sub_heading_height": 130,
+        "sub_heading_mt": 12,
+        "sub_heading_align": "center",
+        "sub_heading_align_mobile": "center",
+        "slider_view": 5.4,
+        "slider_view_mobile": 1.5,
+        "slider_gap": 28,
+        "slider_gap_mobile": 20,
+        "slider_mt": 20,
+        "autoplay": false,
+        "autoplay_delay": 5,
+        "card_padding_vertical": 20,
+        "card_padding_vertical_mobile": 16,
+        "card_padding_horizontal": 20,
+        "card_padding_horizontal_mobile": 16,
+        "card_radius": 20,
+        "card_border_thickness": 1,
+        "card_shadow": false,
+        "media_radius": 20,
+        "media_border_thickness": 0,
+        "media_ratio": "square",
+        "media_ratio_mobile": "square",
+        "content_padding_vertical": 0,
+        "content_padding_vertical_mobile": 0,
+        "content_padding_horizontal": 0,
+        "content_padding_horizontal_mobile": 0,
+        "hide_content": false,
+        "stars_size": 16,
+        "stars_mt": 12,
+        "stars_align": "center",
+        "stars_align_mobile": "center",
+        "text_custom": false,
+        "text_font": "josefin_sans_n4",
+        "text_size": 16,
+        "text_size_mobile": 16,
+        "text_height": 130,
+        "text_mt": 12,
+        "text_align": "center",
+        "text_align_mobile": "center",
+        "author_custom": false,
+        "author_font": "josefin_sans_n4",
+        "author_size": 14,
+        "author_size_mobile": 14,
+        "author_height": 130,
+        "author_mt": 12,
+        "author_align": "center",
+        "author_align_mobile": "center",
+        "navigation_mt": 40,
+        "navigation_gap": 20,
+        "navigation_align": "center",
+        "navigation_align_mobile": "center",
+        "arrow_size": 50,
+        "arrow_size_mobile": 50,
+        "arrow_show_desktop": true,
+        "arrow_show_mobile": false,
+        "dots_size": 10,
+        "dots_size_mobile": 10,
+        "dots_show_desktop": false,
+        "dots_show_mobile": true,
+        "btn_icon_size": 50,
+        "btn_icon_size_mobile": 40,
+        "card_bg_color": "#ffffff",
+        "card_bg_gradient": "",
+        "card_border_color": "#223547",
+        "card_shadow_color": "#000000",
+        "media_border_color": "#000000",
+        "stars_color": "#00b67a",
+        "text_color": "#323232",
+        "author_color": "#323232",
+        "video_icon_bg_color": "#ffffff",
+        "video_icon_color": "#000000",
+        "arrow_color": "#223547",
+        "arrow_hover_color": "#223547",
+        "dots_color": "#223547",
+        "heading_color": "#223547",
+        "sub_heading_color": "#223547",
+        "background_color": "#f2f2f2",
+        "background_gradient": "",
+        "border_color": "#000000",
+        "margin_top": 0,
+        "margin_bottom": 0,
+        "padding_top": 36,
+        "padding_bottom": 36,
+        "padding_horizontal": 0,
+        "padding_horizontal_mobile": 0,
+        "full_width": true,
+        "content_width": 120,
+        "border_thickness": 0,
+        "lazy": true
       }
     },
     "multi_column_iGXEwa": {
@@ -338,222 +555,6 @@
         "text_color": ""
       }
     },
-    "testimonials_FXCdNy": {
-      "type": "testimonials",
-      "blocks": {
-        "slide_aaeLJb": {
-          "type": "slide",
-          "settings": {
-            "media_style": "image",
-            "image": "shopify://shop_images/images_12.jpg",
-            "video_url": "https://www.youtube.com/watch?v=_9VUPq3SxOc",
-            "controls": false,
-            "stars_count": 5,
-            "text": "<p><em>« Je n’aurais jamais pensé pouvoir satisfaire ma femme comme ça. Depuis que j’utilise VigorMax, j’arrive à y aller 2 à 3 fois par jour sans problème. Elle est rayonnante, elle me dit qu’elle ne s’est jamais sentie aussi comblée de toute sa vie. Avant-hier, elle m’a regardé et m’a dit : “n’arrête jamais”. Ce regard vaut tout. »</em></p>",
-            "author": "<p><strong>Stephane, 63 ans</strong></p>"
-          }
-        },
-        "slide_Jwnt83": {
-          "type": "slide",
-          "settings": {
-            "media_style": "image",
-            "image": "shopify://shop_images/Screenshot_2026-03-26_at_21.41.39.png",
-            "video_url": "https://www.youtube.com/watch?v=_9VUPq3SxOc",
-            "controls": false,
-            "stars_count": 5,
-            "text": "<p><em>« Je ne m’attendais pas à ce que ça fonctionne aussi vite. En moins d’une minute, j’étais dur comme du bois et plein de confiance en moi. C’était une sensation qui me manquait depuis des années. »</em></p>",
-            "author": "<p><strong>Marc, 67 ans</strong></p>"
-          }
-        },
-        "slide_48ypch": {
-          "type": "slide",
-          "settings": {
-            "media_style": "image",
-            "image": "shopify://shop_images/photo_d2cc02ccf6a5a61571d269c4ec7f3a4d.jpg",
-            "video_url": "https://www.youtube.com/watch?v=_9VUPq3SxOc",
-            "controls": false,
-            "stars_count": 5,
-            "text": "<p><em>« J’ai dépensé des centaines d’euros en pilules et compléments. Tous promettent, aucun ne tient. J’ai essayé VigorMax uniquement parce qu’il y avait la garantie de remboursement, je n’avais rien à perdre. Deux pulvérisations. Une minute. Je n’ai pas les mots. Ça vaut chaque centime. »</em></p>",
-            "author": "<p><strong>Tony, 46 ans</strong></p>"
-          }
-        },
-        "slide_RDbzj7": {
-          "type": "slide",
-          "settings": {
-            "media_style": "image",
-            "image": "shopify://shop_images/bf41565ae48cdac82c99693b8f.jpg",
-            "video_url": "https://www.youtube.com/watch?v=_9VUPq3SxOc",
-            "controls": false,
-            "stars_count": 5,
-            "text": "<p><em>« 3 fois en une soirée, 3 À 64 ans! Mon épouse n’en revenait pas, moi non plus. Ce spray est devenu mon secret. »</em></p>",
-            "author": "<p><strong>Pascal, 64 ans</strong></p>"
-          }
-        },
-        "slide_EbEDmR": {
-          "type": "slide",
-          "settings": {
-            "media_style": "image",
-            "image": "shopify://shop_images/images_10.jpg",
-            "video_url": "https://www.youtube.com/watch?v=_9VUPq3SxOc",
-            "controls": false,
-            "stars_count": 4.5,
-            "text": "<p><em>« Je fume depuis mes 16 ans. À 36 ans, j’avais déjà des problèmes d’érection, quelque chose que je n’aurais jamais imaginé à cet âge. J’avais trop honte pour en parler. Depuis que j’utilise VigorMax, c’est comme si j’avais à nouveau 20 ans. Dur, rapide, stable. Le tabac ne m’atteint plus. »</em></p>",
-            "author": "<p><strong>Fabrice, 36 ans</strong></p>"
-          }
-        },
-        "slide_YHVhX6": {
-          "type": "slide",
-          "settings": {
-            "media_style": "image",
-            "image": "shopify://shop_images/Richard-gere-credit-instagram.jpg",
-            "video_url": "https://www.youtube.com/watch?v=_9VUPq3SxOc",
-            "controls": false,
-            "stars_count": 5,
-            "text": "<p>« Je pensais que certains plaisirs appartenaient désormais au passé. Je ne voulais pas décevoir ma compagne, mais je n’osais même pas en parler. Un ami m’en a parlé, je l’ai essayé sans trop y croire. La première fois que ça a fonctionné, j’ai ressenti quelque chose que je n’avais pas ressenti depuis des années. Elle était rayonnante. Je me suis senti à nouveau homme. »</p>",
-            "author": "<p><strong>Pierre, 76 ans</strong></p>"
-          }
-        },
-        "slide_TNVb7m": {
-          "type": "slide",
-          "settings": {
-            "media_style": "image",
-            "image": "shopify://shop_images/Screenshot_2026-03-29_at_01.05.49.png",
-            "video_url": "https://www.youtube.com/watch?v=_9VUPq3SxOc",
-            "controls": false,
-            "stars_count": 5,
-            "text": "<p><em>« Je travaille 12 heures par jour, avec un stress énorme. Depuis 2 ans, je n’étais plus comme avant avec ma femme. J’en avais trop honte pour en parler. J’ai essayé VigorMax sans trop d’attentes… et j’ai compris que ce n’était pas comme les autres produits. Ma femme a adoré. Enfin, je me sens à nouveau homme. »</em></p>",
-            "author": "<p><strong>Robert, 56 ans</strong></p>"
-          }
-        },
-        "slide_ByLRzx": {
-          "type": "slide",
-          "settings": {
-            "media_style": "image",
-            "image": "shopify://shop_images/pic_1.jpg",
-            "video_url": "https://www.youtube.com/watch?v=_9VUPq3SxOc",
-            "controls": false,
-            "stars_count": 4,
-            "text": "<p><em>« Franchement, ça m’a vraiment redonné confiance, </em>j’ai vu la différence, c’était net, rapide, efficace.<em> Le seul point négatif, c’est que le produit était en rupture de stock après… j’ai dû attendre un bon moment avant de pouvoir en recommander, et c’était frustrant.Mais honnêtement, ça vaut largement le coup d’attendre. »</em></p>",
-            "author": "<p><strong>Luca, 38 ans</strong></p>"
-          }
-        }
-      },
-      "block_order": [
-        "slide_aaeLJb",
-        "slide_Jwnt83",
-        "slide_48ypch",
-        "slide_RDbzj7",
-        "slide_EbEDmR",
-        "slide_YHVhX6",
-        "slide_TNVb7m",
-        "slide_ByLRzx"
-      ],
-      "name": "SS - Testimonials #12",
-      "settings": {
-        "heading": "<p><strong>Ne vous fiez pas seulement à nous, découvrez ce que disent les autres !</strong></p>",
-        "heading_custom": false,
-        "heading_font": "josefin_sans_n4",
-        "heading_size": 30,
-        "heading_size_mobile": 22,
-        "heading_height": 130,
-        "heading_align": "center",
-        "heading_align_mobile": "center",
-        "sub_heading": "",
-        "sub_heading_custom": false,
-        "sub_heading_font": "josefin_sans_n4",
-        "sub_heading_size": 30,
-        "sub_heading_size_mobile": 22,
-        "sub_heading_height": 130,
-        "sub_heading_mt": 12,
-        "sub_heading_align": "center",
-        "sub_heading_align_mobile": "center",
-        "slider_view": 5.4,
-        "slider_view_mobile": 1.5,
-        "slider_gap": 28,
-        "slider_gap_mobile": 20,
-        "slider_mt": 20,
-        "autoplay": false,
-        "autoplay_delay": 5,
-        "card_padding_vertical": 20,
-        "card_padding_vertical_mobile": 16,
-        "card_padding_horizontal": 20,
-        "card_padding_horizontal_mobile": 16,
-        "card_radius": 20,
-        "card_border_thickness": 1,
-        "card_shadow": false,
-        "media_radius": 20,
-        "media_border_thickness": 0,
-        "media_ratio": "square",
-        "media_ratio_mobile": "square",
-        "content_padding_vertical": 0,
-        "content_padding_vertical_mobile": 0,
-        "content_padding_horizontal": 0,
-        "content_padding_horizontal_mobile": 0,
-        "hide_content": false,
-        "stars_size": 16,
-        "stars_mt": 12,
-        "stars_align": "center",
-        "stars_align_mobile": "center",
-        "text_custom": false,
-        "text_font": "josefin_sans_n4",
-        "text_size": 16,
-        "text_size_mobile": 16,
-        "text_height": 130,
-        "text_mt": 12,
-        "text_align": "center",
-        "text_align_mobile": "center",
-        "author_custom": false,
-        "author_font": "josefin_sans_n4",
-        "author_size": 14,
-        "author_size_mobile": 14,
-        "author_height": 130,
-        "author_mt": 12,
-        "author_align": "center",
-        "author_align_mobile": "center",
-        "navigation_mt": 40,
-        "navigation_gap": 20,
-        "navigation_align": "center",
-        "navigation_align_mobile": "center",
-        "arrow_size": 50,
-        "arrow_size_mobile": 50,
-        "arrow_show_desktop": true,
-        "arrow_show_mobile": false,
-        "dots_size": 10,
-        "dots_size_mobile": 10,
-        "dots_show_desktop": false,
-        "dots_show_mobile": true,
-        "btn_icon_size": 50,
-        "btn_icon_size_mobile": 40,
-        "card_bg_color": "#ffffff",
-        "card_bg_gradient": "",
-        "card_border_color": "#223547",
-        "card_shadow_color": "#000000",
-        "media_border_color": "#000000",
-        "stars_color": "#00b67a",
-        "text_color": "#323232",
-        "author_color": "#323232",
-        "video_icon_bg_color": "#ffffff",
-        "video_icon_color": "#000000",
-        "arrow_color": "#223547",
-        "arrow_hover_color": "#223547",
-        "dots_color": "#223547",
-        "heading_color": "#223547",
-        "sub_heading_color": "#223547",
-        "background_color": "#f2f2f2",
-        "background_gradient": "",
-        "border_color": "#000000",
-        "margin_top": 0,
-        "margin_bottom": 0,
-        "padding_top": 36,
-        "padding_bottom": 36,
-        "padding_horizontal": 0,
-        "padding_horizontal_mobile": 0,
-        "full_width": true,
-        "content_width": 120,
-        "border_thickness": 0,
-        "lazy": true
-      }
-    },
     "multi_column_BMcJih": {
       "type": "multi-column",
       "blocks": {
@@ -667,12 +668,12 @@
     "custom_liquid_wecaWH",
     "image_with_text_overlay_UEJtA3",
     "main",
+    "testimonials_FXCdNy",
     "multi_column_iGXEwa",
     "multi_column_YHRUCR",
     "rich_text_9UqKEx",
     "multi_column_EeJHVR",
     "multi_column_wyqCKB",
-    "testimonials_FXCdNy",
     "multi_column_BMcJih",
     "faq_aKtydG",
     "custom_liquid_Qe7BfY"
