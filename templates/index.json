@@ -11,30 +11,14 @@
   "sections": {
     "image_with_text_overlay_eRfeNj": {
       "type": "image-with-text-overlay",
-      "blocks": {
-        "button_fz7VhJ": {
-          "type": "button",
-          "settings": {
-            "style": "outline",
-            "size": "lg",
-            "text": "Découvrir",
-            "url": "shopify://products/vigormax",
-            "background": "",
-            "text_color": ""
-          }
-        }
-      },
-      "block_order": [
-        "button_fz7VhJ"
-      ],
       "name": "Image with text overlay",
       "settings": {
         "full_width": true,
         "allow_transparent_header": false,
         "enable_parallax": false,
         "image_size": "auto",
-        "image": "shopify://shop_images/ChatGPT_Image_27_mars_2026_01_47_27.png",
-        "mobile_image": "shopify://shop_images/ChatGPT_Image_27_mars_2026_01_47_27.png",
+        "image": "shopify://shop_images/hf_20260501_102821_febd3767-0f4f-44d5-ae24-bf4c8ef78f16.png",
+        "mobile_image": "shopify://shop_images/hf_20260501_102821_febd3767-0f4f-44d5-ae24-bf4c8ef78f16.png",
         "mobile_text_position": "place-self-center text-center",
         "desktop_text_position": "sm:place-self-center sm:text-center",
         "text_color": "#ffffff",
