@@ -244,6 +244,32 @@
         "text_color": ""
       }
     },
+    "rich_text_9UqKEx": {
+      "type": "rich-text",
+      "blocks": {
+        "image_r6RcdH": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/ChatGPT_Image_1_mai_2026_13_28_26_62968f95-651c-4fcf-b3ed-48675a7e336a.png",
+            "width_mode": "full_width",
+            "max_width": 1000,
+            "mobile_max_width": 600
+          }
+        }
+      },
+      "block_order": [
+        "image_r6RcdH"
+      ],
+      "name": "Rich text",
+      "settings": {
+        "full_width": true,
+        "content_width": "small",
+        "text_position": "center",
+        "background": "",
+        "background_gradient": "",
+        "text_color": ""
+      }
+    },
     "multi_column_EeJHVR": {
       "type": "multi-column",
       "blocks": {
@@ -273,32 +299,6 @@
         "subheading": "",
         "title": "",
         "content": "",
-        "background": "",
-        "background_gradient": "",
-        "text_color": ""
-      }
-    },
-    "rich_text_9UqKEx": {
-      "type": "rich-text",
-      "blocks": {
-        "image_r6RcdH": {
-          "type": "image",
-          "settings": {
-            "image": "shopify://shop_images/ChatGPT_Image_1_mai_2026_13_28_26_62968f95-651c-4fcf-b3ed-48675a7e336a.png",
-            "width_mode": "full_width",
-            "max_width": 1000,
-            "mobile_max_width": 600
-          }
-        }
-      },
-      "block_order": [
-        "image_r6RcdH"
-      ],
-      "name": "Rich text",
-      "settings": {
-        "full_width": true,
-        "content_width": "small",
-        "text_position": "center",
         "background": "",
         "background_gradient": "",
         "text_color": ""
@@ -669,8 +669,8 @@
     "main",
     "multi_column_iGXEwa",
     "multi_column_YHRUCR",
-    "multi_column_EeJHVR",
     "rich_text_9UqKEx",
+    "multi_column_EeJHVR",
     "multi_column_wyqCKB",
     "testimonials_FXCdNy",
     "multi_column_BMcJih",
