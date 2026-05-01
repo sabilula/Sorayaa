@@ -243,19 +243,10 @@
     "rich_text_9UqKEx": {
       "type": "rich-text",
       "blocks": {
-        "heading_Y9KxGf": {
-          "type": "heading",
-          "settings": {
-            "text": "Vu sur...",
-            "heading_tag": "h2",
-            "text_color": "",
-            "gradient": ""
-          }
-        },
         "image_r6RcdH": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/Screenshot_2026-03-26_at_21.18.49.png",
+            "image": "shopify://shop_images/ChatGPT_Image_1_mai_2026_13_28_26_62968f95-651c-4fcf-b3ed-48675a7e336a.png",
             "width_mode": "full_width",
             "max_width": 1000,
             "mobile_max_width": 600
@@ -263,7 +254,6 @@
         }
       },
       "block_order": [
-        "heading_Y9KxGf",
         "image_r6RcdH"
       ],
       "name": "Rich text",
