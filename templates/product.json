@@ -201,19 +201,31 @@
             "controls": false,
             "stars_count": 5,
             "text": "<p><em>« Je ne m’attendais pas à ce que ça fonctionne aussi vite. En moins d’une minute, j’étais dur comme du bois et plein de confiance en moi. C’était une sensation qui me manquait depuis des années. »</em></p>",
-            "author": "<p><strong>Marc, 67 ans</strong></p>"
+            "author": "<p><strong>Marc, 65 ans</strong></p>"
           }
         },
         "slide_48ypch": {
           "type": "slide",
           "settings": {
             "media_style": "image",
-            "image": "shopify://shop_images/photo_d2cc02ccf6a5a61571d269c4ec7f3a4d.jpg",
+            "image": "shopify://shop_images/Screenshot_2026-05-01_at_16.41.10.png",
             "video_url": "https://www.youtube.com/watch?v=_9VUPq3SxOc",
             "controls": false,
             "stars_count": 5,
             "text": "<p><em>« J’ai dépensé des centaines d’euros en pilules et compléments. Tous promettent, aucun ne tient. J’ai essayé VigorMax uniquement parce qu’il y avait la garantie de remboursement, je n’avais rien à perdre. Deux pulvérisations. Une minute. Je n’ai pas les mots. Ça vaut chaque centime. »</em></p>",
-            "author": "<p><strong>Tony, 46 ans</strong></p>"
+            "author": "<p><strong>Jean-Pierre, 68 ans</strong></p>"
+          }
+        },
+        "slide_YHVhX6": {
+          "type": "slide",
+          "settings": {
+            "media_style": "image",
+            "image": "shopify://shop_images/images_16.jpg",
+            "video_url": "https://www.youtube.com/watch?v=_9VUPq3SxOc",
+            "controls": false,
+            "stars_count": 5,
+            "text": "<p>« Je pensais que certains plaisirs appartenaient désormais au passé. Je ne voulais pas décevoir ma compagne, mais je n’osais même pas en parler. Un ami m’en a parlé, je l’ai essayé sans trop y croire. La première fois que ça a fonctionné, j’ai ressenti quelque chose que je n’avais pas ressenti depuis des années. Elle était rayonnante. Je me suis senti à nouveau homme. »</p>",
+            "author": "<p><strong>Yvan, 56 ans</strong></p>"
           }
         },
         "slide_RDbzj7": {
@@ -237,19 +249,7 @@
             "controls": false,
             "stars_count": 4.5,
             "text": "<p><em>« Je fume depuis mes 16 ans. À 36 ans, j’avais déjà des problèmes d’érection, quelque chose que je n’aurais jamais imaginé à cet âge. J’avais trop honte pour en parler. Depuis que j’utilise VigorMax, c’est comme si j’avais à nouveau 20 ans. Dur, rapide, stable. Le tabac ne m’atteint plus. »</em></p>",
-            "author": "<p><strong>Fabrice, 36 ans</strong></p>"
-          }
-        },
-        "slide_YHVhX6": {
-          "type": "slide",
-          "settings": {
-            "media_style": "image",
-            "image": "shopify://shop_images/images_16.jpg",
-            "video_url": "https://www.youtube.com/watch?v=_9VUPq3SxOc",
-            "controls": false,
-            "stars_count": 5,
-            "text": "<p>« Je pensais que certains plaisirs appartenaient désormais au passé. Je ne voulais pas décevoir ma compagne, mais je n’osais même pas en parler. Un ami m’en a parlé, je l’ai essayé sans trop y croire. La première fois que ça a fonctionné, j’ai ressenti quelque chose que je n’avais pas ressenti depuis des années. Elle était rayonnante. Je me suis senti à nouveau homme. »</p>",
-            "author": "<p><strong>Pierre, 76 ans</strong></p>"
+            "author": "<p><strong>Fabrice, 54 ans</strong></p>"
           }
         },
         "slide_TNVb7m": {
@@ -261,7 +261,7 @@
             "controls": false,
             "stars_count": 5,
             "text": "<p><em>« Je travaille 12 heures par jour, avec un stress énorme. Depuis 2 ans, je n’étais plus comme avant avec ma femme. J’en avais trop honte pour en parler. J’ai essayé VigorMax sans trop d’attentes… et j’ai compris que ce n’était pas comme les autres produits. Ma femme a adoré. Enfin, je me sens à nouveau homme. »</em></p>",
-            "author": "<p><strong>Robert, 56 ans</strong></p>"
+            "author": "<p><strong>Robert, 51 ans</strong></p>"
           }
         },
         "slide_ByLRzx": {
@@ -273,7 +273,7 @@
             "controls": false,
             "stars_count": 4,
             "text": "<p><em>« Franchement, ça m’a vraiment redonné confiance, </em>j’ai vu la différence, c’était net, rapide, efficace.<em> Le seul point négatif, c’est que le produit était en rupture de stock après… j’ai dû attendre un bon moment avant de pouvoir en recommander, et c’était frustrant. Mais honnêtement, ça vaut largement le coup d’attendre. »</em></p>",
-            "author": "<p><strong>Luca, 53 ans</strong></p>"
+            "author": "<p><strong>Tony, 53 ans</strong></p>"
           }
         }
       },
@@ -281,9 +281,9 @@
         "slide_aaeLJb",
         "slide_Jwnt83",
         "slide_48ypch",
+        "slide_YHVhX6",
         "slide_RDbzj7",
         "slide_EbEDmR",
-        "slide_YHVhX6",
         "slide_TNVb7m",
         "slide_ByLRzx"
       ],
