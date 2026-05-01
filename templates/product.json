@@ -180,6 +180,18 @@
     "testimonials_FXCdNy": {
       "type": "testimonials",
       "blocks": {
+        "slide_RDbzj7": {
+          "type": "slide",
+          "settings": {
+            "media_style": "image",
+            "image": "shopify://shop_images/bf41565ae48cdac82c99693b8f.jpg",
+            "video_url": "https://www.youtube.com/watch?v=_9VUPq3SxOc",
+            "controls": false,
+            "stars_count": 5,
+            "text": "<p><em>« 2 fois en une soirée, 2 À 64 ans! Mon épouse n’en revenait pas, moi non plus. Ce spray est devenu mon secret. »</em></p>",
+            "author": "<p><strong>Pascal, 64 ans</strong></p>"
+          }
+        },
         "slide_aaeLJb": {
           "type": "slide",
           "settings": {
@@ -228,18 +240,6 @@
             "author": "<p><strong>Yvan, 49 ans</strong></p>"
           }
         },
-        "slide_RDbzj7": {
-          "type": "slide",
-          "settings": {
-            "media_style": "image",
-            "image": "shopify://shop_images/bf41565ae48cdac82c99693b8f.jpg",
-            "video_url": "https://www.youtube.com/watch?v=_9VUPq3SxOc",
-            "controls": false,
-            "stars_count": 5,
-            "text": "<p><em>« 3 fois en une soirée, 3 À 64 ans! Mon épouse n’en revenait pas, moi non plus. Ce spray est devenu mon secret. »</em></p>",
-            "author": "<p><strong>Pascal, 64 ans</strong></p>"
-          }
-        },
         "slide_EbEDmR": {
           "type": "slide",
           "settings": {
@@ -248,7 +248,7 @@
             "video_url": "https://www.youtube.com/watch?v=_9VUPq3SxOc",
             "controls": false,
             "stars_count": 4.5,
-            "text": "<p><em>« Je fume depuis mes 16 ans. À 36 ans, j’avais déjà des problèmes d’érection, quelque chose que je n’aurais jamais imaginé à cet âge. J’avais trop honte pour en parler. Depuis que j’utilise VigorMax, c’est comme si j’avais à nouveau 20 ans. Dur, rapide, stable. Le tabac ne m’atteint plus. »</em></p>",
+            "text": "<p><em>« À 54 ans, j’ai déjà des problèmes d’érection, quelque chose que je n’aurais jamais imaginé à cet âge. J’avais trop honte pour en parler. Depuis que j’utilise VigorMax, c’est comme si j’avais à nouveau 20 ans. Dur, rapide, stable. La honte ne m’atteint plus. »</em></p>",
             "author": "<p><strong>Fabrice, 54 ans</strong></p>"
           }
         },
@@ -260,7 +260,7 @@
             "video_url": "https://www.youtube.com/watch?v=_9VUPq3SxOc",
             "controls": false,
             "stars_count": 5,
-            "text": "<p><em>« Je travaille 12 heures par jour, avec un stress énorme. Depuis 2 ans, je n’étais plus comme avant avec ma femme. J’en avais trop honte pour en parler. J’ai essayé VigorMax sans trop d’attentes… et j’ai compris que ce n’était pas comme les autres produits. Ma femme a adoré. Enfin, je me sens à nouveau homme. »</em></p>",
+            "text": "<p><em>« Je travaille 12 heures par jour, avec un stress énorme. Depuis 2 ans, je n’étais plus comme avant avec ma femme. J’en avais trop honte pour en parler. J’ai essayé VigorMax sans trop d’attentes… et j’ai compris que ce n’était pas comme les autres produits. Ma femme a adoré. »</em></p>",
             "author": "<p><strong>Robert, 51 ans</strong></p>"
           }
         },
@@ -278,11 +278,11 @@
         }
       },
       "block_order": [
+        "slide_RDbzj7",
         "slide_aaeLJb",
         "slide_Jwnt83",
         "slide_48ypch",
         "slide_YHVhX6",
-        "slide_RDbzj7",
         "slide_EbEDmR",
         "slide_TNVb7m",
         "slide_ByLRzx"
