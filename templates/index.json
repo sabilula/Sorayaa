@@ -26,6 +26,19 @@
         "overlay_opacity": 0
       }
     },
+    "custom_liquid_QF7LBe": {
+      "type": "custom-liquid",
+      "name": "Custom Liquid",
+      "settings": {
+        "full_width": true,
+        "remove_vertical_spacing": true,
+        "remove_horizontal_spacing": true,
+        "liquid": "<div style=\"background:#fff; padding:10; line-height:10; overflow:hidden;\">\n  <div style=\"display:flex; gap:60px; align-items:center; width:max-content; animation:scroll 18s linear infinite;\">\n    <img src=\"https://cdn.shopify.com/s/files/1/0933/6311/0223/files/allure.png?v=1747916421\" alt=\"Allure\" style=\"height:50px;\">\n    <img src=\"https://cdn.shopify.com/s/files/1/0933/6311/0223/files/Vogue.jpg?v=1747916421\" alt=\"Vogue\" style=\"height:50px;\">\n    <img src=\"https://cdn.shopify.com/s/files/1/0933/6311/0223/files/Glamour.png?v=1748610059\" alt=\"Glamour\" style=\"height:50px;\">\n    <img src=\"https://cdn.shopify.com/s/files/1/0933/6311/0223/files/allure.png?v=1747916421\" alt=\"Allure\" style=\"height:50px;\">\n    <img src=\"https://cdn.shopify.com/s/files/1/0933/6311/0223/files/Vogue.jpg?v=1747916421\" alt=\"Vogue\" style=\"height:50px;\">\n    <img src=\"https://cdn.shopify.com/s/files/1/0933/6311/0223/files/Glamour.png?v=1748610059\" alt=\"Glamour\" style=\"height:50px;\">\n  </div>\n</div>\n\n<style>\n@keyframes scroll {\n  0%   { transform:translateX(0); }\n  100% { transform:translateX(-50%); }\n}\n</style>",
+        "background": "",
+        "background_gradient": "",
+        "text_color": ""
+      }
+    },
     "custom_liquid_NwicHk": {
       "type": "custom-liquid",
       "disabled": true,
@@ -216,6 +229,7 @@
   },
   "order": [
     "image_with_text_overlay_eRfeNj",
+    "custom_liquid_QF7LBe",
     "custom_liquid_NwicHk",
     "custom_html_FmWgfd",
     "featured-product",
