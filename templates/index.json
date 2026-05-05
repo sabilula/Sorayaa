@@ -47,7 +47,7 @@
         "full_width": true,
         "remove_vertical_spacing": false,
         "remove_horizontal_spacing": false,
-        "html": "<div style=\"font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,Helvetica,Arial,sans-serif;\n            text-align:center;line-height:1.35;max-width:300px;margin:0 auto;color:#000;\">\n  <div style=\"display:flex;flex-wrap:wrap;justify-content:center;align-items:center;gap:6px;\n              font-size:24px;font-weight:600;\">\n    <span>Excellent</span>\n    <span style=\"font-weight:700;\">4.8</span>\n    <span>/ 5</span>\n    <span style=\"color:#00B67A;font-size:22px;letter-spacing:1px;\">★★★★★</span>\n  </div>\n  <div style=\"margin-top:4px;font-size:14px;color:#555;display:flex;\n              flex-wrap:wrap;justify-content:center;align-items:center;gap:4px;\">\n    <span>Basé sur plus de <strong>+12000</strong> avis</span>\n    <span style=\"color:#00B67A;font-size:15px;\">★</span>\n    <span>Trustpilot</span>\n  </div>\n</div>",
+        "html": "<div style=\"font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,Helvetica,Arial,sans-serif;\n            text-align:center;line-height:1.35;max-width:300px;margin:0 auto;color:#000;\">\n  <div style=\"display:flex;justify-content:center;align-items:center;gap:6px;\n              font-size:18px;font-weight:600;white-space:nowrap;\">\n    <span>Eccellente</span>\n    <span style=\"color:#00B67A;letter-spacing:1px;\">★★★★★</span>\n    <span style=\"font-weight:700;\">4.8</span>\n    <span style=\"font-weight:400;\">/ 5</span>\n  </div>\n  <div style=\"margin-top:4px;font-size:12px;color:#555;display:flex;\n              justify-content:center;align-items:center;gap:4px;white-space:nowrap;\">\n    <span>Basato su oltre <strong>+20.000</strong> recensioni</span>\n    <span style=\"color:#00B67A;font-size:13px;\">★</span>\n    <span>Trustpilot</span>\n  </div>\n</div>",
         "background": "",
         "background_gradient": "",
         "text_color": ""
@@ -114,7 +114,6 @@
         "image_XwtbBh": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/Capture_d_ecran_2025-09-12_a_03.25.50.png",
             "alignment": "start",
             "max_width": 500
           }
@@ -122,7 +121,6 @@
         "image_eKMz3W": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/Capture_d_ecran_2025-09-11_a_20.57.25.png",
             "alignment": "start",
             "max_width": 500
           }
@@ -130,7 +128,6 @@
         "image_3EJ9Vf": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/Copie_de_Template_section_benefice_3.png",
             "alignment": "start",
             "max_width": 500
           }
@@ -209,8 +206,6 @@
         "allow_transparent_header": false,
         "enable_parallax": false,
         "image_size": "auto",
-        "image": "shopify://shop_images/Copie_de_Template_section_benefice_4.png",
-        "mobile_image": "shopify://shop_images/Copie_de_Template_section_benefice_4.png",
         "mobile_text_position": "place-self-center text-center",
         "desktop_text_position": "sm:place-self-center sm:text-center",
         "text_color": "#ffffff",
