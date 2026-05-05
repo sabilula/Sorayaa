@@ -39,18 +39,21 @@
         "text_color": ""
       }
     },
-    "custom_liquid_NwicHk": {
-      "type": "custom-liquid",
-      "disabled": true,
-      "name": "Custom Liquid",
+    "image_with_text_overlay_pQCLDb": {
+      "type": "image-with-text-overlay",
+      "name": "Image with text overlay",
       "settings": {
         "full_width": true,
-        "remove_vertical_spacing": false,
-        "remove_horizontal_spacing": false,
-        "liquid": "<div style=\"background:#fff; padding:8px 0; overflow:hidden;\">\n  <div style=\"display:flex; gap:60px; align-items:center; width:max-content; animation:scroll 18s linear infinite;\">\n    <img src=\"https://cdn.shopify.com/s/files/1/0933/6311/0223/files/allure.png?v=1747916421\" alt=\"Allure\" style=\"height:50px;\">\n    <img src=\"https://cdn.shopify.com/s/files/1/0933/6311/0223/files/Vogue.jpg?v=1747916421\" alt=\"Vogue\" style=\"height:50px;\">\n    <img src=\"https://cdn.shopify.com/s/files/1/0933/6311/0223/files/Glamour.png?v=1748610059\" alt=\"Glamour\" style=\"height:50px;\">\n    <img src=\"https://cdn.shopify.com/s/files/1/0933/6311/0223/files/allure.png?v=1747916421\" alt=\"Allure\" style=\"height:50px;\">\n    <img src=\"https://cdn.shopify.com/s/files/1/0933/6311/0223/files/Vogue.jpg?v=1747916421\" alt=\"Vogue\" style=\"height:50px;\">\n    <img src=\"https://cdn.shopify.com/s/files/1/0933/6311/0223/files/Glamour.png?v=1748610059\" alt=\"Glamour\" style=\"height:50px;\">\n  </div>\n</div>\n\n<style>\n@keyframes scroll {\n  0%   { transform:translateX(0); }\n  100% { transform:translateX(-50%); }\n}\n</style>",
-        "background": "",
-        "background_gradient": "",
-        "text_color": ""
+        "allow_transparent_header": false,
+        "enable_parallax": false,
+        "image_size": "auto",
+        "image": "shopify://shop_images/D6280315-EB28-474C-9515-B20ECAEA3853.png",
+        "mobile_image": "shopify://shop_images/FD820291-EF3F-4D22-B490-09CDAE115A49.jpg",
+        "mobile_text_position": "place-self-center text-center",
+        "desktop_text_position": "sm:place-self-center sm:text-center",
+        "text_color": "#ffffff",
+        "overlay_color": "#000000",
+        "overlay_opacity": 0
       }
     },
     "custom_html_FmWgfd": {
@@ -230,7 +233,7 @@
   "order": [
     "image_with_text_overlay_eRfeNj",
     "custom_liquid_QF7LBe",
-    "custom_liquid_NwicHk",
+    "image_with_text_overlay_pQCLDb",
     "custom_html_FmWgfd",
     "featured-product",
     "image_with_text_overlay_4EjiMX"
