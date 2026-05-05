@@ -61,7 +61,7 @@
       "name": "Video",
       "settings": {
         "full_width": false,
-        "allow_transparent_header": false,
+        "allow_transparent_header": true,
         "autoplay": true,
         "video_size": "auto",
         "video": "shopify://files/videos/copy_0E2828A8-5B7C-4585-A931-81EB42F15F4B.MOV",
