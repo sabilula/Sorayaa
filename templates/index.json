@@ -622,6 +622,96 @@
         "background_gradient": "",
         "text_color": ""
       }
+    },
+    "multi_column_iefNMr": {
+      "type": "multi-column",
+      "blocks": {
+        "item_xECeVA": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/6.png",
+            "column_size": "3",
+            "title": "",
+            "heading_tag": "h4",
+            "content": "",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        },
+        "item_J6DqhE": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/7.png",
+            "column_size": "3",
+            "title": "",
+            "heading_tag": "h4",
+            "content": "",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        },
+        "item_Hpicp6": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/8.png",
+            "column_size": "3",
+            "title": "",
+            "heading_tag": "h4",
+            "content": "",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        },
+        "item_tiiHmg": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/5.png",
+            "column_size": "3",
+            "title": "",
+            "heading_tag": "h4",
+            "content": "",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        },
+        "item_hqpUmK": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/9.png",
+            "column_size": "3",
+            "title": "",
+            "heading_tag": "h4",
+            "content": "",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        }
+      },
+      "block_order": [
+        "item_xECeVA",
+        "item_J6DqhE",
+        "item_Hpicp6",
+        "item_tiiHmg",
+        "item_hqpUmK"
+      ],
+      "name": "Multi-column",
+      "settings": {
+        "full_width": true,
+        "stack_on_mobile": false,
+        "gap": "small",
+        "text_alignment": "center",
+        "subheading": "",
+        "title": "Prima / Dopo",
+        "content": "",
+        "background": "",
+        "background_gradient": "",
+        "text_color": ""
+      }
     }
   },
   "order": [
@@ -635,6 +725,7 @@
     "testimonials_cErhjk",
     "featured-product",
     "rich_text_ektBbN",
-    "custom_liquid_JE6BNE"
+    "custom_liquid_JE6BNE",
+    "multi_column_iefNMr"
   ]
 }
