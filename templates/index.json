@@ -56,23 +56,6 @@
         "overlay_opacity": 0
       }
     },
-    "image_with_text_overlay_WdxWFY": {
-      "type": "image-with-text-overlay",
-      "name": "Image with text overlay",
-      "settings": {
-        "full_width": true,
-        "allow_transparent_header": false,
-        "enable_parallax": false,
-        "image_size": "auto",
-        "image": "shopify://shop_images/Capture_d_ecran_2025-10-19_a_19.03.55.png",
-        "mobile_image": "shopify://shop_images/Capture_d_ecran_2025-10-19_a_19.03.55.png",
-        "mobile_text_position": "place-self-center text-center",
-        "desktop_text_position": "sm:place-self-center sm:text-center",
-        "text_color": "#ffffff",
-        "overlay_color": "#000000",
-        "overlay_opacity": 0
-      }
-    },
     "video_nfPkag": {
       "type": "video",
       "name": "Video",
@@ -100,6 +83,23 @@
         "background": "",
         "background_gradient": "",
         "text_color": ""
+      }
+    },
+    "image_with_text_overlay_WdxWFY": {
+      "type": "image-with-text-overlay",
+      "name": "Image with text overlay",
+      "settings": {
+        "full_width": true,
+        "allow_transparent_header": false,
+        "enable_parallax": false,
+        "image_size": "auto",
+        "image": "shopify://shop_images/Capture_d_ecran_2025-10-19_a_19.03.55.png",
+        "mobile_image": "shopify://shop_images/Capture_d_ecran_2025-10-19_a_19.03.55.png",
+        "mobile_text_position": "place-self-center text-center",
+        "desktop_text_position": "sm:place-self-center sm:text-center",
+        "text_color": "#ffffff",
+        "overlay_color": "#000000",
+        "overlay_opacity": 0
       }
     },
     "testimonials_cErhjk": {
@@ -424,10 +424,9 @@
         "collapsible_text_kMU4gA",
         "collapsible_text_Kw73m4"
       ],
-      "disabled": true,
       "settings": {
         "full_width": false,
-        "product": "vigormax",
+        "product": "brushpro",
         "desktop_media_width": 55,
         "desktop_media_layout": "carousel_thumbnails_left",
         "mobile_media_size": "expanded",
