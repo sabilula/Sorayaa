@@ -167,18 +167,6 @@
             "author": "<p>— <strong>Giuseppina R., 61 anni</strong></p>"
           }
         },
-        "slide_9DaFfd": {
-          "type": "slide",
-          "settings": {
-            "media_style": "image",
-            "image": "shopify://shop_images/avis6.webp",
-            "video_url": "https://www.youtube.com/watch?v=_9VUPq3SxOc",
-            "controls": false,
-            "stars_count": 5,
-            "text": "<p>Love them, they give the perfect luxury touch to any room</p>",
-            "author": "<p><strong>@allfinds</strong></p>"
-          }
-        },
         "slide_d7jLGW": {
           "type": "slide",
           "settings": {
@@ -189,6 +177,18 @@
             "stars_count": 5,
             "text": "<p><em>«Pensavo fosse l'età, che non potevo più avere bei capelli. La BrushPro 2.0 mi ha dimostrato che avevo torto. Mia sorella mi chiede cosa faccio di diverso. Le rispondo: due minuti con la spazzola giusta.»</em><br/></p>",
             "author": "<p>— <strong>Carla V., 64 anni</strong></p>"
+          }
+        },
+        "slide_9DaFfd": {
+          "type": "slide",
+          "settings": {
+            "media_style": "image",
+            "image": "shopify://shop_images/avis6.webp",
+            "video_url": "https://www.youtube.com/watch?v=_9VUPq3SxOc",
+            "controls": false,
+            "stars_count": 5,
+            "text": "<p><em>«Scettica al 100%. Avevo già speso 200 euro in prodotti inutili. Prima passata,mi sono fermata. Ho rifatto la stessa ciocca per non crederci. Ho chiamato mia sorella mentre ero ancora in bagno.»</em><br/></p>",
+            "author": "<p>— <strong>Federica M., 45 anni</strong></p>"
           }
         },
         "slide_V7JFir": {
@@ -280,8 +280,8 @@
         "slide_chYhBN",
         "slide_XtzQgQ",
         "slide_4HEGfE",
-        "slide_9DaFfd",
         "slide_d7jLGW",
+        "slide_9DaFfd",
         "slide_V7JFir",
         "slide_8qDfGb",
         "slide_pxgxaw",
