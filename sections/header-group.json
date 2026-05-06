@@ -14,17 +14,17 @@
     "announcement-bar": {
       "type": "announcement-bar",
       "blocks": {
-        "message_BzKRyc": {
-          "type": "message",
-          "settings": {
-            "text": "✔ GARANZIA 30 GIORNI",
-            "url": ""
-          }
-        },
         "message": {
           "type": "message",
           "settings": {
             "text": "🌸 Ultimi giorni! Offerta Festa della Mamma",
+            "url": ""
+          }
+        },
+        "message_BzKRyc": {
+          "type": "message",
+          "settings": {
+            "text": "✔ GARANZIA 30 GIORNI",
             "url": ""
           }
         },
@@ -37,8 +37,8 @@
         }
       },
       "block_order": [
-        "message_BzKRyc",
         "message",
+        "message_BzKRyc",
         "message_BFX3WM"
       ],
       "settings": {
