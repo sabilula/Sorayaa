@@ -56,6 +56,32 @@
         "overlay_opacity": 0
       }
     },
+    "rich_text_i798Df": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_nzcChK": {
+          "type": "heading",
+          "settings": {
+            "text": "Risultato Prima/Dopo :",
+            "heading_tag": "h1",
+            "text_color": "",
+            "gradient": ""
+          }
+        }
+      },
+      "block_order": [
+        "heading_nzcChK"
+      ],
+      "name": "Rich text",
+      "settings": {
+        "full_width": true,
+        "content_width": "small",
+        "text_position": "center",
+        "background": "",
+        "background_gradient": "",
+        "text_color": ""
+      }
+    },
     "video_nfPkag": {
       "type": "video",
       "name": "Video",
@@ -491,6 +517,7 @@
     "image_with_text_overlay_eRfeNj",
     "custom_liquid_QF7LBe",
     "image_with_text_overlay_pQCLDb",
+    "rich_text_i798Df",
     "video_nfPkag",
     "custom_html_FmWgfd",
     "image_with_text_overlay_WdxWFY",
