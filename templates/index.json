@@ -143,6 +143,18 @@
             "author": "<p>— <strong>Antonella M., 57 anni</strong></p>"
           }
         },
+        "slide_XtzQgQ": {
+          "type": "slide",
+          "settings": {
+            "media_style": "image",
+            "image": "shopify://shop_images/672676348_122195832188376971_7333221112042409427_n.jpg",
+            "video_url": "https://www.youtube.com/watch?v=_9VUPq3SxOc",
+            "controls": false,
+            "stars_count": 5,
+            "text": "<p><em>«La nuca finalmente. Da 10 anni nessuno strumento ci arrivava. Il primo giorno mio marito mi ha guardata diversamente. Sa di cosa parlo chi ha i capelli corti.»</em><br/></p>",
+            "author": "<p>— <strong>Rossella B., 54 anni</strong></p>"
+          }
+        },
         "slide_4HEGfE": {
           "type": "slide",
           "settings": {
@@ -153,18 +165,6 @@
             "stars_count": 5,
             "text": "<p><em>«Ho pianto di rabbia. Di quanti anni persi davanti allo specchio frustrata. In 2 minuti ha risolto quello che nessun prodotto aveva risolto in anni. Sono arrabbiata di non averla trovata prima.»</em><br/></p>",
             "author": "<p>— <strong>Giuseppina R., 61 anni</strong></p>"
-          }
-        },
-        "slide_V7JFir": {
-          "type": "slide",
-          "settings": {
-            "media_style": "image",
-            "image": "shopify://shop_images/avis4bis.webp",
-            "video_url": "https://www.youtube.com/watch?v=_9VUPq3SxOc",
-            "controls": false,
-            "stars_count": 5,
-            "text": "<p>This is the brand to go for lamps, love the quality and design, as always you get what you pay</p>",
-            "author": "<p><strong>@niels_homes</strong></p>"
           }
         },
         "slide_9DaFfd": {
@@ -191,6 +191,18 @@
             "author": "<p>— <strong>Carla V., 64 anni</strong></p>"
           }
         },
+        "slide_V7JFir": {
+          "type": "slide",
+          "settings": {
+            "media_style": "image",
+            "image": "shopify://shop_images/avis4bis.webp",
+            "video_url": "https://www.youtube.com/watch?v=_9VUPq3SxOc",
+            "controls": false,
+            "stars_count": 5,
+            "text": "<p>This is the brand to go for lamps, love the quality and design, as always you get what you pay</p>",
+            "author": "<p><strong>@niels_homes</strong></p>"
+          }
+        },
         "slide_8qDfGb": {
           "type": "slide",
           "settings": {
@@ -213,18 +225,6 @@
             "stars_count": 5,
             "text": "<p>I use it every day early in the morning and on our dining table, it is do convenient and cool</p>",
             "author": "<p><strong>@dwithpatty</strong></p>"
-          }
-        },
-        "slide_XtzQgQ": {
-          "type": "slide",
-          "settings": {
-            "media_style": "image",
-            "image": "shopify://shop_images/672676348_122195832188376971_7333221112042409427_n.jpg",
-            "video_url": "https://www.youtube.com/watch?v=_9VUPq3SxOc",
-            "controls": false,
-            "stars_count": 5,
-            "text": "<p>Text</p>",
-            "author": "<p>Author</p>"
           }
         },
         "slide_nx9VMV": {
@@ -278,13 +278,13 @@
       },
       "block_order": [
         "slide_chYhBN",
+        "slide_XtzQgQ",
         "slide_4HEGfE",
-        "slide_V7JFir",
         "slide_9DaFfd",
         "slide_d7jLGW",
+        "slide_V7JFir",
         "slide_8qDfGb",
         "slide_pxgxaw",
-        "slide_XtzQgQ",
         "slide_nx9VMV",
         "slide_j3bYRk",
         "slide_LK7Gng",
