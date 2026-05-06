@@ -135,6 +135,7 @@
           "type": "slide",
           "settings": {
             "media_style": "image",
+            "image": "shopify://shop_images/avis3.webp",
             "video_url": "https://www.youtube.com/watch?v=_9VUPq3SxOc",
             "controls": false,
             "stars_count": 5,
@@ -146,6 +147,7 @@
           "type": "slide",
           "settings": {
             "media_style": "image",
+            "image": "shopify://shop_images/676644227_26969735595995794_1136077134357183506_n.jpg",
             "video_url": "https://www.youtube.com/watch?v=_9VUPq3SxOc",
             "controls": false,
             "stars_count": 5,
@@ -157,6 +159,7 @@
           "type": "slide",
           "settings": {
             "media_style": "image",
+            "image": "shopify://shop_images/avis4bis.webp",
             "video_url": "https://www.youtube.com/watch?v=_9VUPq3SxOc",
             "controls": false,
             "stars_count": 5,
@@ -168,6 +171,7 @@
           "type": "slide",
           "settings": {
             "media_style": "image",
+            "image": "shopify://shop_images/avis6.webp",
             "video_url": "https://www.youtube.com/watch?v=_9VUPq3SxOc",
             "controls": false,
             "stars_count": 5,
@@ -179,6 +183,7 @@
           "type": "slide",
           "settings": {
             "media_style": "image",
+            "image": "shopify://shop_images/669439031_122195572694376971_7280654731463856238_n.jpg",
             "video_url": "https://www.youtube.com/watch?v=_9VUPq3SxOc",
             "controls": false,
             "stars_count": 5,
@@ -190,6 +195,7 @@
           "type": "slide",
           "settings": {
             "media_style": "image",
+            "image": "shopify://shop_images/686345676_122197665266376971_829430579145873991_n.jpg",
             "video_url": "https://www.youtube.com/watch?v=_9VUPq3SxOc",
             "controls": false,
             "stars_count": 5,
@@ -201,11 +207,72 @@
           "type": "slide",
           "settings": {
             "media_style": "image",
+            "image": "shopify://shop_images/474744452_1051497143660360_8942440711561176048_n.jpg",
             "video_url": "https://www.youtube.com/watch?v=_9VUPq3SxOc",
             "controls": false,
             "stars_count": 5,
             "text": "<p>I use it every day early in the morning and on our dining table, it is do convenient and cool</p>",
             "author": "<p><strong>@dwithpatty</strong></p>"
+          }
+        },
+        "slide_XtzQgQ": {
+          "type": "slide",
+          "settings": {
+            "media_style": "image",
+            "image": "shopify://shop_images/672676348_122195832188376971_7333221112042409427_n.jpg",
+            "video_url": "https://www.youtube.com/watch?v=_9VUPq3SxOc",
+            "controls": false,
+            "stars_count": 5,
+            "text": "<p>Text</p>",
+            "author": "<p>Author</p>"
+          }
+        },
+        "slide_nx9VMV": {
+          "type": "slide",
+          "settings": {
+            "media_style": "image",
+            "image": "shopify://shop_images/475530798_1057203776423030_6104450246142734143_n.jpg",
+            "video_url": "https://www.youtube.com/watch?v=_9VUPq3SxOc",
+            "controls": false,
+            "stars_count": 5,
+            "text": "<p>Text</p>",
+            "author": "<p>Author</p>"
+          }
+        },
+        "slide_j3bYRk": {
+          "type": "slide",
+          "settings": {
+            "media_style": "image",
+            "image": "shopify://shop_images/475276826_1057784746364933_6825958914333984886_n.jpg",
+            "video_url": "https://www.youtube.com/watch?v=_9VUPq3SxOc",
+            "controls": false,
+            "stars_count": 5,
+            "text": "<p>Text</p>",
+            "author": "<p>Author</p>"
+          }
+        },
+        "slide_LK7Gng": {
+          "type": "slide",
+          "settings": {
+            "media_style": "image",
+            "image": "shopify://shop_images/683728951_18102265654986819_6008244204555727981_n.jpg",
+            "video_url": "https://www.youtube.com/watch?v=_9VUPq3SxOc",
+            "controls": false,
+            "stars_count": 5,
+            "text": "<p>Text</p>",
+            "author": "<p>Author</p>"
+          }
+        },
+        "slide_YCim8m": {
+          "type": "slide",
+          "settings": {
+            "media_style": "image",
+            "image": "shopify://shop_images/474498392_1051478850328856_4230097158197157614_n.jpg",
+            "video_url": "https://www.youtube.com/watch?v=_9VUPq3SxOc",
+            "controls": false,
+            "stars_count": 5,
+            "text": "<p>Text</p>",
+            "author": "<p>Author</p>"
           }
         }
       },
@@ -216,7 +283,12 @@
         "slide_9DaFfd",
         "slide_d7jLGW",
         "slide_8qDfGb",
-        "slide_pxgxaw"
+        "slide_pxgxaw",
+        "slide_XtzQgQ",
+        "slide_nx9VMV",
+        "slide_j3bYRk",
+        "slide_LK7Gng",
+        "slide_YCim8m"
       ],
       "name": "SS - Testimonials #12",
       "settings": {
