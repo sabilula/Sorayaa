@@ -64,7 +64,7 @@
           "settings": {
             "text": "Risultato Prima/Dopo :",
             "heading_tag": "h1",
-            "text_color": "",
+            "text_color": "#ffffff",
             "gradient": ""
           }
         }
@@ -77,9 +77,9 @@
         "full_width": true,
         "content_width": "small",
         "text_position": "center",
-        "background": "",
+        "background": "#000000",
         "background_gradient": "",
-        "text_color": ""
+        "text_color": "#ffffff"
       }
     },
     "video_nfPkag": {
