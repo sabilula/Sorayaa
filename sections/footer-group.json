@@ -79,15 +79,15 @@
           "settings": {
             "image_width": 150,
             "heading_size": "h3",
-            "title": "Inscrivez-vous à notre newsletter",
+            "title": "Iscriviti alla nostra newsletter",
             "content": ""
           }
         },
         "text": {
           "type": "text",
           "settings": {
-            "title": "Contact",
-            "content": "<p><strong>Service client: </strong></p><p><a href=\"mailto:boostplus.team@gmail.com\"><strong>boostplus.team@gmail.com</strong></a></p>",
+            "title": "Conttato",
+            "content": "<p><strong>Servizio clienti:</strong></p><p><a href=\"mailto:boostplus.team@gmail.com\"><strong>info@nuvela-milano.com</strong></a></p>",
             "enable_follow_on_shop": false
           }
         },
@@ -95,7 +95,7 @@
           "type": "text",
           "settings": {
             "title": "Nous sommes disponibles :",
-            "content": "<p><strong>Lundi – Vendredi:</strong> 9:00 – 12:00 / 13:00 – 18:00<br/><br/><strong>Samedi – Dimanche:</strong> 10:00 – 12:00</p><p><strong>Réponse garantie sous 12 heures.</strong></p>",
+            "content": "<p>Il nostro servizio clienti è disponibile<strong> 7 giorni su 7</strong> per rispondere a tutte le tue domande.</p><p><strong>Dal lunedì al venerdì: 9h–17h<br/>Sabato: 9h–13h</strong></p><p>Puoi contattarci tramite la scheda «Contatto» del nostro negozio o via e-mail all'indirizzo <a href=\"mailto:contact@olyviia.com\">info@nuvela-milano.com</a></p>",
             "enable_follow_on_shop": false
           }
         }
