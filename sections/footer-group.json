@@ -23,7 +23,7 @@
             "icon_background_type": "circle",
             "icon_background": "#caa581",
             "icon_color": "#000000",
-            "title": "Livraison offerte",
+            "title": "Consegna gratuita",
             "content": ""
           }
         },
@@ -36,7 +36,7 @@
             "icon_background_type": "circle",
             "icon_background": "#caa581",
             "icon_color": "#000000",
-            "title": "Satisfait ou remboursé",
+            "title": "Soddisfatti o rimborsati",
             "content": ""
           }
         },
@@ -49,7 +49,20 @@
             "icon_background_type": "circle",
             "icon_background": "#caa581",
             "icon_color": "#000000",
-            "title": "Service client 7j/7",
+            "title": "Servizio clienti 7 giorno su 7",
+            "content": ""
+          }
+        },
+        "item_neWckg": {
+          "type": "item",
+          "settings": {
+            "icon": "picto-lock",
+            "mobile_icon_width": 24,
+            "icon_width": 24,
+            "icon_background_type": "circle",
+            "icon_background": "#caa581",
+            "icon_color": "#000000",
+            "title": "Pagamento sicuro",
             "content": ""
           }
         }
@@ -57,7 +70,8 @@
       "block_order": [
         "free-shipping",
         "customer-support",
-        "discount"
+        "discount",
+        "item_neWckg"
       ],
       "settings": {
         "full_width": true,
