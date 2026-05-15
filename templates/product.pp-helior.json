@@ -80,6 +80,12 @@
             "payment_button_text_color": ""
           }
         },
+        "liquid_XRWWtT": {
+          "type": "liquid",
+          "settings": {
+            "liquid": "<div class=\"vt-trust-bar\">\n  <div class=\"vt-trust-item\">\n    <div class=\"vt-trust-icon\">\n      <svg width=\"22\" height=\"22\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"#2D4A2D\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><path d=\"M5 12H3l9-9 9 9h-2\"/><path d=\"M5 12v7a2 2 0 002 2h10a2 2 0 002-2v-7\"/></svg>\n    </div>\n    <span>Livraison offerte</span>\n  </div>\n  <div class=\"vt-trust-item\">\n    <div class=\"vt-trust-icon\">\n      <svg width=\"22\" height=\"22\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"#2D4A2D\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><rect x=\"2\" y=\"5\" width=\"20\" height=\"14\" rx=\"2\"/><line x1=\"2\" y1=\"10\" x2=\"22\" y2=\"10\"/></svg>\n    </div>\n    <span>Paiement sécurisé</span>\n  </div>\n  <div class=\"vt-trust-item\">\n    <div class=\"vt-trust-icon\">\n      <svg width=\"22\" height=\"22\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"#2D4A2D\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><path d=\"M12 22s8-4 8-10V5l-8-3-8 3v7c0 6 8 10 8 10z\"/><polyline points=\"9 12 11 14 15 10\"/></svg>\n    </div>\n    <span>Satisfait ou remboursé 30j</span>\n  </div>\n</div>\n\n<style>\n.vt-trust-bar{display:flex;justify-content:center;gap:32px;margin:20px 0}\n.vt-trust-item{display:flex;flex-direction:column;align-items:center;gap:8px}\n.vt-trust-icon{width:56px;height:56px;border-radius:50%;background:#fff;border:1.5px solid #C4A97D;display:flex;align-items:center;justify-content:center;box-shadow:0 2px 8px rgba(0,0,0,.07)}\n.vt-trust-item span{font-size:12px;font-weight:600;color:#1E3A1E;text-align:center;max-width:80px;line-height:1.4}\n</style>"
+          }
+        },
         "liquid_kj6P8U": {
           "type": "liquid",
           "settings": {
@@ -102,6 +108,7 @@
         "kaching_bundles_app_block_AJrNJc",
         "liquid_7PXEk7",
         "buy_buttons",
+        "liquid_XRWWtT",
         "liquid_kj6P8U",
         "liquid_6ebqxT"
       ],
