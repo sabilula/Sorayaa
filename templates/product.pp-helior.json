@@ -22,6 +22,19 @@
         "text_color": ""
       }
     },
+    "custom_liquid_wFGWeX": {
+      "type": "custom-liquid",
+      "name": "Custom Liquid",
+      "settings": {
+        "full_width": true,
+        "remove_vertical_spacing": false,
+        "remove_horizontal_spacing": false,
+        "liquid": "<div class=\"vt-update\">\n  <strong>MISE À JOUR :</strong> déjà en rupture de stock 7 fois cette année. Dernier réassort disponible — commandez avant qu'il soit trop tard.\n</div>\n\n<style>\n.vt-update{background:#FDF6EC;border:1.5px dashed #C4A97D;border-radius:10px;padding:14px 18px;margin:16px 0;font-size:14px;color:#1E3A1E;line-height:1.6}\n.vt-update strong{color:#2D4A2D}\n</style>",
+        "background": "",
+        "background_gradient": "",
+        "text_color": ""
+      }
+    },
     "image_with_text_overlay_UEJtA3": {
       "type": "image-with-text-overlay",
       "disabled": true,
@@ -31,7 +44,6 @@
         "allow_transparent_header": false,
         "enable_parallax": false,
         "image_size": "auto",
-        "image": "shopify://shop_images/hf_20260408_211114_5c1c1580-647b-4a3e-ab68-bbe6e76f86ac.png",
         "mobile_text_position": "place-self-center text-center",
         "desktop_text_position": "sm:place-self-center sm:text-center",
         "text_color": "#ffffff",
@@ -123,7 +135,6 @@
         "image_MX7Ty3": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/Screenshot_2026-03-26_at_19.38.44.png",
             "alignment": "center",
             "max_width": 500
           }
@@ -131,7 +142,6 @@
         "image_aXLPFg": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/Screenshot_2026-03-31_at_20.21.09.png",
             "alignment": "start",
             "max_width": 250
           }
@@ -200,7 +210,6 @@
         "image_r6RcdH": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/Screenshot_2026-03-26_at_21.18.49.png",
             "width_mode": "full_width",
             "max_width": 1000,
             "mobile_max_width": 600
@@ -227,7 +236,6 @@
         "item_6bAzkp": {
           "type": "item",
           "settings": {
-            "image": "shopify://shop_images/IMG_1600.webp",
             "column_size": "3",
             "title": "Des érections dures en 43 secondes, sentez-vous invincible au lit !",
             "heading_tag": "h3",
@@ -261,7 +269,6 @@
         "item_WcARxH": {
           "type": "item",
           "settings": {
-            "image": "shopify://shop_images/IMG_1597.webp",
             "column_size": "3",
             "title": "Tenez 5 fois plus longtemps et laissez-la en redemander à chaque fois.",
             "heading_tag": "h3",
@@ -295,7 +302,6 @@
         "item_izntUc": {
           "type": "item",
           "settings": {
-            "image": "shopify://shop_images/IMG_1602.webp",
             "column_size": "3",
             "title": "« Depuis que j'ai commencé à utiliser ce produit, je la garde éveillée toute la nuit. »",
             "heading_tag": "h3",
@@ -329,7 +335,6 @@
         "item_GJRGqN": {
           "type": "item",
           "settings": {
-            "image": "shopify://shop_images/CE7A15C5-4126-470F-9E2F-59446E235D5B.png",
             "column_size": "3",
             "title": "Testé cliniquement et recommandé par plus de 143 médecins et sexologues.",
             "heading_tag": "h3",
@@ -376,7 +381,6 @@
         "item_dRVgpN": {
           "type": "item",
           "settings": {
-            "image": "shopify://shop_images/IMG_1604_2.webp",
             "column_size": "3",
             "title": "Comment utiliser VigorMax™ pour obtenir les meilleurs résultats :",
             "heading_tag": "h3",
@@ -473,7 +477,6 @@
           "type": "slide",
           "settings": {
             "media_style": "image",
-            "image": "shopify://shop_images/images_12.jpg",
             "video_url": "https://www.youtube.com/watch?v=_9VUPq3SxOc",
             "controls": false,
             "stars_count": 5,
@@ -485,7 +488,6 @@
           "type": "slide",
           "settings": {
             "media_style": "image",
-            "image": "shopify://shop_images/Screenshot_2026-03-26_at_21.41.39.png",
             "video_url": "https://www.youtube.com/watch?v=_9VUPq3SxOc",
             "controls": false,
             "stars_count": 5,
@@ -497,7 +499,6 @@
           "type": "slide",
           "settings": {
             "media_style": "image",
-            "image": "shopify://shop_images/photo_d2cc02ccf6a5a61571d269c4ec7f3a4d.jpg",
             "video_url": "https://www.youtube.com/watch?v=_9VUPq3SxOc",
             "controls": false,
             "stars_count": 5,
@@ -509,7 +510,6 @@
           "type": "slide",
           "settings": {
             "media_style": "image",
-            "image": "shopify://shop_images/bf41565ae48cdac82c99693b8f.jpg",
             "video_url": "https://www.youtube.com/watch?v=_9VUPq3SxOc",
             "controls": false,
             "stars_count": 5,
@@ -521,7 +521,6 @@
           "type": "slide",
           "settings": {
             "media_style": "image",
-            "image": "shopify://shop_images/images_10.jpg",
             "video_url": "https://www.youtube.com/watch?v=_9VUPq3SxOc",
             "controls": false,
             "stars_count": 4.5,
@@ -533,7 +532,6 @@
           "type": "slide",
           "settings": {
             "media_style": "image",
-            "image": "shopify://shop_images/Richard-gere-credit-instagram.jpg",
             "video_url": "https://www.youtube.com/watch?v=_9VUPq3SxOc",
             "controls": false,
             "stars_count": 5,
@@ -545,7 +543,6 @@
           "type": "slide",
           "settings": {
             "media_style": "image",
-            "image": "shopify://shop_images/Screenshot_2026-03-29_at_01.05.49.png",
             "video_url": "https://www.youtube.com/watch?v=_9VUPq3SxOc",
             "controls": false,
             "stars_count": 5,
@@ -557,7 +554,6 @@
           "type": "slide",
           "settings": {
             "media_style": "image",
-            "image": "shopify://shop_images/pic_1.jpg",
             "video_url": "https://www.youtube.com/watch?v=_9VUPq3SxOc",
             "controls": false,
             "stars_count": 4,
@@ -685,6 +681,7 @@
   },
   "order": [
     "custom_liquid_MKktBy",
+    "custom_liquid_wFGWeX",
     "image_with_text_overlay_UEJtA3",
     "main",
     "rich_text_9UqKEx",
