@@ -48,7 +48,7 @@
         "text_size": "text-base",
         "navigation_mode": "scrolling",
         "scrolling_speed": 13,
-        "background": "#000000",
+        "background": "#1e3a1e",
         "background_gradient": "",
         "text_color": "#ffffff"
       }
@@ -58,7 +58,7 @@
       "settings": {
         "enable_sticky": true,
         "hide_on_scroll": false,
-        "logo": "shopify://shop_images/ChatGPT_Image_7_mai_2026_16_39_04.png",
+        "logo": "shopify://shop_images/Glycemie_plus_stable_naturellement_des_les_premieres_semaines_Fini_le_coup_de_barre_de_14h_et_les_fringales_sucrees_Sans_coumarine_douce_pour_le_foie_meme_en_cure_longue_12x_plus_con_e76ddd8e-7344-4286-b9df-e58cab10dc65.png",
         "logo_max_width": 155,
         "logo_mobile_max_width": 170,
         "menu": "main-menu",
