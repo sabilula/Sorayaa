@@ -17,21 +17,21 @@
         "message": {
           "type": "message",
           "settings": {
-            "text": "🌸 Ultimi giorni! Offerta Festa della Mamma",
+            "text": "🌸 PROMO DE PRINTEMPS",
             "url": ""
           }
         },
         "message_BzKRyc": {
           "type": "message",
           "settings": {
-            "text": "✔ GARANZIA 30 GIORNI",
+            "text": "✔ GARANTIE 30 JOURS",
             "url": ""
           }
         },
         "message_BFX3WM": {
           "type": "message",
           "settings": {
-            "text": "✔ Spedizione gratuita",
+            "text": "✔ LIVRAISON GRATUITE",
             "url": ""
           }
         }
