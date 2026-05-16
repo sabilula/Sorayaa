@@ -17,8 +17,6 @@
         "allow_transparent_header": false,
         "enable_parallax": false,
         "image_size": "auto",
-        "image": "shopify://shop_images/banniere_ordi.png",
-        "mobile_image": "shopify://shop_images/banniere_tel_spray.png",
         "mobile_text_position": "place-self-center text-center",
         "desktop_text_position": "sm:place-self-center sm:text-center",
         "text_color": "#ffffff",
@@ -34,8 +32,6 @@
         "allow_transparent_header": false,
         "enable_parallax": false,
         "image_size": "auto",
-        "image": "shopify://shop_images/Img_benef_spray.png",
-        "mobile_image": "shopify://shop_images/Img_benef_spray.png",
         "mobile_text_position": "place-self-center text-center",
         "desktop_text_position": "sm:place-self-center sm:text-center",
         "text_color": "#ffffff",
@@ -50,7 +46,6 @@
           "type": "slide",
           "settings": {
             "media_style": "image",
-            "image": "shopify://shop_images/images_12.jpg",
             "video_url": "https://www.youtube.com/watch?v=_9VUPq3SxOc",
             "controls": false,
             "stars_count": 5,
@@ -62,7 +57,6 @@
           "type": "slide",
           "settings": {
             "media_style": "image",
-            "image": "shopify://shop_images/Screenshot_2026-03-26_at_21.41.39.png",
             "video_url": "https://www.youtube.com/watch?v=_9VUPq3SxOc",
             "controls": false,
             "stars_count": 5,
@@ -74,7 +68,6 @@
           "type": "slide",
           "settings": {
             "media_style": "image",
-            "image": "shopify://shop_images/photo_d2cc02ccf6a5a61571d269c4ec7f3a4d.jpg",
             "video_url": "https://www.youtube.com/watch?v=_9VUPq3SxOc",
             "controls": false,
             "stars_count": 5,
@@ -86,7 +79,6 @@
           "type": "slide",
           "settings": {
             "media_style": "image",
-            "image": "shopify://shop_images/bf41565ae48cdac82c99693b8f.jpg",
             "video_url": "https://www.youtube.com/watch?v=_9VUPq3SxOc",
             "controls": false,
             "stars_count": 5,
@@ -98,7 +90,6 @@
           "type": "slide",
           "settings": {
             "media_style": "image",
-            "image": "shopify://shop_images/images_10.jpg",
             "video_url": "https://www.youtube.com/watch?v=_9VUPq3SxOc",
             "controls": false,
             "stars_count": 4.5,
@@ -110,7 +101,6 @@
           "type": "slide",
           "settings": {
             "media_style": "image",
-            "image": "shopify://shop_images/Richard-gere-credit-instagram.jpg",
             "video_url": "https://www.youtube.com/watch?v=_9VUPq3SxOc",
             "controls": false,
             "stars_count": 5,
@@ -122,7 +112,6 @@
           "type": "slide",
           "settings": {
             "media_style": "image",
-            "image": "shopify://shop_images/Screenshot_2026-03-29_at_01.05.49.png",
             "video_url": "https://www.youtube.com/watch?v=_9VUPq3SxOc",
             "controls": false,
             "stars_count": 5,
@@ -134,7 +123,6 @@
           "type": "slide",
           "settings": {
             "media_style": "image",
-            "image": "shopify://shop_images/pic_1.jpg",
             "video_url": "https://www.youtube.com/watch?v=_9VUPq3SxOc",
             "controls": false,
             "stars_count": 4,
@@ -350,7 +338,6 @@
         "image_MX7Ty3": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/Screenshot_2026-03-26_at_19.38.44.png",
             "alignment": "center",
             "max_width": 500
           }
@@ -358,7 +345,6 @@
         "image_aXLPFg": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/Screenshot_2026-03-31_at_20.21.09.png",
             "alignment": "start",
             "max_width": 250
           }
@@ -387,6 +373,7 @@
         "image_aXLPFg",
         "liquid_A94nir"
       ],
+      "custom_css": [],
       "settings": {
         "full_width": true,
         "show_fixed_add_to_cart": true,
@@ -411,7 +398,6 @@
         "item_6bAzkp": {
           "type": "item",
           "settings": {
-            "image": "shopify://shop_images/IMG_1600.webp",
             "column_size": "3",
             "title": "Des érections dures en 43 secondes, sentez-vous invincible au lit !",
             "heading_tag": "h3",
@@ -445,7 +431,6 @@
         "item_WcARxH": {
           "type": "item",
           "settings": {
-            "image": "shopify://shop_images/IMG_1597.webp",
             "column_size": "3",
             "title": "Tenez 5 fois plus longtemps et laissez-la en redemander à chaque fois.",
             "heading_tag": "h3",
@@ -488,7 +473,6 @@
         "image_r6RcdH": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/Screenshot_2026-03-26_at_21.18.49.png",
             "width_mode": "full_width",
             "max_width": 1000,
             "mobile_max_width": 600
@@ -515,7 +499,6 @@
         "item_izntUc": {
           "type": "item",
           "settings": {
-            "image": "shopify://shop_images/IMG_1602.webp",
             "column_size": "3",
             "title": "« Depuis que j'ai commencé à utiliser ce produit, je la garde éveillée toute la nuit. »",
             "heading_tag": "h3",
@@ -549,7 +532,6 @@
         "item_GJRGqN": {
           "type": "item",
           "settings": {
-            "image": "shopify://shop_images/CE7A15C5-4126-470F-9E2F-59446E235D5B.png",
             "column_size": "3",
             "title": "Testé cliniquement et recommandé par plus de 143 médecins et sexologues.",
             "heading_tag": "h3",
@@ -583,7 +565,6 @@
         "item_dRVgpN": {
           "type": "item",
           "settings": {
-            "image": "shopify://shop_images/IMG_1604_2.webp",
             "column_size": "3",
             "title": "Comment utiliser VigorMax™ pour obtenir les meilleurs résultats :",
             "heading_tag": "h3",
