@@ -63,12 +63,6 @@
             "manual_deal_block_id": ""
           }
         },
-        "liquid_7PXEk7": {
-          "type": "liquid",
-          "settings": {
-            "liquid": "<div style=\"display:flex; align-items:center; gap:10px; margin-top:10px;\">\n  \n  <!-- Icône camion -->\n  <svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\">\n    <rect x=\"1\" y=\"3\" width=\"15\" height=\"13\"></rect>\n    <polygon points=\"16 8 20 8 23 11 23 16 16 16 16 8\"></polygon>\n    <circle cx=\"5.5\" cy=\"18.5\" r=\"2.5\"></circle>\n    <circle cx=\"18.5\" cy=\"18.5\" r=\"2.5\"></circle>\n  </svg>\n\n  <!-- Texte -->\n  <p style=\"margin:0; font-size:12px;\">\n    EXPÉDITION RAPIDE EN <strong>24 HEURES</strong>\n  </p>\n\n</div>"
-          }
-        },
         "liquid_qCjND6": {
           "type": "liquid",
           "settings": {
@@ -102,6 +96,12 @@
             "max_width": 280
           }
         },
+        "liquid_7PXEk7": {
+          "type": "liquid",
+          "settings": {
+            "liquid": "<div style=\"display:flex; align-items:center; gap:10px; margin-top:10px;\">\n  \n  <!-- Icône camion -->\n  <svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\">\n    <rect x=\"1\" y=\"3\" width=\"15\" height=\"13\"></rect>\n    <polygon points=\"16 8 20 8 23 11 23 16 16 16 16 8\"></polygon>\n    <circle cx=\"5.5\" cy=\"18.5\" r=\"2.5\"></circle>\n    <circle cx=\"18.5\" cy=\"18.5\" r=\"2.5\"></circle>\n  </svg>\n\n  <!-- Texte -->\n  <p style=\"margin:0; font-size:12px;\">\n    EXPÉDITION RAPIDE EN <strong>24 HEURES</strong>\n  </p>\n\n</div>"
+          }
+        },
         "liquid_kj6P8U": {
           "type": "liquid",
           "disabled": true,
@@ -124,11 +124,11 @@
         "description",
         "liquid_iniiNG",
         "kaching_bundles_app_block_AJrNJc",
-        "liquid_7PXEk7",
         "liquid_qCjND6",
         "buy_buttons",
         "image_UDErP7",
         "image_RKwCPc",
+        "liquid_7PXEk7",
         "liquid_kj6P8U",
         "liquid_6ebqxT"
       ],
