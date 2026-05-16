@@ -80,18 +80,18 @@
             "payment_button_text_color": ""
           }
         },
-        "liquid_7PXEk7": {
-          "type": "liquid",
-          "settings": {
-            "liquid": "<div style=\"display:flex; align-items:center; justify-content:center; gap:10px; margin-top:10px;\">\n  \n  <svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\">\n    <rect x=\"1\" y=\"3\" width=\"15\" height=\"13\"></rect>\n    <polygon points=\"16 8 20 8 23 11 23 16 16 16 16 8\"></polygon>\n    <circle cx=\"5.5\" cy=\"18.5\" r=\"2.5\"></circle>\n    <circle cx=\"18.5\" cy=\"18.5\" r=\"2.5\"></circle>\n  </svg>\n\n  <p style=\"margin:0; font-size:12px;\">\n    EXPÉDITION RAPIDE EN <strong>24 HEURES</strong>\n  </p>\n</div>"
-          }
-        },
         "image_UDErP7": {
           "type": "image",
           "settings": {
             "image": "shopify://shop_images/Capture_d_ecran_2026-03-04_a_23.26.34.png",
             "alignment": "center",
             "max_width": 260
+          }
+        },
+        "liquid_7PXEk7": {
+          "type": "liquid",
+          "settings": {
+            "liquid": "<div style=\"display:flex; align-items:center; justify-content:center; gap:10px; margin-top:10px;\">\n  \n  <svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\">\n    <rect x=\"1\" y=\"3\" width=\"15\" height=\"13\"></rect>\n    <polygon points=\"16 8 20 8 23 11 23 16 16 16 16 8\"></polygon>\n    <circle cx=\"5.5\" cy=\"18.5\" r=\"2.5\"></circle>\n    <circle cx=\"18.5\" cy=\"18.5\" r=\"2.5\"></circle>\n  </svg>\n\n  <p style=\"margin:0; font-size:12px;\">\n    EXPÉDITION RAPIDE EN <strong>24 HEURES</strong>\n  </p>\n</div>"
           }
         },
         "image_RKwCPc": {
@@ -126,8 +126,8 @@
         "kaching_bundles_app_block_AJrNJc",
         "liquid_qCjND6",
         "buy_buttons",
-        "liquid_7PXEk7",
         "image_UDErP7",
+        "liquid_7PXEk7",
         "image_RKwCPc",
         "liquid_kj6P8U",
         "liquid_6ebqxT"
