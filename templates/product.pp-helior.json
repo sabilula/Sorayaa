@@ -188,6 +188,18 @@
     "multi_column_iGXEwa": {
       "type": "multi-column",
       "blocks": {
+        "item_aNxPWq": {
+          "type": "item",
+          "settings": {
+            "column_size": "3",
+            "title": "Column title",
+            "heading_tag": "h4",
+            "content": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        },
         "item_6bAzkp": {
           "type": "item",
           "settings": {
@@ -202,14 +214,15 @@
         }
       },
       "block_order": [
+        "item_aNxPWq",
         "item_6bAzkp"
       ],
       "name": "Multi-column",
       "settings": {
         "full_width": true,
-        "stack_on_mobile": true,
+        "stack_on_mobile": false,
         "gap": "medium",
-        "text_alignment": "start",
+        "text_alignment": "center",
         "subheading": "",
         "title": "",
         "content": "",
