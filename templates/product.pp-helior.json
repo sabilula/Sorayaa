@@ -137,7 +137,7 @@
         "full_width": true,
         "remove_vertical_spacing": false,
         "remove_horizontal_spacing": false,
-        "liquid": "<div class=\"vt-update\">\n  <strong>MISE À JOUR :</strong> déjà en rupture de stock 7 fois cette année. Dernier réassort disponible — commandez avant qu'il soit trop tard.\n</div>\n\n<style>\n.vt-update{background:#FDF6EC;border:1.5px dashed #C4A97D;border-radius:10px;padding:14px 18px;margin:16px 0;font-size:14px;color:#1E3A1E;line-height:1.6}\n.vt-update strong{color:#2D4A2D}\n</style>",
+        "liquid": "<div class=\"vt-update\">\n  <strong>MISE À JOUR :</strong> déjà en rupture de stock 7 fois cette année. Dernier réassort disponible — commandez avant qu'il soit trop tard.\n</div>\n\n<style>\n.vt-update{background:#FDF6EC;border:1px dashed #C4A97D;border-radius:6px;padding:8px 12px;margin:10px 0;font-size:12px;color:#1E3A1E;line-height:1.5}\n.vt-update strong{color:#4A7A6A}\n</style>",
         "background": "",
         "background_gradient": "",
         "text_color": ""
