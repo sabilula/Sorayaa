@@ -38,6 +38,14 @@
             "heading_tag": "h4"
           }
         },
+        "image_GWmQN8": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/ChatGPT_Image_16_mai_2026_15_47_30.png",
+            "alignment": "start",
+            "max_width": 470
+          }
+        },
         "separator_KnnhHt": {
           "type": "separator",
           "settings": {}
@@ -120,6 +128,7 @@
       "block_order": [
         "liquid_PUUP7c",
         "title",
+        "image_GWmQN8",
         "separator_KnnhHt",
         "description",
         "liquid_iniiNG",
