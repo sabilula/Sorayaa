@@ -39,67 +39,8 @@
         "text_color": ""
       }
     },
-    "image_with_text_overlay_pQCLDb": {
-      "type": "image-with-text-overlay",
-      "name": "Image with text overlay",
-      "settings": {
-        "full_width": true,
-        "allow_transparent_header": false,
-        "enable_parallax": false,
-        "image_size": "auto",
-        "image": "shopify://shop_images/D6280315-EB28-474C-9515-B20ECAEA3853.png",
-        "mobile_image": "shopify://shop_images/ChatGPT_Image_6_mai_2026_10_00_55.png",
-        "mobile_text_position": "place-self-center text-center",
-        "desktop_text_position": "sm:place-self-center sm:text-center",
-        "text_color": "#ffffff",
-        "overlay_color": "#000000",
-        "overlay_opacity": 0
-      }
-    },
-    "rich_text_i798Df": {
-      "type": "rich-text",
-      "blocks": {
-        "heading_nzcChK": {
-          "type": "heading",
-          "settings": {
-            "text": "Risultato Prima/Dopo :",
-            "heading_tag": "h1",
-            "text_color": "#ffffff",
-            "gradient": ""
-          }
-        }
-      },
-      "block_order": [
-        "heading_nzcChK"
-      ],
-      "name": "Rich text",
-      "settings": {
-        "full_width": true,
-        "content_width": "small",
-        "text_position": "center",
-        "background": "#000000",
-        "background_gradient": "",
-        "text_color": "#ffffff"
-      }
-    },
-    "video_nfPkag": {
-      "type": "video",
-      "name": "Video",
-      "settings": {
-        "full_width": false,
-        "allow_transparent_header": true,
-        "autoplay": true,
-        "video_size": "auto",
-        "video": "shopify://files/videos/copy_0E2828A8-5B7C-4585-A931-81EB42F15F4B-2.MOV",
-        "external_video_url": "https://www.youtube.com/watch?v=_9VUPq3SxOc",
-        "text_color": "#ffffff",
-        "overlay_color": "#000000",
-        "overlay_opacity": 0
-      }
-    },
     "custom_html_FmWgfd": {
       "type": "custom-html",
-      "disabled": true,
       "name": "Custom HTML",
       "settings": {
         "full_width": true,
@@ -109,23 +50,6 @@
         "background": "",
         "background_gradient": "",
         "text_color": ""
-      }
-    },
-    "image_with_text_overlay_WdxWFY": {
-      "type": "image-with-text-overlay",
-      "name": "Image with text overlay",
-      "settings": {
-        "full_width": true,
-        "allow_transparent_header": false,
-        "enable_parallax": false,
-        "image_size": "auto",
-        "image": "shopify://shop_images/Capture_d_ecran_2025-10-19_a_19.03.55.png",
-        "mobile_image": "shopify://shop_images/Capture_d_ecran_2025-10-19_a_19.03.55.png",
-        "mobile_text_position": "place-self-center text-center",
-        "desktop_text_position": "sm:place-self-center sm:text-center",
-        "text_color": "#ffffff",
-        "overlay_color": "#000000",
-        "overlay_opacity": 0
       }
     },
     "testimonials_cErhjk": {
@@ -717,11 +641,7 @@
   "order": [
     "image_with_text_overlay_eRfeNj",
     "custom_liquid_QF7LBe",
-    "image_with_text_overlay_pQCLDb",
-    "rich_text_i798Df",
-    "video_nfPkag",
     "custom_html_FmWgfd",
-    "image_with_text_overlay_WdxWFY",
     "testimonials_cErhjk",
     "featured-product",
     "rich_text_ektBbN",
