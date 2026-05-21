@@ -159,6 +159,19 @@
         "input_text_color": ""
       }
     },
+    "custom_liquid_Frh9bB": {
+      "type": "custom-liquid",
+      "name": "Custom Liquid",
+      "settings": {
+        "full_width": true,
+        "remove_vertical_spacing": false,
+        "remove_horizontal_spacing": true,
+        "liquid": "<div class=\"vt-ticker-wrap\">\n  <div class=\"vt-ticker\">\n    <div class=\"vt-ticker-inner\">\n      <span class=\"vt-ticker-item\">\n        <svg width=\"14\" height=\"14\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><path d=\"M12 22s8-4 8-10V5l-8-3-8 3v7c0 6 8 10 8 10z\"/></svg>\n        Sans OGM\n      </span>\n      <span class=\"vt-ticker-item\">\n        <svg width=\"14\" height=\"14\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><path d=\"M20.84 4.61a5.5 5.5 0 00-7.78 0L12 5.67l-1.06-1.06a5.5 5.5 0 00-7.78 7.78l1.06 1.06L12 21.23l7.78-7.78 1.06-1.06a5.5 5.5 0 000-7.78z\"/></svg>\n        Sans Gluten\n      </span>\n      <span class=\"vt-ticker-item\">\n        <svg width=\"14\" height=\"14\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><polyline points=\"9 11 12 14 22 4\"/><path d=\"M21 12v7a2 2 0 01-2 2H5a2 2 0 01-2-2V5a2 2 0 012-2h11\"/></svg>\n        Zéro Additif\n      </span>\n      <span class=\"vt-ticker-item\">\n        <svg width=\"14\" height=\"14\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><circle cx=\"12\" cy=\"12\" r=\"10\"/><polyline points=\"12 6 12 12 16 14\"/></svg>\n        Livraison Rapide\n      </span>\n      <span class=\"vt-ticker-item\">\n        <svg width=\"14\" height=\"14\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><path d=\"M12 22s8-4 8-10V5l-8-3-8 3v7c0 6 8 10 8 10z\"/><polyline points=\"9 12 11 14 15 10\"/></svg>\n        Sans Coumarine\n      </span>\n      <span class=\"vt-ticker-item\">\n        <svg width=\"14\" height=\"14\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><rect x=\"2\" y=\"5\" width=\"20\" height=\"14\" rx=\"2\"/><line x1=\"2\" y1=\"10\" x2=\"22\" y2=\"10\"/></svg>\n        Paiement Sécurisé\n      </span>\n      <span class=\"vt-ticker-item\">\n        <svg width=\"14\" height=\"14\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><path d=\"M3 9l9-7 9 7v11a2 2 0 01-2 2H5a2 2 0 01-2-2z\"/></svg>\n        Testé en Laboratoire\n      </span>\n      <span class=\"vt-ticker-item\">\n        <svg width=\"14\" height=\"14\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><polyline points=\"20 6 9 17 4 12\"/></svg>\n        Garanti 30 Jours\n      </span>\n\n      <span class=\"vt-ticker-item\">\n        <svg width=\"14\" height=\"14\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><path d=\"M12 22s8-4 8-10V5l-8-3-8 3v7c0 6 8 10 8 10z\"/></svg>\n        Sans OGM\n      </span>\n      <span class=\"vt-ticker-item\">\n        <svg width=\"14\" height=\"14\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><path d=\"M20.84 4.61a5.5 5.5 0 00-7.78 0L12 5.67l-1.06-1.06a5.5 5.5 0 00-7.78 7.78l1.06 1.06L12 21.23l7.78-7.78 1.06-1.06a5.5 5.5 0 000-7.78z\"/></svg>\n        Sans Gluten\n      </span>\n      <span class=\"vt-ticker-item\">\n        <svg width=\"14\" height=\"14\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><polyline points=\"9 11 12 14 22 4\"/><path d=\"M21 12v7a2 2 0 01-2 2H5a2 2 0 01-2-2V5a2 2 0 012-2h11\"/></svg>\n        Zéro Additif\n      </span>\n      <span class=\"vt-ticker-item\">\n        <svg width=\"14\" height=\"14\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><circle cx=\"12\" cy=\"12\" r=\"10\"/><polyline points=\"12 6 12 12 16 14\"/></svg>\n        Livraison Rapide\n      </span>\n      <span class=\"vt-ticker-item\">\n        <svg width=\"14\" height=\"14\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><path d=\"M12 22s8-4 8-10V5l-8-3-8 3v7c0 6 8 10 8 10z\"/><polyline points=\"9 12 11 14 15 10\"/></svg>\n        Sans Coumarine\n      </span>\n      <span class=\"vt-ticker-item\">\n        <svg width=\"14\" height=\"14\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><rect x=\"2\" y=\"5\" width=\"20\" height=\"14\" rx=\"2\"/><line x1=\"2\" y1=\"10\" x2=\"22\" y2=\"10\"/></svg>\n        Paiement Sécurisé\n      </span>\n      <span class=\"vt-ticker-item\">\n        <svg width=\"14\" height=\"14\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><path d=\"M3 9l9-7 9 7v11a2 2 0 01-2 2H5a2 2 0 01-2-2z\"/></svg>\n        Testé en Laboratoire\n      </span>\n      <span class=\"vt-ticker-item\">\n        <svg width=\"14\" height=\"14\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><polyline points=\"20 6 9 17 4 12\"/></svg>\n        Garanti 30 Jours\n      </span>\n    </div>\n  </div>\n</div>\n\n<style>\n.vt-ticker-wrap{background:#4A7A6A;overflow:hidden;width:100%;padding:8px 0}\n.vt-ticker{width:100%;overflow:hidden}\n.vt-ticker-inner{display:flex;align-items:center;width:max-content;animation:vt-scroll 30s linear infinite}\n.vt-ticker-item{display:inline-flex;align-items:center;gap:6px;color:#ffffff;font-size:12px;font-weight:500;letter-spacing:.04em;white-space:nowrap;padding:0 28px}\n.vt-ticker-item svg{flex-shrink:0;opacity:.9}\n@keyframes vt-scroll{0%{transform:translateX(0)}100%{transform:translateX(-50%)}}\n</style>",
+        "background": "",
+        "background_gradient": "",
+        "text_color": ""
+      }
+    },
     "testimonials_FXCdNy": {
       "type": "testimonials",
       "blocks": {
@@ -408,6 +421,33 @@
         "item_aNxPWq": {
           "type": "item",
           "settings": {
+            "image": "shopify://shop_images/metabolae-ceylon-cinnamon-extract_webp.jpg",
+            "column_size": "3",
+            "title": "Ceylon Cinnamon Extract",
+            "heading_tag": "h3",
+            "content": "<p>Pas n'importe quelle cannelle. La seule qui compte vraiment.</p><p>Récoltée au Sri Lanka, concentrée 12 fois pour tenir dans une seule softgel. Chaque dose équivaut à 7 200mg d'écorce pure, sans coumarine, sans risque pour le foie, sans compromis.</p><p>C'est la différence entre prendre quelque chose qui traverse votre corps sans rien faire — et prendre quelque chose qui agit vraiment.</p><p><em>(Cinnamomum verum, extrait 12:1, Sri Lanka)</em></p>",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        },
+        "item_6bAzkp": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/metabolae-12-1-concentrated-potency_webp.jpg",
+            "column_size": "3",
+            "title": "Une seule softgel. La dose qui fait vraiment la différence.",
+            "heading_tag": "h3",
+            "content": "<p>Les études sur la cannelle de Ceylan sont claires, pour un effet réel, il faut une dose suffisante, prise régulièrement. Ni trop peu pour que ça ne serve à rien, ni une poignée de gélules pour atteindre le seuil efficace.</p><p>Vitaora™ concentre 12 fois l'extrait pour délivrer cette dose en une seule softgel par jour. Pas de poudre à mélanger. Pas de protocole compliqué. Juste un geste, chaque matin.</p><p><em>(Extrait concentré 12:1 — équivalent 7 200mg par dose)</em></p>",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        },
+        "item_mzyWUk": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/metabolae-mct-oil-absorption_webp.jpg",
             "column_size": "3",
             "title": "Column title",
             "heading_tag": "h4",
@@ -417,13 +457,14 @@
             "link_style": "link"
           }
         },
-        "item_6bAzkp": {
+        "item_iQnDDh": {
           "type": "item",
           "settings": {
+            "image": "shopify://shop_images/metabolae-clean-lab-tested_webp.jpg",
             "column_size": "3",
-            "title": "Des érections dures en 43 secondes, sentez-vous invincible au lit !",
-            "heading_tag": "h3",
-            "content": "<p>Plus d'anxiété, <strong>plus d'excuses</strong>.<br/><br/>Ce <strong>spray</strong> révolutionnaire <strong>agit plus rapidement</strong> que tout autre produit sur le marché et vous <strong>procure</strong> des érections dures et <strong>palpitantes</strong> en seulement <strong>43 secondes</strong>, à chaque fois.</p><p>Oubliez les pilules coûteuses, les pompes encombrantes ou les pauses embarrassantes dans la chambre à coucher. Avec <strong>Bohardi™</strong>, vous êtes toujours prêt à <strong>performer</strong> comme un <strong>animal</strong>, plein de puissance, plein de confiance, exactement <strong>quand il le faut</strong>.</p><p>Il suffit de <strong>vaporiser une ou deux fois sous la langue</strong> juste avant de passer à l'action. Vous serez littéralement <strong>prêt à passer à l'action en quelques secondes</strong>.</p>",
+            "title": "Column title",
+            "heading_tag": "h4",
+            "content": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
             "link_url": "",
             "link_text": "",
             "link_style": "link"
@@ -432,7 +473,9 @@
       },
       "block_order": [
         "item_aNxPWq",
-        "item_6bAzkp"
+        "item_6bAzkp",
+        "item_mzyWUk",
+        "item_iQnDDh"
       ],
       "name": "Multi-column",
       "settings": {
@@ -659,6 +702,7 @@
   "order": [
     "custom_liquid_MKktBy",
     "main",
+    "custom_liquid_Frh9bB",
     "testimonials_FXCdNy",
     "rich_text_9UqKEx",
     "multi_column_iGXEwa",
