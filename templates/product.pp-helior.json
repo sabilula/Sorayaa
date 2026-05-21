@@ -481,7 +481,7 @@
       "settings": {
         "full_width": true,
         "stack_on_mobile": false,
-        "gap": "medium",
+        "gap": "small",
         "text_alignment": "start",
         "subheading": "",
         "title": "",
