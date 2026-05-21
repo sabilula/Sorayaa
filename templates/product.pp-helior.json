@@ -279,6 +279,17 @@
             "text": "<p><em>« 20 kg en trop et des fringales incontrôlables. Mon médecin m'a dit que ma glycémie instable était à l'origine de tout.J'ai commencé Vitaora. Trois semaines plus tard je n'ouvrais plus le placard entre les repas. Deux mois plus tard, 5kg de moins. Sans me priver. Sans régime.Pour la première fois mon corps travaille avec moi. »</em></p>",
             "author": "<p><strong>Isabelle, 51 ans</strong></p>"
           }
+        },
+        "slide_NVCJKY": {
+          "type": "slide",
+          "settings": {
+            "media_style": "image",
+            "video_url": "https://www.youtube.com/watch?v=_9VUPq3SxOc",
+            "controls": false,
+            "stars_count": 5,
+            "text": "<p>Text</p>",
+            "author": "<p>Author</p>"
+          }
         }
       },
       "block_order": [
@@ -289,7 +300,8 @@
         "slide_EbEDmR",
         "slide_YHVhX6",
         "slide_TNVb7m",
-        "slide_ByLRzx"
+        "slide_ByLRzx",
+        "slide_NVCJKY"
       ],
       "name": "SS - Testimonials #12",
       "settings": {
