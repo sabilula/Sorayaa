@@ -573,13 +573,21 @@
             "title": "Pourquoi choisir la cannelle de Ceylan plutôt qu’une cannelle classique ?",
             "content": "<p>De nombreux compléments utilisent de la cannelle Cassia, naturellement plus riche en coumarine.</p><p>Notre formule contient exclusivement de la cannelle de Ceylan sélectionnée, appréciée pour sa pureté et son usage quotidien. Son extrait concentré 12:1 permet d’obtenir une formule hautement dosée dans un format facile à consommer.</p>"
           }
+        },
+        "item_bFAH6p": {
+          "type": "item",
+          "settings": {
+            "title": "QuestiQuelle différence avec les gélules classiques vendues en magasin ?",
+            "content": "<p>Les compléments classiques contiennent souvent une poudre sèche encapsulée dans des gélules dures.</p><p>Notre formule utilise un extrait incorporé dans une base huileuse MCT, sous forme de gélules molles plus simples à avaler et pensées pour une assimilation optimale.</p>"
+          }
         }
       },
       "block_order": [
         "item_rdMmfP",
         "item_HMn6fN",
         "item_PXHYHf",
-        "item_XJGcG4"
+        "item_XJGcG4",
+        "item_bFAH6p"
       ],
       "name": "FAQ",
       "settings": {
