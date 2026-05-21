@@ -27,9 +27,9 @@
       "type": "custom-liquid",
       "name": "Custom Liquid",
       "settings": {
-        "full_width": false,
-        "remove_vertical_spacing": false,
-        "remove_horizontal_spacing": false,
+        "full_width": true,
+        "remove_vertical_spacing": true,
+        "remove_horizontal_spacing": true,
         "liquid": "<div class=\"vt-n1\">\n  <span class=\"vt-n1-trophy\">🏆</span>\n  <p class=\"vt-n1-text\">Le <strong>N°1</strong> des compléments alimentaires naturels en France</p>\n</div>\n\n<style>\n.vt-n1{display:flex;align-items:center;justify-content:center;gap:10px;background:#4A7A6A;border-radius:8px;padding:12px 20px;margin:12px 0;text-align:center}\n.vt-n1-trophy{font-size:22px;line-height:1;flex-shrink:0}\n.vt-n1-text{font-size:14px;font-weight:500;color:#fff;margin:0;line-height:1.4}\n.vt-n1-text strong{font-size:16px;font-weight:800;color:#E8DDB5}\n</style>",
         "background": "",
         "background_gradient": "",
