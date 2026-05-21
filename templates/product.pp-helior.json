@@ -587,6 +587,13 @@
             "title": "Y a-t-il des interactions possibles avec certains médicaments ?",
             "content": "<p>Si vous suivez un traitement médical, notamment lié à la glycémie, à la tension ou à la circulation sanguine, il est recommandé de demander conseil à votre professionnel de santé avant de commencer un nouveau complément alimentaire.</p>"
           }
+        },
+        "item_qJrAMP": {
+          "type": "item",
+          "settings": {
+            "title": "Quand peut-on commencer à ressentir les effets ?",
+            "content": "<p>Certaines personnes remarquent une sensation d’énergie plus régulière et moins de variations au fil de la journée après quelques semaines d’utilisation.</p><p>Comme pour tout complément naturel, les résultats peuvent varier selon le mode de vie, la régularité de prise et le profil de chacun.</p>"
+          }
         }
       },
       "block_order": [
@@ -595,7 +602,8 @@
         "item_PXHYHf",
         "item_XJGcG4",
         "item_bFAH6p",
-        "item_pMV74x"
+        "item_pMV74x",
+        "item_qJrAMP"
       ],
       "name": "FAQ",
       "settings": {
