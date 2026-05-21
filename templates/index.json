@@ -357,7 +357,7 @@
         "kaching_bundles_app_block_tnkXmk": {
           "type": "shopify://apps/kaching-bundles/blocks/app-block/6c637362-a106-4a32-94ac-94dcfd68cdb8",
           "settings": {
-            "product": "canelle",
+            "product": "glycemie",
             "manual_deal_block_id": ""
           }
         },
@@ -492,7 +492,7 @@
       ],
       "settings": {
         "full_width": false,
-        "product": "canelle",
+        "product": "glycemie",
         "desktop_media_width": 55,
         "desktop_media_layout": "carousel_thumbnails_left",
         "mobile_media_size": "expanded",
