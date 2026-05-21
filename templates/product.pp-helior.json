@@ -110,6 +110,26 @@
             "max_width": 280
           }
         },
+        "collapsible_text_8THXF4": {
+          "type": "collapsible_text",
+          "settings": {
+            "icon": "none",
+            "icon_width": 20,
+            "title": "Bienfaits confirmés par la recherche",
+            "content": "<p><em>Études menées sur le Cinnamomum verum — la vraie cannelle de Ceylan</em></p><ul><li>Contribue à maintenir une glycémie équilibrée, déjà dans les valeurs normales</li><li>Favorise la sensibilité naturelle à l'insuline et une meilleure utilisation du glucose par l'organisme</li><li>Soutient la circulation sanguine et un métabolisme qui fonctionne comme il devrait</li><li>Protège les cellules du stress oxydatif grâce à une action antioxydante documentée</li><li>Doux pour l'estomac, bien toléré — conçu pour s'intégrer à votre quotidien sur la durée</li><li>Naturellement quasi exempt de coumarine — là où la cannelle Cassia en est chargée</li></ul><p><em>Ces bénéfices ont été observés dans des études cliniques et observationnelles sur la vraie cannelle de Ceylan, utilisée de façon régulière dans le cadre d'un mode de vie sain. Les résultats varient selon les individus.</em></p>",
+            "page": ""
+          }
+        },
+        "collapsible_text_RmCRPN": {
+          "type": "collapsible_text",
+          "settings": {
+            "icon": "none",
+            "icon_width": 20,
+            "title": "Ingrédients clés",
+            "content": "<p><strong>Extrait de Cannelle de Ceylan pure</strong> <em>(Cinnamomum verum)</em></p><ul><li>Récoltée au Sri Lanka — pas de Cassia, pas de substitut bon marché</li><li>Concentrée 12 fois en extrait liquide pur</li><li>Chaque softgel équivaut à 7 200mg d'écorce brute — la dose qui fait vraiment la différence</li><li>Naturellement sans coumarine — sans risque pour le foie, même en prise longue durée</li><li>Soutient l'équilibre glycémique, le métabolisme et une circulation saine au quotidien</li></ul><p><strong>🥥 Huile MCT</strong> <em>(triglycérides à chaîne moyenne)</em></p><ul><li>Transporte l'extrait directement jusqu'à la circulation sanguine</li><li>Sans elle, les actifs de la cannelle traversent le corps sans être absorbés — l'huile MCT change tout</li><li>Absorption en quelques minutes — pas en plusieurs heures</li><li>Zéro irritation digestive, zéro sensation de lourdeur</li></ul><p><strong>Format Softgel — pensé pour votre quotidien</strong></p><ul><li>Petite, lisse, facile à avaler en une seconde</li><li>Fini la poudre sèche qui colle à la gorge</li><li>Une seule softgel par jour — c'est tout ce qu'il faut</li></ul>",
+            "page": ""
+          }
+        },
         "liquid_kj6P8U": {
           "type": "liquid",
           "disabled": true,
@@ -138,6 +158,8 @@
         "image_UDErP7",
         "liquid_7PXEk7",
         "image_RKwCPc",
+        "collapsible_text_8THXF4",
+        "collapsible_text_RmCRPN",
         "liquid_kj6P8U",
         "liquid_6ebqxT"
       ],
