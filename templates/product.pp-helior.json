@@ -580,6 +580,13 @@
             "title": "Quelle différence avec les gélules classiques vendues en magasin ?",
             "content": "<p>Les compléments classiques contiennent souvent une poudre sèche encapsulée dans des gélules dures.</p><p>Notre formule utilise un extrait incorporé dans une base huileuse MCT, sous forme de gélules molles plus simples à avaler et pensées pour une assimilation optimale.</p>"
           }
+        },
+        "item_pMV74x": {
+          "type": "item",
+          "settings": {
+            "title": "Y a-t-il des interactions possibles avec certains médicaments ?",
+            "content": "<p>Si vous suivez un traitement médical, notamment lié à la glycémie, à la tension ou à la circulation sanguine, il est recommandé de demander conseil à votre professionnel de santé avant de commencer un nouveau complément alimentaire.</p>"
+          }
         }
       },
       "block_order": [
@@ -587,7 +594,8 @@
         "item_HMn6fN",
         "item_PXHYHf",
         "item_XJGcG4",
-        "item_bFAH6p"
+        "item_bFAH6p",
+        "item_pMV74x"
       ],
       "name": "FAQ",
       "settings": {
