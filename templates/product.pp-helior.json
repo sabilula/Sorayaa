@@ -436,9 +436,9 @@
           "settings": {
             "image": "shopify://shop_images/metabolae-12-1-concentrated-potency_webp.jpg",
             "column_size": "3",
-            "title": "Une seule softgel. La dose qui fait vraiment la différence.",
+            "title": "Ce que votre foie vous dirait s'il pouvait parler",
             "heading_tag": "h3",
-            "content": "<p>Les études sur la cannelle de Ceylan sont claires, pour un effet réel, il faut une dose suffisante, prise régulièrement. Ni trop peu pour que ça ne serve à rien, ni une poignée de gélules pour atteindre le seuil efficace.</p><p>Vitaora™ concentre 12 fois l'extrait pour délivrer cette dose en une seule softgel par jour. Pas de poudre à mélanger. Pas de protocole compliqué. Juste un geste, chaque matin.</p><p><em>(Extrait concentré 12:1 — équivalent 7 200mg par dose)</em></p>",
+            "content": "<p>La cannelle que vous trouvez en grande surface ou en pharmacie est presque toujours de la <strong>Cassia</strong> — une variété bon marché naturellement riche en <strong>coumarine</strong>. À doses répétées, la coumarine fragilise le foie. L'EFSA l'a elle-même signalé. La cannelle de Ceylan en contient naturellement très peu — c'est précisément ce qui la rend adaptée à une <strong>prise quotidienne sur le long terme</strong>, sans surveiller votre foie du coin de l'œil.</p>",
             "link_url": "",
             "link_text": "",
             "link_style": "link"
@@ -451,7 +451,7 @@
             "column_size": "3",
             "title": "L'huile MCT: ce qui fait que ça entre vraiment dans votre sang.",
             "heading_tag": "h4",
-            "content": "<p>La plupart des gens l'ignorent — les actifs de la cannelle sont liposolubles. Sans corps gras pour les transporter, ils traversent votre organisme sans être absorbés. Gaspillés. Inutiles.</p><p>C'est pour ça que la majorité des gélules de cannelle ne font rien — pas parce que la cannelle ne marche pas. Parce qu'elle n'arrive jamais là où elle devrait aller.</p><p>L'huile MCT résout ce problème. Elle agit comme vecteur naturel — elle prend l'extrait concentré et le transporte directement dans le sang, là où il peut enfin faire son travail.</p><p>Chez Vitaora™, l'extrait est déjà dissous dans l'huile MCT avant même que vous l'avalez. Absorption immédiate. Rien de perdu.</p><p><em>(Huile MCT — triglycérides à chaîne moyenne, source noix de coco)</em></p>",
+            "content": "<p>Ses actifs sont <strong>liposolubles</strong>. Sans corps gras pour les escorter, ils traversent l'organisme sans jamais atteindre la circulation sanguine. C'est pour ça que la plupart des gélules de cannelle ne font rien — l'ingrédient est là, mais votre corps ne peut pas l'utiliser. Vitaora™ dissout son extrait directement dans l'<strong>huile MCT</strong>avant encapsulation. Résultat : les actifs arrivent là où ils doivent aller. Rien de perdu.</p><p>Chez Vitaora™, l'extrait est déjà dissous dans l'huile MCT avant même que vous l'avalez. Absorption immédiate. Rien de perdu.</p><p><em>(Huile MCT — triglycérides à chaîne moyenne, source noix de coco)</em></p>",
             "link_url": "",
             "link_text": "",
             "link_style": "link"
@@ -462,9 +462,9 @@
           "settings": {
             "image": "shopify://shop_images/metabolae-clean-lab-tested_webp.jpg",
             "column_size": "3",
-            "title": "Formulé propre. Testé indépendamment. Sans compromis.",
+            "title": "Formule propre. Testé cliniquement.",
             "heading_tag": "h4",
-            "content": "<p>Chaque lot est envoyé en laboratoire indépendant avant d'arriver chez vous. Pas pour cocher une case. Parce que vous avez le droit de savoir exactement ce que vous avalez.</p><p>Résultat vérifié à chaque production : sans coumarine, sans OGM, sans gluten, sans additif artificiel, sans charge inutile.</p><p>Rien de caché. Rien d'ajouté. Juste ce qui doit être là, et rien d'autre.</p><p><em>(Testé en laboratoire indépendant — chaque lot certifié)</em></p>",
+            "content": "<p>Parce que vous avalez ça tous les jours — vous méritez de savoir exactement ce qu'il y a dedans. Chaque production est analysée par un <strong>laboratoire indépendant</strong> : absence de coumarine vérifiée, <strong>sans OGM</strong>, <strong>sans gluten</strong>, zéro agent de remplissage, zéro additif superflu. Ce que vous lisez sur l'étiquette est ce que vous prenez. Rien de plus.</p>",
             "link_url": "",
             "link_text": "",
             "link_style": "link"
