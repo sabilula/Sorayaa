@@ -28,6 +28,7 @@
     },
     "custom_liquid_QF7LBe": {
       "type": "custom-liquid",
+      "disabled": true,
       "name": "Custom Liquid",
       "settings": {
         "full_width": true,
@@ -214,6 +215,7 @@
         "slide_LK7Gng",
         "slide_YCim8m"
       ],
+      "disabled": true,
       "name": "SS - Testimonials #12",
       "settings": {
         "heading": "",
@@ -490,6 +492,7 @@
         "collapsible_text_yUQYRV",
         "collapsible_text_hLq4DK"
       ],
+      "disabled": true,
       "settings": {
         "full_width": false,
         "product": "glycemie",
@@ -506,32 +509,6 @@
         "text_color": "",
         "input_background": "rgba(0,0,0,0)",
         "input_text_color": ""
-      }
-    },
-    "rich_text_ektBbN": {
-      "type": "rich-text",
-      "blocks": {
-        "heading_aFALEt": {
-          "type": "heading",
-          "settings": {
-            "text": "Unisciti alle migliaia di persone che l'hanno già scelto...",
-            "heading_tag": "h3",
-            "text_color": "#ffffff",
-            "gradient": ""
-          }
-        }
-      },
-      "block_order": [
-        "heading_aFALEt"
-      ],
-      "name": "Rich text",
-      "settings": {
-        "full_width": true,
-        "content_width": "small",
-        "text_position": "center",
-        "background": "#000000",
-        "background_gradient": "",
-        "text_color": ""
       }
     },
     "custom_liquid_JE6BNE": {
@@ -623,6 +600,7 @@
         "item_tiiHmg",
         "item_hqpUmK"
       ],
+      "disabled": true,
       "name": "Multi-column",
       "settings": {
         "full_width": true,
@@ -644,7 +622,6 @@
     "custom_html_FmWgfd",
     "testimonials_cErhjk",
     "featured-product",
-    "rich_text_ektBbN",
     "custom_liquid_JE6BNE",
     "multi_column_iefNMr"
   ]
