@@ -200,6 +200,7 @@
           "type": "slide",
           "settings": {
             "media_style": "image",
+            "image": "shopify://shop_images/ChatGPT_Image_21_mai_2026_a_18_54_02.png",
             "video_url": "https://www.youtube.com/watch?v=_9VUPq3SxOc",
             "controls": false,
             "poster": "shopify://shop_images/ChatGPT_Image_21_mai_2026_a_18_54_02.png",
