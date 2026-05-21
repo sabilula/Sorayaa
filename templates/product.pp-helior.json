@@ -504,147 +504,15 @@
         "text_color": ""
       }
     },
-    "multi_column_YHRUCR": {
-      "type": "multi-column",
-      "blocks": {
-        "item_WcARxH": {
-          "type": "item",
-          "settings": {
-            "column_size": "3",
-            "title": "Tenez 5 fois plus longtemps et laissez-la en redemander à chaque fois.",
-            "heading_tag": "h3",
-            "content": "<p></p><p>Sentez-vous invincible et reprenez <strong>le contrôle total</strong> de vos <strong>performances</strong>.<br/><br/>Cette <strong>formule</strong> extrêmement <strong>puissante</strong> envoie plus de <strong>sang</strong> que d'habitude vers votre <strong>pénis</strong>, vous permettant ainsi de <strong>rester en érection jusqu'à 4 heures</strong> sans effort, tout cela grâce à <strong>une simple vaporisation</strong>.</p><p>Que ce soit le premier ou le troisième round, <strong>vous continuez</strong>. C'est vous qui décidez du rythme. Vous avez le contrôle du début à la fin. Fini les moments de faiblesse, fini les déceptions, place à <strong>une puissance pure et une endurance inégalée</strong>.</p><p>Avec <strong>VigorMax™</strong>, vous pouvez maintenir <strong>des érections puissantes</strong> pendant des heures et lui donner <strong>envie de plus</strong>, encore et encore. À chaque fois. Chaque nuit.</p>",
-            "link_url": "",
-            "link_text": "",
-            "link_style": "link"
-          }
-        }
-      },
-      "block_order": [
-        "item_WcARxH"
-      ],
-      "name": "Multi-column",
-      "settings": {
-        "full_width": true,
-        "stack_on_mobile": true,
-        "gap": "medium",
-        "text_alignment": "start",
-        "subheading": "",
-        "title": "",
-        "content": "",
-        "background": "",
-        "background_gradient": "",
-        "text_color": ""
-      }
-    },
-    "multi_column_EeJHVR": {
-      "type": "multi-column",
-      "blocks": {
-        "item_izntUc": {
-          "type": "item",
-          "settings": {
-            "column_size": "3",
-            "title": "« Depuis que j'ai commencé à utiliser ce produit, je la garde éveillée toute la nuit. »",
-            "heading_tag": "h3",
-            "content": "<p>« J'avais <strong>tout essayé</strong> : pilules, compléments alimentaires, exercices. <strong>Rien ne me donnait</strong> les <strong>résultats</strong> rapides et fiables dont j'avais besoin. Je continuais à espérer, mais cela <strong>se terminait</strong> généralement par une <strong>déception</strong>.</p><p>Quand j'ai lu les <strong>avis</strong> sur ce spray, je me suis dit : « C'est trop beau pour être vrai. » Mais je n'avais rien à perdre. Je l'ai <strong>vaporisé</strong> avant d'aller me coucher et en quelques secondes, <strong>littéralement quelques secondes</strong>, j'ai senti la différence. J'étais dur, plein de confiance et j'avais le contrôle total. Ma femme n'en croyait pas ses yeux. <strong>Enfin quelque chose qui fonctionne vraiment.</strong> »</p><p>— <strong>Nicolas H., 44 ans</strong></p>",
-            "link_url": "",
-            "link_text": "",
-            "link_style": "link"
-          }
-        }
-      },
-      "block_order": [
-        "item_izntUc"
-      ],
-      "name": "Multi-column",
-      "settings": {
-        "full_width": true,
-        "stack_on_mobile": true,
-        "gap": "medium",
-        "text_alignment": "start",
-        "subheading": "",
-        "title": "",
-        "content": "",
-        "background": "",
-        "background_gradient": "",
-        "text_color": ""
-      }
-    },
-    "multi_column_wyqCKB": {
-      "type": "multi-column",
-      "blocks": {
-        "item_GJRGqN": {
-          "type": "item",
-          "settings": {
-            "column_size": "3",
-            "title": "Testé cliniquement et recommandé par plus de 143 médecins et sexologues.",
-            "heading_tag": "h3",
-            "content": "<p>De nombreux produits promettent monts et merveilles, mais ne tiennent pas leurs promesses. <strong>VigorMax™</strong>, quant à lui, dissipe tous les doutes, <strong>a gagné la confiance</strong> de plus de <strong>143 professionnels de santé</strong> et a été cliniquement prouvé pour procurer une <strong>érection en moins d'une minute</strong>.</p><p>Imaginez que vous utilisiez une solution qui <strong>est non seulement rapide et puissante</strong>, mais aussi <strong>entièrement approuvée</strong>. Pas de pilules. Pas de risques. Pas de honte.</p><p><strong>Une érection cliniquement prouvée en seulement 43 secondes !</strong></p>",
-            "link_url": "",
-            "link_text": "",
-            "link_style": "link"
-          }
-        }
-      },
-      "block_order": [
-        "item_GJRGqN"
-      ],
-      "name": "Multi-column",
-      "settings": {
-        "full_width": true,
-        "stack_on_mobile": true,
-        "gap": "medium",
-        "text_alignment": "start",
-        "subheading": "",
-        "title": "",
-        "content": "",
-        "background": "",
-        "background_gradient": "",
-        "text_color": ""
-      }
-    },
     "custom_liquid_FYM8ei": {
       "type": "custom-liquid",
+      "disabled": true,
       "name": "Custom Liquid",
       "settings": {
         "full_width": true,
         "remove_vertical_spacing": false,
         "remove_horizontal_spacing": false,
         "liquid": "<style>\n  .vmband-wrap {\n    background: #0a1220;\n    border-top: 1px solid rgba(140,180,230,0.12);\n    border-bottom: 1px solid rgba(140,180,230,0.12);\n    overflow: hidden;\n    padding: 11px 0;\n    position: relative;\n  }\n\n  .vmband-wrap::before,\n  .vmband-wrap::after {\n    content: '';\n    position: absolute;\n    top: 0; bottom: 0;\n    width: 60px;\n    z-index: 2;\n    pointer-events: none;\n  }\n  .vmband-wrap::before { left: 0; background: linear-gradient(90deg, #0a1220, transparent); }\n  .vmband-wrap::after  { right: 0; background: linear-gradient(270deg, #0a1220, transparent); }\n\n  .vmband-track {\n    display: flex;\n    width: max-content;\n    animation: vmband-scroll 20s linear infinite;\n  }\n\n  @keyframes vmband-scroll {\n    0%   { transform: translateX(0); }\n    100% { transform: translateX(-50%); }\n  }\n\n  .vmband-item {\n    display: flex;\n    align-items: center;\n    gap: 28px;\n    padding: 0 28px;\n    font-family: Arial, Helvetica, sans-serif;\n    font-size: 13px;\n    font-weight: 600;\n    color: #c8d8ec;\n    letter-spacing: 0.8px;\n    white-space: nowrap;\n  }\n\n  .vmband-sep {\n    width: 1px;\n    height: 14px;\n    background: rgba(140,180,230,0.25);\n    flex-shrink: 0;\n  }\n\n  .vmband-dot {\n    width: 4px; height: 4px;\n    background: rgba(140,180,230,0.4);\n    border-radius: 50%;\n    flex-shrink: 0;\n  }\n</style>\n\n<div class=\"vmband-wrap\">\n  <div class=\"vmband-track\">\n\n    <!-- SET 1 -->\n    <div class=\"vmband-item\">\n      <span>🛡️ Garantie 30 Jours</span>\n      <div class=\"vmband-sep\"></div>\n      <span>⚡ Action en 60 sec</span>\n      <div class=\"vmband-sep\"></div>\n      <span>🌿 100% Naturel</span>\n      <div class=\"vmband-sep\"></div>\n      <span>🇨🇭 Fabriqué en Suisse</span>\n      <div class=\"vmband-sep\"></div>\n      <span>📦 Livraison Discrète</span>\n      <div class=\"vmband-sep\"></div>\n      <span>💊 Sans Ordonnance</span>\n      <div class=\"vmband-sep\"></div>\n    </div>\n\n    <!-- SET 2 — clone identique pour boucle infinie -->\n    <div class=\"vmband-item\">\n      <span>🛡️ Garantie 30 Jours</span>\n      <div class=\"vmband-sep\"></div>\n      <span>⚡ Action en 60 sec</span>\n      <div class=\"vmband-sep\"></div>\n      <span>🌿 100% Naturel</span>\n      <div class=\"vmband-sep\"></div>\n      <span>🇨🇭 Fabriqué en Suisse</span>\n      <div class=\"vmband-sep\"></div>\n      <span>📦 Livraison Discrète</span>\n      <div class=\"vmband-sep\"></div>\n      <span>💊 Sans Ordonnance</span>\n      <div class=\"vmband-sep\"></div>\n    </div>\n\n  </div>\n</div>",
-        "background": "",
-        "background_gradient": "",
-        "text_color": ""
-      }
-    },
-    "multi_column_BMcJih": {
-      "type": "multi-column",
-      "blocks": {
-        "item_dRVgpN": {
-          "type": "item",
-          "settings": {
-            "column_size": "3",
-            "title": "Comment utiliser VigorMax™ pour obtenir les meilleurs résultats :",
-            "heading_tag": "h3",
-            "content": "<p>Tes <strong>performances au lit</strong> en disent plus long que tu ne le penses. Elles montrent comment tu te sens, si tu es <strong>plein de confiance, de force et de contrôle</strong>, ou si tu es incertain et déçu. Mais une <strong>érection molle ou de courte durée</strong> montre souvent quelque chose de complètement différent de ce que tu es vraiment.</p><p><strong>VigorMax™</strong> a été spécialement conçu pour <strong>éliminer cette insécurité</strong> et vous redonner toute votre puissance. Il vous procure <strong>des érections dures et puissantes en seulement 43 à 60 secondes</strong>, sans pilules, sans tracas et sans retards embarrassants.</p><p><strong>Juste rapide, puissant et sans effort.</strong></p>",
-            "link_url": "",
-            "link_text": "",
-            "link_style": "link"
-          }
-        }
-      },
-      "block_order": [
-        "item_dRVgpN"
-      ],
-      "disabled": true,
-      "name": "Multi-column",
-      "settings": {
-        "full_width": true,
-        "stack_on_mobile": true,
-        "gap": "medium",
-        "text_alignment": "start",
-        "subheading": "",
-        "title": "",
-        "content": "",
         "background": "",
         "background_gradient": "",
         "text_color": ""
@@ -720,11 +588,7 @@
     "custom_liquid_Frh9bB",
     "multi_column_iGXEwa",
     "custom_liquid_HM9iPb",
-    "multi_column_YHRUCR",
-    "multi_column_EeJHVR",
-    "multi_column_wyqCKB",
     "custom_liquid_FYM8ei",
-    "multi_column_BMcJih",
     "faq_aKtydG"
   ]
 }
