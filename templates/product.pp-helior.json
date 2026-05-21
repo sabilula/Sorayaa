@@ -527,6 +527,22 @@
         "text_color": ""
       }
     },
+    "image_with_text_overlay_KwgqxX": {
+      "type": "image-with-text-overlay",
+      "name": "Image with text overlay",
+      "settings": {
+        "full_width": true,
+        "allow_transparent_header": false,
+        "enable_parallax": false,
+        "image_size": "auto",
+        "image": "shopify://shop_images/ChatGPT_Image_21_mai_2026_a_19_48_28.png",
+        "mobile_text_position": "place-self-center text-center",
+        "desktop_text_position": "sm:place-self-center sm:text-center",
+        "text_color": "#ffffff",
+        "overlay_color": "#000000",
+        "overlay_opacity": 0
+      }
+    },
     "faq_aKtydG": {
       "type": "faq",
       "blocks": {
@@ -597,6 +613,7 @@
     "custom_liquid_Frh9bB",
     "custom_liquid_HM9iPb",
     "custom_liquid_FYM8ei",
+    "image_with_text_overlay_KwgqxX",
     "faq_aKtydG"
   ]
 }
