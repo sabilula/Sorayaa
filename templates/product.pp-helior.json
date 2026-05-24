@@ -67,32 +67,6 @@
         "text_color": ""
       }
     },
-    "rich_text_i3H8pC": {
-      "type": "rich-text",
-      "blocks": {
-        "heading_YMLFbz": {
-          "type": "heading",
-          "settings": {
-            "text": "Pourquoi choisir Vitaora",
-            "heading_tag": "h4",
-            "text_color": "",
-            "gradient": ""
-          }
-        }
-      },
-      "block_order": [
-        "heading_YMLFbz"
-      ],
-      "name": "Rich text",
-      "settings": {
-        "full_width": true,
-        "content_width": "small",
-        "text_position": "center",
-        "background": "",
-        "background_gradient": "",
-        "text_color": ""
-      }
-    },
     "image_with_text_overlay_TCYa9w": {
       "type": "image-with-text-overlay",
       "name": "Image with text overlay",
@@ -101,8 +75,8 @@
         "allow_transparent_header": false,
         "enable_parallax": false,
         "image_size": "auto",
-        "image": "shopify://shop_images/ChatGPT_Image_24_mai_2026_a_23_29_26.png",
-        "mobile_image": "shopify://shop_images/ChatGPT_Image_24_mai_2026_a_23_29_26.png",
+        "image": "shopify://shop_images/ChatGPT_Image_25_mai_2026_a_00_53_34.png",
+        "mobile_image": "shopify://shop_images/ChatGPT_Image_25_mai_2026_a_00_53_34.png",
         "mobile_text_position": "place-self-center text-center",
         "desktop_text_position": "sm:place-self-center sm:text-center",
         "text_color": "#ffffff",
@@ -774,7 +748,6 @@
     "custom_liquid_CNr6h7",
     "image_with_text_overlay_Ve9RGL",
     "custom_liquid_73gybx",
-    "rich_text_i3H8pC",
     "image_with_text_overlay_TCYa9w",
     "custom_liquid_wKCb83",
     "custom_liquid_CRUREB",
