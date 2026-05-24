@@ -383,7 +383,7 @@
         "liquid_iniiNG": {
           "type": "liquid",
           "settings": {
-            "liquid": "<div class=\"vt-update\">\n  <strong>MISE À JOUR :</strong> déjà en rupture de stock 7 fois cette année. Dernier réassort disponible, commandez avant qu'il soit trop tard.\n</div>\n\n<style>\n.vt-update{background:#FDF6EC;border:1px dashed #C4A97D;border-radius:6px;padding:8px 12px;margin:10px 0;font-size:12px;color:#1E3A1E;line-height:1.5}\n.vt-update strong{color:#4A7A6A}\n</style>"
+            "liquid": "<div class=\"vt-update\">\n  <strong>MISE À JOUR :</strong> déjà en rupture de stock 7 fois cette année. Dernier réassort disponible.\n</div>\n\n<style>\n.vt-update{background:#FDF6EC;border:1px dashed #C4A97D;border-radius:6px;padding:8px 12px;margin:10px 0;font-size:12px;color:#1E3A1E;line-height:1.5}\n.vt-update strong{color:#4A7A6A}\n</style>"
           }
         },
         "kaching_bundles_app_block_AJrNJc": {
