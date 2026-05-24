@@ -70,15 +70,18 @@
     "rich_text_i3H8pC": {
       "type": "rich-text",
       "blocks": {
-        "subheading_Bf3qKD": {
-          "type": "subheading",
+        "heading_YMLFbz": {
+          "type": "heading",
           "settings": {
-            "text": "Pourquoi choisir Vitaora"
+            "text": "Pourquoi choisir Vitaora",
+            "heading_tag": "h4",
+            "text_color": "",
+            "gradient": ""
           }
         }
       },
       "block_order": [
-        "subheading_Bf3qKD"
+        "heading_YMLFbz"
       ],
       "name": "Rich text",
       "settings": {
