@@ -245,7 +245,7 @@
       ],
       "name": "SS - Testimonials #12",
       "settings": {
-        "heading": "<p>Ils témoignent</p><p></p>",
+        "heading": "<p></p><p></p>",
         "heading_custom": true,
         "heading_font": "serif",
         "heading_size": 30,
@@ -253,7 +253,7 @@
         "heading_height": 90,
         "heading_align": "center",
         "heading_align_mobile": "center",
-        "sub_heading": "<p></p><p>Voici pourquoi <strong>97% rachètent</strong> encore après le premier paquet.</p>",
+        "sub_heading": "",
         "sub_heading_custom": false,
         "sub_heading_font": "josefin_sans_n4",
         "sub_heading_size": 26,
