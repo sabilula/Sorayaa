@@ -231,6 +231,18 @@
     "testimonials_FXCdNy": {
       "type": "testimonials",
       "blocks": {
+        "slide_NVCJKY": {
+          "type": "slide",
+          "settings": {
+            "media_style": "image",
+            "image": "shopify://shop_images/ChatGPT_Image_21_mai_2026_a_19_03_32.png",
+            "video_url": "https://www.youtube.com/watch?v=_9VUPq3SxOc",
+            "controls": false,
+            "stars_count": 5,
+            "text": "<p><em>« </em>Diabétique de famille. Mon père l'était, mon frère aussi. J'attendais mon tour depuis des années. Mon médecin surveillait mes chiffres de près. Régime, marche quotidienne, je faisais ma part. Mais la glycémie restait capricieuse. J'étais sceptique mais j'ai essayé Vitaora™. Deux mois plus tard mon médecin a regardé mon bilan et pour la première fois depuis longtemps il a souri. \"Continuez ce que vous faites.\"<em>»</em></p>",
+            "author": "<p><strong>Bernard, 67 ans</strong></p>"
+          }
+        },
         "slide_aaeLJb": {
           "type": "slide",
           "settings": {
@@ -327,21 +339,10 @@
             "text": "<p><em>« 20 kg en trop et des fringales incontrôlables. Mon médecin m'a dit que ma glycémie instable était à l'origine de tout.J'ai commencé Vitaora. Trois semaines plus tard je n'ouvrais plus le placard entre les repas. Deux mois plus tard, 5kg de moins. Sans me priver. Sans régime.Pour la première fois mon corps travaille avec moi. »</em></p>",
             "author": "<p><strong>Isabelle, 51 ans</strong></p>"
           }
-        },
-        "slide_NVCJKY": {
-          "type": "slide",
-          "settings": {
-            "media_style": "image",
-            "image": "shopify://shop_images/ChatGPT_Image_21_mai_2026_a_19_03_32.png",
-            "video_url": "https://www.youtube.com/watch?v=_9VUPq3SxOc",
-            "controls": false,
-            "stars_count": 5,
-            "text": "<p><em>« Diabétique de famille. Mon père l'était, mon frère aussi. J'attendais mon tour depuis des années.Mon médecin surveillait mes chiffres de près. Régime, marche quotidienne, je faisais ma part. Mais la glycémie restait capricieuse.Un ami m'a parlé de Vitaora. J'étais sceptique à mon âge on en a vu d'autres. Mais j'ai essayé.</em></p><p><em>2 mois plus tard mon médecin a regardé mon bilan et pour la première fois depuis longtemps il a souri. \"Continuez ce que vous faites.\" »</em></p>",
-            "author": "<p><strong>Bernard, 67 ans</strong></p>"
-          }
         }
       },
       "block_order": [
+        "slide_NVCJKY",
         "slide_aaeLJb",
         "slide_Jwnt83",
         "slide_48ypch",
@@ -349,8 +350,7 @@
         "slide_EbEDmR",
         "slide_YHVhX6",
         "slide_TNVb7m",
-        "slide_ByLRzx",
-        "slide_NVCJKY"
+        "slide_ByLRzx"
       ],
       "name": "SS - Testimonials #12",
       "settings": {
