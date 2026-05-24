@@ -478,6 +478,12 @@
             "page": ""
           }
         },
+        "liquid_AnP9tr": {
+          "type": "liquid",
+          "settings": {
+            "liquid": "<div class=\"vt-doctor\">\n  <div class=\"vt-doctor__avatar\">\n    <img src=\"https://cdn.shopify.com/s/files/1/0994/5176/5074/files/ChatGPT_Image_25_mai_2026_a_00_32_55.png?v=1779661997\" alt=\"Dr. Laurent Mercier\">\n  </div>\n  <div class=\"vt-doctor__content\">\n    <div class=\"vt-doctor__name\">\n      Dr. Laurent Mercier\n      <span class=\"vt-doctor__badge\">✓ Vérifié</span>\n    </div>\n    <div class=\"vt-doctor__title\">Néphrologue</div>\n    <p class=\"vt-doctor__quote\">\"Je recommande cette formule à mes patients qui cherchent un soutien naturel avant de passer aux médicaments ou en complément de leur traitement. La concentration 12:1 avec huile MCT change vraiment l'absorption — les résultats sur la glycémie sont visibles dès les premières semaines.\"</p>\n  </div>\n</div>\n\n<style>\n.vt-doctor{display:flex;align-items:flex-start;gap:16px;background:#F4F0E4;border:1px solid #C4A97D;border-radius:12px;padding:20px;max-width:640px;margin:16px 0}\n.vt-doctor__avatar{flex-shrink:0;width:64px;height:64px;border-radius:50%;overflow:hidden;border:2px solid #4A7A6A}\n.vt-doctor__avatar img{width:100%;height:100%;object-fit:cover}\n.vt-doctor__content{flex:1}\n.vt-doctor__name{font-size:14px;font-weight:700;color:#1E3A1E;display:flex;align-items:center;gap:8px}\n.vt-doctor__badge{background:#4A7A6A;color:#fff;font-size:10px;font-weight:600;padding:2px 8px;border-radius:20px;letter-spacing:.03em}\n.vt-doctor__title{font-size:11px;color:#8A7A5A;margin:2px 0 10px;letter-spacing:.03em}\n.vt-doctor__quote{font-size:13px;color:#5A5040;line-height:1.6;margin:0;font-style:italic}\n</style>"
+          }
+        },
         "liquid_kj6P8U": {
           "type": "liquid",
           "disabled": true,
@@ -509,6 +515,7 @@
         "image_RKwCPc",
         "collapsible_text_8THXF4",
         "collapsible_text_RmCRPN",
+        "liquid_AnP9tr",
         "liquid_kj6P8U",
         "liquid_6ebqxT"
       ],
