@@ -57,10 +57,8 @@
       "type": "featured-collection",
       "name": "Featured collection",
       "settings": {
-        "collection": "",
-        "products": [
-          "glycemie"
-        ],
+        "collection": "complements-naturels-premium",
+        "products": [],
         "full_width": true,
         "stack_products": true,
         "show_progress_bar": false,
