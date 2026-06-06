@@ -197,6 +197,12 @@
     "rich_text_4UNpyc": {
       "type": "rich-text",
       "blocks": {
+        "richtext_UePD3U": {
+          "type": "richtext",
+          "settings": {
+            "content": "<p><em>\"J'étais persuadée qu'à mon âge, </em><strong>je ne pourrais plus porter des belles chaussures </strong><em>qui me mettent en valeur </em><strong>sans gonfler </strong><em>le soir. </em><strong>J'avais tort</strong><em>\"</em></p><p><strong>- Anne-Marie V.</strong></p>"
+          }
+        },
         "button_zX36MV": {
           "type": "button",
           "settings": {
@@ -207,17 +213,11 @@
             "background": "",
             "text_color": ""
           }
-        },
-        "richtext_UePD3U": {
-          "type": "richtext",
-          "settings": {
-            "content": "<p><em>\"J'étais persuadée qu'à mon âge, </em><strong>je ne pourrais plus porter des belles chaussures </strong><em>qui me mettent en valeur </em><strong>sans gonfler </strong><em>le soir. </em><strong>J'avais tort</strong><em>\"</em></p><p><strong>- Anne-Marie V.</strong></p>"
-          }
         }
       },
       "block_order": [
-        "button_zX36MV",
-        "richtext_UePD3U"
+        "richtext_UePD3U",
+        "button_zX36MV"
       ],
       "name": "Rich text",
       "settings": {
