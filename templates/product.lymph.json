@@ -240,19 +240,8 @@
             "video_url": "https://www.youtube.com/watch?v=_9VUPq3SxOc",
             "controls": false,
             "stars_count": 5,
-            "text": "<p></p><p>\"Une transformation visible et durable. Je recommande Elensia à toutes les femmes !\"</p><p><strong>TRANSFORMATION · 8 SEMAINES</strong></p>",
-            "author": "<p><strong>Martine F., 58 ans</strong></p>"
-          }
-        },
-        "slide_fTRbJY": {
-          "type": "slide",
-          "settings": {
-            "media_style": "image",
-            "video_url": "https://www.youtube.com/watch?v=_9VUPq3SxOc",
-            "controls": false,
-            "stars_count": 5,
-            "text": "<p>Our kids bring them everywhere, specially when doing puzzles and drawings</p>",
-            "author": "<p><strong>@theworldisyours</strong></p>"
+            "text": "<p><em>\"Au bout d'une dizaine de jours, j'ai senti une vraie différence. Je me réveille avec les jambes beaucoup plus légères et je n'ai plus cette sensation de lourdeur constante. J'utilisais des bas de contention, des massages et plusieurs autres solutions sans résultat durable. Aujourd'hui, je me sens enfin plus à l'aise dans mon corps.\"</em></p>",
+            "author": "<p><strong>Martine F.</strong></p>"
           }
         },
         "slide_eaqkBN": {
@@ -264,6 +253,18 @@
             "stars_count": 5,
             "text": "<p>This is the brand to go for lamps, love the quality and design, as always you get what you pay</p>",
             "author": "<p><strong>@niels_homes</strong></p>"
+          }
+        },
+        "slide_fTRbJY": {
+          "type": "slide",
+          "settings": {
+            "media_style": "image",
+            "image": "shopify://shop_images/fef5fad3033a785c7aebec5fa1e78305_avif.webp",
+            "video_url": "https://www.youtube.com/watch?v=_9VUPq3SxOc",
+            "controls": false,
+            "stars_count": 5,
+            "text": "<p><em>\"Mes chevilles ont nettement dégonflé. Je le remarque surtout le soir après une journée de travail où mes jambes étaient habituellement très lourdes. Je me sens moins gonflée et beaucoup plus confortable au quotidien. Une vraie différence pour moi.\"</em></p>",
+            "author": "<p><strong>Isabelle R.</strong></p>"
           }
         },
         "slide_RVz9FL": {
@@ -313,8 +314,8 @@
       },
       "block_order": [
         "slide_HPhtbz",
-        "slide_fTRbJY",
         "slide_eaqkBN",
+        "slide_fTRbJY",
         "slide_RVz9FL",
         "slide_Bqqkzn",
         "slide_icUWfB",
