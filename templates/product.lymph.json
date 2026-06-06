@@ -46,6 +46,18 @@
             "collapse_content": false
           }
         },
+        "liquid_rHHrGC": {
+          "type": "liquid",
+          "settings": {
+            "liquid": "<div style=\"display: grid; grid-template-columns: 1fr 1fr; gap: 16px; padding: 16px 0;\">\n\n  <div style=\"display: flex; align-items: center; gap: 10px;\">\n    <svg width=\"32\" height=\"32\" viewBox=\"0 0 32 32\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n      <path d=\"M16 4C16 4 10 8 10 14C10 17.3 12.7 20 16 20C19.3 20 22 17.3 22 14C22 8 16 4 16 4Z\" stroke=\"#057664\" stroke-width=\"1.8\" fill=\"none\"/>\n      <path d=\"M10 22H22M12 26H20\" stroke=\"#057664\" stroke-width=\"1.8\" stroke-linecap=\"round\"/>\n    </svg>\n    <span style=\"font-size: 14px; color: #1A1A1A; font-family: Inter, sans-serif;\">Taille <strong>plus fine</strong>, jambes <strong>légères</strong></span>\n  </div>\n\n  <div style=\"display: flex; align-items: center; gap: 10px;\">\n    <svg width=\"32\" height=\"32\" viewBox=\"0 0 32 32\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n      <circle cx=\"16\" cy=\"16\" r=\"10\" stroke=\"#057664\" stroke-width=\"1.8\" fill=\"none\"/>\n      <path d=\"M10 16C10 16 12 12 16 12C20 12 22 16 22 16\" stroke=\"#057664\" stroke-width=\"1.8\" stroke-linecap=\"round\" fill=\"none\"/>\n      <path d=\"M8 16C8 16 11 8 16 8C21 8 24 16 24 16\" stroke=\"#057664\" stroke-width=\"1.8\" stroke-linecap=\"round\" fill=\"none\"/>\n    </svg>\n    <span style=\"font-size: 14px; color: #1A1A1A; font-family: Inter, sans-serif;\">Améliore la <strong>circulation de votre lymphe</strong></span>\n  </div>\n\n  <div style=\"display: flex; align-items: center; gap: 10px;\">\n    <svg width=\"32\" height=\"32\" viewBox=\"0 0 32 32\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n      <ellipse cx=\"16\" cy=\"13\" rx=\"7\" ry=\"9\" stroke=\"#057664\" stroke-width=\"1.8\" fill=\"none\"/>\n      <path d=\"M10 22C10 22 11 26 16 26C21 26 22 22 22 22\" stroke=\"#057664\" stroke-width=\"1.8\" stroke-linecap=\"round\" fill=\"none\"/>\n      <path d=\"M13 10C13 10 14 12 16 12C18 12 19 10 19 10\" stroke=\"#057664\" stroke-width=\"1.8\" stroke-linecap=\"round\" fill=\"none\"/>\n    </svg>\n    <span style=\"font-size: 14px; color: #1A1A1A; font-family: Inter, sans-serif;\">Visage <strong>redéfini et dégonflé</strong></span>\n  </div>\n\n  <div style=\"display: flex; align-items: center; gap: 10px;\">\n    <svg width=\"32\" height=\"32\" viewBox=\"0 0 32 32\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n      <path d=\"M16 6C10.5 6 6 10.5 6 16C6 21.5 10.5 26 16 26C21.5 26 26 21.5 26 16C26 10.5 21.5 6 16 6Z\" stroke=\"#057664\" stroke-width=\"1.8\" fill=\"none\"/>\n      <path d=\"M11 16C11 16 12.5 13 16 13C19.5 13 21 16 21 16C21 16 19.5 19 16 19C12.5 19 11 16 11 16Z\" stroke=\"#057664\" stroke-width=\"1.8\" fill=\"none\"/>\n      <path d=\"M13 16C13 14.9 14.3 14 16 14\" stroke=\"#057664\" stroke-width=\"1.8\" stroke-linecap=\"round\"/>\n    </svg>\n    <span style=\"font-size: 14px; color: #1A1A1A; font-family: Inter, sans-serif;\">Renforce votre <strong>confort digestif</strong></span>\n  </div>\n\n</div>"
+          }
+        },
+        "liquid_F6Yrgd": {
+          "type": "liquid",
+          "settings": {
+            "liquid": "<div style=\"border: 1.5px solid #057664; border-radius: 10px; padding: 14px 16px; display: flex; align-items: flex-start; gap: 12px; margin-top: 8px;\">\n\n  <svg width=\"36\" height=\"36\" viewBox=\"0 0 36 36\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\" style=\"flex-shrink: 0; margin-top: 2px;\">\n    <path d=\"M18 4C18 4 8 10 8 20C8 25.5 12.5 30 18 30C23.5 30 28 25.5 28 20C28 10 18 4 18 4Z\" stroke=\"#057664\" stroke-width=\"1.8\" fill=\"none\"/>\n    <path d=\"M18 14V22M14 18H22\" stroke=\"#057664\" stroke-width=\"1.8\" stroke-linecap=\"round\"/>\n  </svg>\n\n  <div>\n    <p style=\"margin: 0 0 4px 0; font-size: 14px; font-weight: 700; font-style: italic; color: #057664; font-family: Inter, sans-serif;\">\n      Ingrédients naturels cliniquement prouvés\n    </p>\n    <p style=\"margin: 0; font-size: 13px; color: #1A1A1A; font-family: Inter, sans-serif; line-height: 1.5;\">\n      Les 4 plantes utilisées pour produire Vitaora sont cliniquement étudiées pour éliminer les fluides responsables des gonflements.\n    </p>\n  </div>\n\n</div>"
+          }
+        },
         "liquid_8ijkHW": {
           "type": "liquid",
           "settings": {
@@ -125,6 +137,8 @@
         "liquid_PUUP7c",
         "title",
         "description",
+        "liquid_rHHrGC",
+        "liquid_F6Yrgd",
         "liquid_8ijkHW",
         "kaching_bundles_app_block_AJrNJc",
         "liquid_qCjND6",
