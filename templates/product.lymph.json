@@ -193,12 +193,36 @@
         "drag_cursor_background": "#ffffff",
         "drag_cursor_color": "#000000"
       }
+    },
+    "rich_text_4UNpyc": {
+      "type": "rich-text",
+      "blocks": {
+        "richtext_UePD3U": {
+          "type": "richtext",
+          "settings": {
+            "content": "<p><em>\"J'étais persuadée qu'à mon âge,</em><strong>je ne pourrais plus porter des belles chaussures</strong><em>qui me mettent en valeur</em><strong>sans gonfler</strong><em>le soir.</em><strong>J'avais tort</strong><em>\"</em></p><p><strong>- Anne-Marie V.</strong></p>"
+          }
+        }
+      },
+      "block_order": [
+        "richtext_UePD3U"
+      ],
+      "name": "Rich text",
+      "settings": {
+        "full_width": true,
+        "content_width": "small",
+        "text_position": "center",
+        "background": "",
+        "background_gradient": "",
+        "text_color": ""
+      }
     }
   },
   "order": [
     "custom_liquid_wecaWH",
     "main",
     "image_with_text_overlay_kcGeAG",
-    "before_after_image_8fwAFL"
+    "before_after_image_8fwAFL",
+    "rich_text_4UNpyc"
   ]
 }
