@@ -25,6 +25,7 @@
       "block_order": [
         "heading_yGKCzA"
       ],
+      "disabled": true,
       "name": "Rich text",
       "settings": {
         "full_width": false,
@@ -48,6 +49,12 @@
           "type": "title",
           "settings": {
             "heading_tag": "h4"
+          }
+        },
+        "text_cJNrVz": {
+          "type": "text",
+          "settings": {
+            "text": ""
           }
         },
         "description": {
@@ -107,6 +114,7 @@
       "block_order": [
         "liquid_PUUP7c",
         "title",
+        "text_cJNrVz",
         "description",
         "liquid_qCjND6",
         "buy_buttons",
