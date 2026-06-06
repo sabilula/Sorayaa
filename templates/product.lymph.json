@@ -236,11 +236,12 @@
           "type": "slide",
           "settings": {
             "media_style": "image",
+            "image": "shopify://shop_images/ChatGPT_Image_16_avr__2026_18_22_16_2ac7a5b8-dc48-44d8-9d73-053aca969e7e_png.webp",
             "video_url": "https://www.youtube.com/watch?v=_9VUPq3SxOc",
             "controls": false,
             "stars_count": 5,
-            "text": "<p>the perfect candle replacement, obsessed with the lamps!</p>",
-            "author": "<p><strong>@tracer</strong></p>"
+            "text": "<p></p><p>\"Une transformation visible et durable. Je recommande Elensia à toutes les femmes !\"</p><p><strong>TRANSFORMATION · 8 SEMAINES</strong></p>",
+            "author": "<p><strong>Martine F., 58 ans</strong></p>"
           }
         },
         "slide_fTRbJY": {
@@ -400,7 +401,7 @@
         "card_border_color": "#057664",
         "card_shadow_color": "#000000",
         "media_border_color": "#000000",
-        "stars_color": "#323232",
+        "stars_color": "#00b67a",
         "text_color": "#323232",
         "author_color": "#323232",
         "video_icon_bg_color": "#FFFFFF",
