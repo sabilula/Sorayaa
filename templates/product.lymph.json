@@ -201,22 +201,10 @@
           "settings": {
             "content": "<p><strong>Vitaora soutient votre lymphe, votre peau et votre énergie afin que vous puissiez :</strong></p><p>✔ Vous réveiller avec le <strong>visage moins bouffi</strong>   et les <strong>jambes plus légères</strong></p><p>✔  Retrouver une <strong>silhouette plus nette</strong> sans cacher votre corps sous des vêtements amples</p><p>✔  Vous sentir enfin “<strong>vous-même</strong>” dans votre jean du matin</p><p>✔  Avoir ce moment discret de fierté : “<strong>Enfin, ça marche sur moi</strong>”</p><p>✔  Reprendre <strong>confiance en vous</strong> et arrêter de vous battre contre un corps qui “ne répond plus”</p>"
           }
-        },
-        "button_zX36MV": {
-          "type": "button",
-          "settings": {
-            "style": "fill",
-            "size": "xl",
-            "text": "COMMENCER AUJOURD'HUI",
-            "url": "",
-            "background": "",
-            "text_color": ""
-          }
         }
       },
       "block_order": [
-        "richtext_UePD3U",
-        "button_zX36MV"
+        "richtext_UePD3U"
       ],
       "name": "Rich text",
       "settings": {
