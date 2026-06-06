@@ -197,6 +197,17 @@
     "rich_text_4UNpyc": {
       "type": "rich-text",
       "blocks": {
+        "button_zX36MV": {
+          "type": "button",
+          "settings": {
+            "style": "fill",
+            "size": "xl",
+            "text": "COMMENCER AUJOURD'HUI",
+            "url": "",
+            "background": "",
+            "text_color": ""
+          }
+        },
         "richtext_UePD3U": {
           "type": "richtext",
           "settings": {
@@ -205,6 +216,7 @@
         }
       },
       "block_order": [
+        "button_zX36MV",
         "richtext_UePD3U"
       ],
       "name": "Rich text",
