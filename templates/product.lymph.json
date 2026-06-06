@@ -9,6 +9,32 @@
  */
 {
   "sections": {
+    "rich_text_ERA73x": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_yGKCzA": {
+          "type": "heading",
+          "settings": {
+            "text": "Adieu les gonflements 21 jours SEULEMENT !",
+            "heading_tag": "h1",
+            "text_color": "",
+            "gradient": ""
+          }
+        }
+      },
+      "block_order": [
+        "heading_yGKCzA"
+      ],
+      "name": "Rich text",
+      "settings": {
+        "full_width": true,
+        "content_width": "small",
+        "text_position": "center",
+        "background": "",
+        "background_gradient": "",
+        "text_color": ""
+      }
+    },
     "main": {
       "type": "main-product",
       "blocks": {
@@ -396,6 +422,7 @@
     }
   },
   "order": [
+    "rich_text_ERA73x",
     "main",
     "image_with_text_overlay_kcGeAG",
     "before_after_image_8fwAFL",
