@@ -98,6 +98,14 @@
             "max_width": 500
           }
         },
+        "image_hLyD7H": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/Capture_d_ecran_2026-06-06_a_14.20.47.png",
+            "alignment": "center",
+            "max_width": 500
+          }
+        },
         "image_7N67WD": {
           "type": "image",
           "settings": {
@@ -124,6 +132,7 @@
         "liquid_qCjND6",
         "buy_buttons",
         "image_MX7Ty3",
+        "image_hLyD7H",
         "image_7N67WD",
         "image_aXLPFg"
       ],
