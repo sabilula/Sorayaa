@@ -167,11 +167,38 @@
         "overlay_color": "#000000",
         "overlay_opacity": 0
       }
+    },
+    "before_after_image_8fwAFL": {
+      "type": "before-after-image",
+      "name": "Before/after image",
+      "settings": {
+        "full_width": true,
+        "subheading": "",
+        "title": "Regardez Votre Corps Passer de “Gonflé et Lourd” à “Léger et Définis”",
+        "content": "<p>Lyna soutient votre lymphe, votre peau et votre énergie afin que vous puissiez :</p><p>✔ Vous réveiller avec le visage moins bouffi   et les jambes plus légères</p><p>✔  Retrouver une silhouette plus nette sans cacher votre corps sous des vêtements amples</p><p>✔  Vous sentir enfin “vous-même” dans votre jean du matin</p><p>✔  Avoir ce moment discret de fierté : “ça y est, ça marche sur moi”</p><p>✔  Reprendre confiance en vous et arrêter de vous battre contre un corps qui “ne répond plus”</p>",
+        "before_image": "shopify://shop_images/ChatGPT_Image_6_juin_2026_a_12_50_15.png",
+        "before_image_mobile": "shopify://shop_images/ChatGPT_Image_6_juin_2026_a_12_50_15.png",
+        "after_image": "shopify://shop_images/ChatGPT_Image_6_juin_2026_a_12_50_15_89c033bb-edb1-40a0-a73c-2eb65456b66a.png",
+        "expand_image": false,
+        "text_position": "start",
+        "before_after_text_position": "top",
+        "before_text": "Before",
+        "after_text": "After",
+        "drag_initial_position": 50,
+        "background": "#f2f2f2",
+        "background_gradient": "",
+        "text_color": "",
+        "before_text_color": "#ffffff",
+        "after_text_color": "#ffffff",
+        "drag_cursor_background": "#ffffff",
+        "drag_cursor_color": "#000000"
+      }
     }
   },
   "order": [
     "custom_liquid_wecaWH",
     "main",
-    "image_with_text_overlay_kcGeAG"
+    "image_with_text_overlay_kcGeAG",
+    "before_after_image_8fwAFL"
   ]
 }
