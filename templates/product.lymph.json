@@ -380,48 +380,6 @@
         "lazy": true
       }
     },
-    "multiple_images_with_text_perAB4": {
-      "type": "multiple-images-with-text",
-      "blocks": {
-        "item_eDEUyR": {
-          "type": "item",
-          "settings": {
-            "image_rotation_degrees": -2,
-            "subheading": "",
-            "title": "Heading 1",
-            "content": "<p>Use this text to share information about your brand with your customers. Describe a product, share announcements, or welcome customers to your store.</p>",
-            "button_url": "",
-            "button_text": ""
-          }
-        },
-        "item_U9kVt4": {
-          "type": "item",
-          "settings": {
-            "image_rotation_degrees": 1.5,
-            "subheading": "",
-            "title": "Heading 2",
-            "content": "<p>Use this text to share information about your brand with your customers. Describe a product, share announcements, or welcome customers to your store.</p>",
-            "button_url": "",
-            "button_text": ""
-          }
-        }
-      },
-      "block_order": [
-        "item_eDEUyR",
-        "item_U9kVt4"
-      ],
-      "name": "Multiple images with text",
-      "settings": {
-        "full_width": true,
-        "images_layout": "stacked",
-        "collage_images_alignment": "middle",
-        "background": "",
-        "background_gradient": "",
-        "text_color": "",
-        "button_background": "",
-        "button_text_color": ""
-      }
-    },
     "multi_column_t8hKqz": {
       "type": "multi-column",
       "blocks": {
@@ -489,7 +447,6 @@
     "before_after_image_8fwAFL",
     "rich_text_4UNpyc",
     "testimonials_MVUrn9",
-    "multiple_images_with_text_perAB4",
     "multi_column_t8hKqz"
   ]
 }
