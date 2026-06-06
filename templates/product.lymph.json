@@ -267,48 +267,12 @@
             "text": "<p>\"J'ai perdu plus de 10 cm au niveau des cuisses et des hanches en quelques semaines. Au-delà des mensurations, je me sens surtout plus légère et moins gonflée. J'apprécie particulièrement le fait que ce soit une solution naturelle qui s'intègre facilement dans ma routine.\"</p>",
             "author": "<p><strong>Elise B.</strong></p>"
           }
-        },
-        "slide_Bqqkzn": {
-          "type": "slide",
-          "settings": {
-            "media_style": "image",
-            "video_url": "https://www.youtube.com/watch?v=_9VUPq3SxOc",
-            "controls": false,
-            "stars_count": 5,
-            "text": "<p>The cordless lamp you've been looking for!</p>",
-            "author": "<p><strong>@lacey</strong></p>"
-          }
-        },
-        "slide_icUWfB": {
-          "type": "slide",
-          "settings": {
-            "media_style": "image",
-            "video_url": "https://www.youtube.com/watch?v=_9VUPq3SxOc",
-            "controls": false,
-            "stars_count": 5,
-            "text": "<p>All my friends want them too now, at least I was the first one to get them..!</p>",
-            "author": "<p><strong>@mcqueen</strong></p>"
-          }
-        },
-        "slide_hkxf8y": {
-          "type": "slide",
-          "settings": {
-            "media_style": "image",
-            "video_url": "https://www.youtube.com/watch?v=_9VUPq3SxOc",
-            "controls": false,
-            "stars_count": 5,
-            "text": "<p>I use it every day early in the morning and on our dining table, it is do convenient and cool</p>",
-            "author": "<p><strong>@dwithpatty</strong></p>"
-          }
         }
       },
       "block_order": [
         "slide_HPhtbz",
         "slide_fTRbJY",
-        "slide_RVz9FL",
-        "slide_Bqqkzn",
-        "slide_icUWfB",
-        "slide_hkxf8y"
+        "slide_RVz9FL"
       ],
       "name": "SS - Testimonials #12",
       "settings": {
