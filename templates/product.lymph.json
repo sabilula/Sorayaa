@@ -422,6 +422,7 @@
         "item_fHiqnh",
         "item_mUb8nm"
       ],
+      "disabled": true,
       "name": "Multi-column",
       "settings": {
         "full_width": true,
