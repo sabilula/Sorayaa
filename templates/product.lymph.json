@@ -151,6 +151,7 @@
     },
     "image_with_text_overlay_kcGeAG": {
       "type": "image-with-text-overlay",
+      "disabled": true,
       "name": "Image with text overlay",
       "settings": {
         "full_width": true,
@@ -163,6 +164,19 @@
         "text_color": "#ffffff",
         "overlay_color": "#000000",
         "overlay_opacity": 0
+      }
+    },
+    "custom_liquid_k7kKiF": {
+      "type": "custom-liquid",
+      "name": "Custom Liquid",
+      "settings": {
+        "full_width": true,
+        "remove_vertical_spacing": true,
+        "remove_horizontal_spacing": false,
+        "liquid": "<div style=\"background:#fff; padding:10; line-height:10; overflow:hidden;\">\n  <div style=\"display:flex; gap:60px; align-items:center; width:max-content; animation:scroll 18s linear infinite;\">\n    <img src=\"https://cdn.shopify.com/s/files/1/0933/6311/0223/files/allure.png?v=1747916421\" alt=\"Allure\" style=\"height:50px;\">\n    <img src=\"https://cdn.shopify.com/s/files/1/0933/6311/0223/files/Vogue.jpg?v=1747916421\" alt=\"Vogue\" style=\"height:50px;\">\n    <img src=\"https://cdn.shopify.com/s/files/1/0933/6311/0223/files/Glamour.png?v=1748610059\" alt=\"Glamour\" style=\"height:50px;\">\n    <img src=\"https://cdn.shopify.com/s/files/1/0933/6311/0223/files/allure.png?v=1747916421\" alt=\"Allure\" style=\"height:50px;\">\n    <img src=\"https://cdn.shopify.com/s/files/1/0933/6311/0223/files/Vogue.jpg?v=1747916421\" alt=\"Vogue\" style=\"height:50px;\">\n    <img src=\"https://cdn.shopify.com/s/files/1/0933/6311/0223/files/Glamour.png?v=1748610059\" alt=\"Glamour\" style=\"height:50px;\">\n  </div>\n</div>\n\n<style>\n@keyframes scroll {\n  0%   { transform:translateX(0); }\n  100% { transform:translateX(-50%); }\n}\n</style>",
+        "background": "",
+        "background_gradient": "",
+        "text_color": ""
       }
     },
     "before_after_image_8fwAFL": {
@@ -442,6 +456,7 @@
     "rich_text_ERA73x",
     "main",
     "image_with_text_overlay_kcGeAG",
+    "custom_liquid_k7kKiF",
     "before_after_image_8fwAFL",
     "rich_text_4UNpyc",
     "testimonials_MVUrn9",
