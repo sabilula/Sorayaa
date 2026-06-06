@@ -173,7 +173,7 @@
         "full_width": true,
         "subheading": "",
         "title": "Regardez Votre Corps Passer de “Gonflé et Lourd” à “Léger et Définis”",
-        "content": "<p><strong>Vitaora soutient votre lymphe, votre peau et votre énergie afin que vous puissiez :</strong></p><p>✔ Vous réveiller avec le <strong>visage moins bouffi</strong>   et les <strong>jambes plus légères</strong></p><p>✔  Retrouver une <strong>silhouette plus nette</strong> sans cacher votre corps sous des vêtements amples</p><p>✔  Vous sentir enfin “<strong>vous-même</strong>” dans votre jean du matin</p><p>✔  Avoir ce moment discret de fierté : “<strong>Enfin, ça marche sur moi</strong>”</p><p>✔  Reprendre <strong>confiance en vous</strong> et arrêter de vous battre contre un corps qui “ne répond plus”</p>",
+        "content": "<p><em>\"J'étais persuadée qu'à mon âge, </em><strong>je ne pourrais plus porter des belles chaussures </strong><em>qui me mettent en valeur </em><strong>sans gonfler </strong><em>le soir. </em><strong>J'avais tort</strong><em>\"</em></p><p><strong>- Anne-Marie V.</strong></p>",
         "before_image": "shopify://shop_images/ChatGPT_Image_6_juin_2026_a_12_50_15.png",
         "before_image_mobile": "shopify://shop_images/ChatGPT_Image_6_juin_2026_a_12_50_15.png",
         "after_image": "shopify://shop_images/ChatGPT_Image_6_juin_2026_a_12_50_15_89c033bb-edb1-40a0-a73c-2eb65456b66a.png",
@@ -192,26 +192,13 @@
         "drag_cursor_color": "#000000"
       }
     },
-    "custom_liquid_k7kKiF": {
-      "type": "custom-liquid",
-      "name": "Custom Liquid",
-      "settings": {
-        "full_width": true,
-        "remove_vertical_spacing": true,
-        "remove_horizontal_spacing": false,
-        "liquid": "<div style=\"background:#fff; padding:10; line-height:10; overflow:hidden;\">\n  <div style=\"display:flex; gap:60px; align-items:center; width:max-content; animation:scroll 18s linear infinite;\">\n    <img src=\"https://cdn.shopify.com/s/files/1/0933/6311/0223/files/allure.png?v=1747916421\" alt=\"Allure\" style=\"height:50px;\">\n    <img src=\"https://cdn.shopify.com/s/files/1/0933/6311/0223/files/Vogue.jpg?v=1747916421\" alt=\"Vogue\" style=\"height:50px;\">\n    <img src=\"https://cdn.shopify.com/s/files/1/0933/6311/0223/files/Glamour.png?v=1748610059\" alt=\"Glamour\" style=\"height:50px;\">\n    <img src=\"https://cdn.shopify.com/s/files/1/0933/6311/0223/files/allure.png?v=1747916421\" alt=\"Allure\" style=\"height:50px;\">\n    <img src=\"https://cdn.shopify.com/s/files/1/0933/6311/0223/files/Vogue.jpg?v=1747916421\" alt=\"Vogue\" style=\"height:50px;\">\n    <img src=\"https://cdn.shopify.com/s/files/1/0933/6311/0223/files/Glamour.png?v=1748610059\" alt=\"Glamour\" style=\"height:50px;\">\n  </div>\n</div>\n\n<style>\n@keyframes scroll {\n  0%   { transform:translateX(0); }\n  100% { transform:translateX(-50%); }\n}\n</style>",
-        "background": "",
-        "background_gradient": "",
-        "text_color": ""
-      }
-    },
     "rich_text_4UNpyc": {
       "type": "rich-text",
       "blocks": {
         "richtext_UePD3U": {
           "type": "richtext",
           "settings": {
-            "content": "<p><em>\"J'étais persuadée qu'à mon âge, </em><strong>je ne pourrais plus porter des belles chaussures </strong><em>qui me mettent en valeur </em><strong>sans gonfler </strong><em>le soir. </em><strong>J'avais tort</strong><em>\"</em></p><p><strong>- Anne-Marie V.</strong></p>"
+            "content": ""
           }
         },
         "button_zX36MV": {
@@ -235,6 +222,19 @@
         "full_width": true,
         "content_width": "small",
         "text_position": "center",
+        "background": "",
+        "background_gradient": "",
+        "text_color": ""
+      }
+    },
+    "custom_liquid_k7kKiF": {
+      "type": "custom-liquid",
+      "name": "Custom Liquid",
+      "settings": {
+        "full_width": true,
+        "remove_vertical_spacing": true,
+        "remove_horizontal_spacing": false,
+        "liquid": "<div style=\"background:#fff; padding:10; line-height:10; overflow:hidden;\">\n  <div style=\"display:flex; gap:60px; align-items:center; width:max-content; animation:scroll 18s linear infinite;\">\n    <img src=\"https://cdn.shopify.com/s/files/1/0933/6311/0223/files/allure.png?v=1747916421\" alt=\"Allure\" style=\"height:50px;\">\n    <img src=\"https://cdn.shopify.com/s/files/1/0933/6311/0223/files/Vogue.jpg?v=1747916421\" alt=\"Vogue\" style=\"height:50px;\">\n    <img src=\"https://cdn.shopify.com/s/files/1/0933/6311/0223/files/Glamour.png?v=1748610059\" alt=\"Glamour\" style=\"height:50px;\">\n    <img src=\"https://cdn.shopify.com/s/files/1/0933/6311/0223/files/allure.png?v=1747916421\" alt=\"Allure\" style=\"height:50px;\">\n    <img src=\"https://cdn.shopify.com/s/files/1/0933/6311/0223/files/Vogue.jpg?v=1747916421\" alt=\"Vogue\" style=\"height:50px;\">\n    <img src=\"https://cdn.shopify.com/s/files/1/0933/6311/0223/files/Glamour.png?v=1748610059\" alt=\"Glamour\" style=\"height:50px;\">\n  </div>\n</div>\n\n<style>\n@keyframes scroll {\n  0%   { transform:translateX(0); }\n  100% { transform:translateX(-50%); }\n}\n</style>",
         "background": "",
         "background_gradient": "",
         "text_color": ""
