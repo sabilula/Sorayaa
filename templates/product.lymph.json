@@ -221,7 +221,7 @@
       "settings": {
         "full_width": true,
         "content_width": "small",
-        "text_position": "center",
+        "text_position": "start",
         "background": "",
         "background_gradient": "",
         "text_color": ""
