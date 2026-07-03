@@ -102,9 +102,9 @@
         "image_hLyD7H": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/Capture_d_ecran_2026-06-06_a_14.20.47.png",
-            "alignment": "center",
-            "max_width": 500
+            "image": "shopify://shop_images/Livraison_offerte_des_40_CHF_d_achat.png",
+            "alignment": "start",
+            "max_width": 210
           }
         },
         "liquid_LhmBme": {
