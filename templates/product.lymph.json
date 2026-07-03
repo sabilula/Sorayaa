@@ -51,18 +51,20 @@
             "heading_tag": "h4"
           }
         },
-        "text_cJNrVz": {
-          "type": "text",
-          "settings": {
-            "text": ""
-          }
-        },
         "description": {
           "type": "description",
           "settings": {
             "icon": "none",
             "icon_width": 20,
             "collapse_content": false
+          }
+        },
+        "image_p7npRR": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/Capture_d_ecran_2026-06-06_a_11.20.49.png",
+            "alignment": "start",
+            "max_width": 500
           }
         },
         "kaching_bundles_app_block_YTYPde": {
@@ -121,8 +123,8 @@
       "block_order": [
         "liquid_PUUP7c",
         "title",
-        "text_cJNrVz",
         "description",
+        "image_p7npRR",
         "kaching_bundles_app_block_YTYPde",
         "liquid_qCjND6",
         "buy_buttons",
