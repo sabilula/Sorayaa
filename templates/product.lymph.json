@@ -168,6 +168,19 @@
         "overlay_opacity": 0
       }
     },
+    "custom_liquid_k7kKiF": {
+      "type": "custom-liquid",
+      "name": "Custom Liquid",
+      "settings": {
+        "full_width": true,
+        "remove_vertical_spacing": true,
+        "remove_horizontal_spacing": false,
+        "liquid": "<div style=\"background:#fff; padding:10; line-height:10; overflow:hidden;\">\n  <div style=\"display:flex; gap:60px; align-items:center; width:max-content; animation:scroll 18s linear infinite;\">\n    <img src=\"https://cdn.shopify.com/s/files/1/0933/6311/0223/files/allure.png?v=1747916421\" alt=\"Allure\" style=\"height:50px;\">\n    <img src=\"https://cdn.shopify.com/s/files/1/0933/6311/0223/files/Vogue.jpg?v=1747916421\" alt=\"Vogue\" style=\"height:50px;\">\n    <img src=\"https://cdn.shopify.com/s/files/1/0933/6311/0223/files/Glamour.png?v=1748610059\" alt=\"Glamour\" style=\"height:50px;\">\n    <img src=\"https://cdn.shopify.com/s/files/1/0933/6311/0223/files/allure.png?v=1747916421\" alt=\"Allure\" style=\"height:50px;\">\n    <img src=\"https://cdn.shopify.com/s/files/1/0933/6311/0223/files/Vogue.jpg?v=1747916421\" alt=\"Vogue\" style=\"height:50px;\">\n    <img src=\"https://cdn.shopify.com/s/files/1/0933/6311/0223/files/Glamour.png?v=1748610059\" alt=\"Glamour\" style=\"height:50px;\">\n  </div>\n</div>\n\n<style>\n@keyframes scroll {\n  0%   { transform:translateX(0); }\n  100% { transform:translateX(-50%); }\n}\n</style>",
+        "background": "",
+        "background_gradient": "",
+        "text_color": ""
+      }
+    },
     "before_after_image_8fwAFL": {
       "type": "before-after-image",
       "name": "Before/after image",
@@ -213,19 +226,6 @@
         "full_width": true,
         "content_width": "small",
         "text_position": "start",
-        "background": "",
-        "background_gradient": "",
-        "text_color": ""
-      }
-    },
-    "custom_liquid_k7kKiF": {
-      "type": "custom-liquid",
-      "name": "Custom Liquid",
-      "settings": {
-        "full_width": true,
-        "remove_vertical_spacing": true,
-        "remove_horizontal_spacing": false,
-        "liquid": "<div style=\"background:#fff; padding:10; line-height:10; overflow:hidden;\">\n  <div style=\"display:flex; gap:60px; align-items:center; width:max-content; animation:scroll 18s linear infinite;\">\n    <img src=\"https://cdn.shopify.com/s/files/1/0933/6311/0223/files/allure.png?v=1747916421\" alt=\"Allure\" style=\"height:50px;\">\n    <img src=\"https://cdn.shopify.com/s/files/1/0933/6311/0223/files/Vogue.jpg?v=1747916421\" alt=\"Vogue\" style=\"height:50px;\">\n    <img src=\"https://cdn.shopify.com/s/files/1/0933/6311/0223/files/Glamour.png?v=1748610059\" alt=\"Glamour\" style=\"height:50px;\">\n    <img src=\"https://cdn.shopify.com/s/files/1/0933/6311/0223/files/allure.png?v=1747916421\" alt=\"Allure\" style=\"height:50px;\">\n    <img src=\"https://cdn.shopify.com/s/files/1/0933/6311/0223/files/Vogue.jpg?v=1747916421\" alt=\"Vogue\" style=\"height:50px;\">\n    <img src=\"https://cdn.shopify.com/s/files/1/0933/6311/0223/files/Glamour.png?v=1748610059\" alt=\"Glamour\" style=\"height:50px;\">\n  </div>\n</div>\n\n<style>\n@keyframes scroll {\n  0%   { transform:translateX(0); }\n  100% { transform:translateX(-50%); }\n}\n</style>",
         "background": "",
         "background_gradient": "",
         "text_color": ""
@@ -380,6 +380,39 @@
         "content_width": 120,
         "border_thickness": 0,
         "lazy": true
+      }
+    },
+    "rich_text_CnTaQL": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_3yRLLG": {
+          "type": "heading",
+          "settings": {
+            "text": "La vérité : le \"gonflement\" n'est pas juste une question de poids ou de métabolismeding",
+            "heading_tag": "h2",
+            "text_color": "",
+            "gradient": ""
+          }
+        },
+        "richtext_jM7gFY": {
+          "type": "richtext",
+          "settings": {
+            "content": "<p><strong>Voici ce qui se passe réellement sous votre peau ↓</strong></p>"
+          }
+        }
+      },
+      "block_order": [
+        "heading_3yRLLG",
+        "richtext_jM7gFY"
+      ],
+      "name": "Rich text",
+      "settings": {
+        "full_width": true,
+        "content_width": "small",
+        "text_position": "center",
+        "background": "",
+        "background_gradient": "",
+        "text_color": ""
       }
     },
     "media_with_text_4eYgfb": {
@@ -575,10 +608,11 @@
     "rich_text_ERA73x",
     "main",
     "image_with_text_overlay_kcGeAG",
+    "custom_liquid_k7kKiF",
     "before_after_image_8fwAFL",
     "rich_text_4UNpyc",
-    "custom_liquid_k7kKiF",
     "testimonials_MVUrn9",
+    "rich_text_CnTaQL",
     "media_with_text_4eYgfb",
     "multi_column_t8hKqz"
   ]
