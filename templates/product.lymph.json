@@ -104,7 +104,7 @@
           "settings": {
             "image": "shopify://shop_images/Livraison_offerte_des_40_CHF_d_achat.png",
             "alignment": "start",
-            "max_width": 210
+            "max_width": 220
           }
         },
         "liquid_LhmBme": {
@@ -166,6 +166,29 @@
         "text_color": "#ffffff",
         "overlay_color": "#000000",
         "overlay_opacity": 0
+      }
+    },
+    "rich_text_bnMyaB": {
+      "type": "rich-text",
+      "blocks": {
+        "richtext_LGykmN": {
+          "type": "richtext",
+          "settings": {
+            "content": "<p>Déjà vu dans :</p>"
+          }
+        }
+      },
+      "block_order": [
+        "richtext_LGykmN"
+      ],
+      "name": "Rich text",
+      "settings": {
+        "full_width": false,
+        "content_width": "medium",
+        "text_position": "center",
+        "background": "",
+        "background_gradient": "",
+        "text_color": ""
       }
     },
     "custom_liquid_k7kKiF": {
@@ -608,6 +631,7 @@
     "rich_text_ERA73x",
     "main",
     "image_with_text_overlay_kcGeAG",
+    "rich_text_bnMyaB",
     "custom_liquid_k7kKiF",
     "before_after_image_8fwAFL",
     "rich_text_4UNpyc",
