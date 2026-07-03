@@ -738,10 +738,11 @@
         "item_6gyjDN": {
           "type": "item",
           "settings": {
+            "image": "shopify://shop_images/045_46.jpg",
             "column_size": "3",
-            "title": "Column title",
+            "title": "Étape 1",
             "heading_tag": "h4",
-            "content": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
+            "content": "<p>Bien <strong>agiter</strong> avant utilisation (idéalement le matin à jeun)</p>",
             "link_url": "",
             "link_text": "",
             "link_style": "link"
@@ -750,10 +751,11 @@
         "item_jWXeMh": {
           "type": "item",
           "settings": {
+            "image": "shopify://shop_images/046_47.jpg",
             "column_size": "3",
-            "title": "Column title",
+            "title": "Étape 2",
             "heading_tag": "h4",
-            "content": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
+            "content": "<p><strong>Diluer 2 ml </strong>(équivalent d'une cuillère à café) dans un verre d'eau ou prenez directement <strong>sous la langue</strong> pour une absorption rapide.</p>",
             "link_url": "",
             "link_text": "",
             "link_style": "link"
@@ -763,9 +765,9 @@
           "type": "item",
           "settings": {
             "column_size": "3",
-            "title": "Column title",
+            "title": "Étape 3",
             "heading_tag": "h4",
-            "content": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
+            "content": "<p>Faites votre <strong>rituel quotidien, tous les matins</strong> et ressentez la différence dès le 1er mois.</p>",
             "link_url": "",
             "link_text": "",
             "link_style": "link"
@@ -786,7 +788,7 @@
         "subheading": "",
         "title": "Un geste naturel et facile à maintenir dans votre quotidien",
         "content": "",
-        "background": "#DAC7A5",
+        "background": "#E1D3BA",
         "background_gradient": "",
         "text_color": ""
       }
