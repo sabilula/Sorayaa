@@ -174,7 +174,7 @@
         "richtext_LGykmN": {
           "type": "richtext",
           "settings": {
-            "content": "<p>Déjà vu dans :</p>"
+            "content": "<h6>Déjà vu dans :</h6>"
           }
         }
       },
