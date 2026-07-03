@@ -606,9 +606,113 @@
         "full_width": true,
         "stack_on_mobile": false,
         "gap": "medium",
-        "text_alignment": "start",
+        "text_alignment": "center",
         "subheading": "",
         "title": "Les 4 plantes de l'élixir Lynae sont cliniquement prouvées pour éliminer les fluides.",
+        "content": "",
+        "background": "",
+        "background_gradient": "",
+        "text_color": ""
+      }
+    },
+    "multi_column_aDGL9B": {
+      "type": "multi-column",
+      "blocks": {
+        "item_a6k7te": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/039_57.jpg",
+            "column_size": "3",
+            "title": "",
+            "heading_tag": "h4",
+            "content": "",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        },
+        "item_pwGUtB": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/041_53.jpg",
+            "column_size": "3",
+            "title": "",
+            "heading_tag": "h4",
+            "content": "",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        },
+        "item_E9r3EQ": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/040_58.jpg",
+            "column_size": "3",
+            "title": "",
+            "heading_tag": "h4",
+            "content": "",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        },
+        "item_6764hQ": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/044_55.jpg",
+            "column_size": "3",
+            "title": "",
+            "heading_tag": "h4",
+            "content": "",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        },
+        "item_aPgz4k": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/042_54.jpg",
+            "column_size": "3",
+            "title": "",
+            "heading_tag": "h4",
+            "content": "",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        },
+        "item_6qA4ei": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/043_56.jpg",
+            "column_size": "3",
+            "title": "",
+            "heading_tag": "h4",
+            "content": "",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        }
+      },
+      "block_order": [
+        "item_a6k7te",
+        "item_pwGUtB",
+        "item_E9r3EQ",
+        "item_6764hQ",
+        "item_aPgz4k",
+        "item_6qA4ei"
+      ],
+      "name": "Multi-column",
+      "settings": {
+        "full_width": true,
+        "stack_on_mobile": false,
+        "gap": "medium",
+        "text_alignment": "center",
+        "subheading": "",
+        "title": "Des résultats visible, dans le miroir.",
         "content": "",
         "background": "",
         "background_gradient": "",
@@ -626,6 +730,7 @@
     "testimonials_MVUrn9",
     "rich_text_CnTaQL",
     "media_with_text_4eYgfb",
-    "multi_column_t8hKqz"
+    "multi_column_t8hKqz",
+    "multi_column_aDGL9B"
   ]
 }
