@@ -75,9 +75,9 @@
         "image_hLyD7H": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/Livraison_offerte_des_40_CHF_d_achat.png",
+            "image": "shopify://shop_images/Capture_d_ecran_2026-07-04_a_00.19.51.png",
             "alignment": "start",
-            "max_width": 220
+            "max_width": 340
           }
         },
         "liquid_LhmBme": {
@@ -788,7 +788,7 @@
         "subheading": "",
         "title": "Un geste naturel et facile à maintenir dans votre quotidien",
         "content": "",
-        "background": "#E1D3BA",
+        "background": "#e1d3ba",
         "background_gradient": "",
         "text_color": ""
       }
@@ -810,7 +810,7 @@
             "content": "<h2><strong>Formulé professionnellement</strong>  par une conseillère agréée</h2><p>Notre formule <strong>Lynae</strong> est conçue directement par <strong>Anne</strong>, à partir d’une compréhension fine du système lymphatique, de ses rythmes et de ses besoins.</p><p> </p><p>Les actifs sont sélectionnés pour leur rôle précis dans :</p><ul><li>le soutien de la circulation lymphatique</li><li>l’accompagnement de l’élimination naturelle</li><li>la réduction des sensations de rétention et de lourdeur</li></ul><p><em>Aucune sur-formulation.<br/>Aucun ingrédient décoratif.<br/>Chaque choix a une fonction claire.</em></p>",
             "link_text": "",
             "link_url": "",
-            "background": "#FFFFFF",
+            "background": "#ffffff",
             "background_gradient": "",
             "text_color": "#000000",
             "text_gradient": "",
