@@ -9,33 +9,6 @@
  */
 {
   "sections": {
-    "rich_text_ERA73x": {
-      "type": "rich-text",
-      "blocks": {
-        "heading_yGKCzA": {
-          "type": "heading",
-          "settings": {
-            "text": "DRAINANT LYMPHATIQUE",
-            "heading_tag": "h4",
-            "text_color": "",
-            "gradient": ""
-          }
-        }
-      },
-      "block_order": [
-        "heading_yGKCzA"
-      ],
-      "disabled": true,
-      "name": "Rich text",
-      "settings": {
-        "full_width": false,
-        "content_width": "small",
-        "text_position": "center",
-        "background": "",
-        "background_gradient": "",
-        "text_color": ""
-      }
-    },
     "main": {
       "type": "main-product",
       "blocks": {
@@ -644,7 +617,6 @@
     }
   },
   "order": [
-    "rich_text_ERA73x",
     "main",
     "image_with_text_overlay_kcGeAG",
     "rich_text_bnMyaB",
