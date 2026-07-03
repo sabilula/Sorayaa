@@ -828,6 +828,40 @@
         "alternate_media_position": false,
         "spacing": "small"
       }
+    },
+    "multi_column_hWKibX": {
+      "type": "multi-column",
+      "blocks": {
+        "item_z3RBjy": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/049_hf_20260122_114343_4020ffbc-09cd-4655-94e5-5bde38b9d02a.jpg",
+            "column_size": "3",
+            "title": "",
+            "heading_tag": "h4",
+            "content": "",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        }
+      },
+      "block_order": [
+        "item_z3RBjy"
+      ],
+      "name": "Multi-column",
+      "settings": {
+        "full_width": true,
+        "stack_on_mobile": false,
+        "gap": "medium",
+        "text_alignment": "center",
+        "subheading": "",
+        "title": "",
+        "content": "<h2>Des <strong>résultats visibles</strong>, dès les premières semaines</h2><h3><strong>Jour 1 à Jour 3 :</strong></h3><p><em>« T’as bonne mine aujourd’hui ! »</em></p><p><strong>Votre visage est moins bouffi</strong> au réveil, vos bagues glissent mieux sur vos doigts</p><h3><strong>Jour 3 à Jour 7 :</strong></h3><p><em>« Je me sens plus légère ! »</em></p><p>Votre ventre dégonfle, vos jeans vous laissent moins de traces. Vous avez les jambes légères même après une journée entière au boulot</p><h3><strong>Semaine 2 à 4 :</strong></h3><p><em>« J'ai l'impression que mon corps m'écoute enfin »</em></p><p>Votre <strong>silhouette est plus fine dans le miroir</strong>, surtout de profil.</p><p>Vous retrouvez l'envie de porter des vêtements un peu plus serrés...</p><h3><strong>Semaine 4 à 6+ :</strong></h3><p><em>« Je me sens plus confiante et motivée »</em></p><p>Vous dites de nouveau <strong>oui</strong> aux sorties et aux repas dehors… Vous avez plus d'énergie et de motivation, vous prenez plus de temps pour vous. Et dans l'intimité… Vous n'éteignez plus la lumière...</p>",
+        "background": "",
+        "background_gradient": "",
+        "text_color": ""
+      }
     }
   },
   "order": [
@@ -844,6 +878,7 @@
     "multi_column_aDGL9B",
     "custom_liquid_9MGGgT",
     "multi_column_HdBiUb",
-    "media_with_text_BQgerY"
+    "media_with_text_BQgerY",
+    "multi_column_hWKibX"
   ]
 }
