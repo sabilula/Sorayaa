@@ -611,7 +611,6 @@
         "item_fHiqnh",
         "item_mUb8nm"
       ],
-      "disabled": true,
       "name": "Multi-column",
       "settings": {
         "full_width": true,
@@ -619,8 +618,8 @@
         "gap": "medium",
         "text_alignment": "start",
         "subheading": "",
-        "title": "La vérité : le “gonflement” n’est pas juste une question de poids ou de métabolisme",
-        "content": "<p>Voici ce qui se passe réellement sous votre peau ↓</p>",
+        "title": "Les 4 plantes de l'élixir Lynae sont cliniquement prouvées pour éliminer les fluides.",
+        "content": "",
         "background": "",
         "background_gradient": "",
         "text_color": ""
