@@ -17,7 +17,7 @@
         "message": {
           "type": "message",
           "settings": {
-            "text": "🌸 PROMO DE PRINTEMPS",
+            "text": "☀️ PROMO D'ÉTE",
             "url": ""
           }
         },
@@ -31,7 +31,7 @@
         "message_BFX3WM": {
           "type": "message",
           "settings": {
-            "text": "✔ LIVRAISON GRATUITE",
+            "text": "✔ EXPÉDIÉ SOUS 24H",
             "url": ""
           }
         }
