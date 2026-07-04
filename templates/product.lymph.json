@@ -979,6 +979,91 @@
         "background_gradient": "",
         "text_color": ""
       }
+    },
+    "faq_JJrFU9": {
+      "type": "faq",
+      "blocks": {
+        "item_WYnweB": {
+          "type": "item",
+          "settings": {
+            "title": "En combien de temps vais-je voir des résultats ?",
+            "content": "<p>La plupart de nos clientes nous rapportent des résultats visibles dès la première semaine d'utilisation:</p><p> </p><ul><li>Le visage paraît moins bouffie au réveil, les traits sont moins tirés</li><li>Moins de ballonnements et une sensation de confort au niveau du ventre</li><li>Des jambes plus légères et des chevilles moins gonflées</li><li>Beaucoup remarquent aussi une amélioration de leur motivation</li></ul><p> </p><p>Cependant, chaque femmes est différente. On vous conseille de rester constante dans votre utilisation pendant 3 à 4 semaines pour vraiment apprécier l'évolution sur votre silhouette.</p>"
+          }
+        },
+        "item_PbCbGB": {
+          "type": "item",
+          "settings": {
+            "title": "Un flacon, c'est pour combien de temps ?",
+            "content": "<p>À raison de<strong> 2 ml par jour</strong>, un flacon couvre <strong>30 jours</strong>.</p>"
+          }
+        },
+        "item_7z9ayW": {
+          "type": "item",
+          "settings": {
+            "title": "Y a-t-il des effets secondaires ?",
+            "content": "<p>Aucun effet secondaire n'a été ressentis par nos 1000+ clientes jusqu'à présent. N'hésitez pas à en parler à votre professionnel de santé si vous avez un doute avant de commencer Lynae.</p>"
+          }
+        },
+        "item_7TnWWF": {
+          "type": "item",
+          "settings": {
+            "title": "Puis-je le prendre en permanence ?",
+            "content": "<p>Oui, mais on recommande des <strong>cycles</strong> : <strong>12 semaines</strong>, puis <strong>1–2 semaines de pause</strong>.</p><p>En entretien (ménopause, jambes lourdes récurrentes) : possible <strong>3–5 jours/semaine</strong> après la cure.</p>"
+          }
+        },
+        "item_QyDQGB": {
+          "type": "item",
+          "settings": {
+            "title": "Est-ce que ça marche vraiment ?",
+            "content": "<p>Avec l'élixir Lynae, <strong>vous ciblez la cause profonde de vos gonflements</strong> et de votre sensation de lourdeur: <strong>votre lymphe ralentie par le stress oxydatif</strong>.</p><p> </p><p>Grâce aux 4 plantes que nous utilisons et qui sont cliniquement reconnues pour être anti-inflammatoire et relancer la circulation de la lymphe… <strong>Vous donnez enfin à votre corps le moyen d'éliminer l'eau et et les déchets</strong> qui se sont accumulés dans votre visage, votre ventre et vos jambes.</p><p> </p><p><strong>Des milliers de clientes rapportent les mêmes signaux de soulagement et de légèreté</strong> depuis qu'elles ont relancé leur lymphe.</p><p> </p><p>On vous rappelle aussi que <strong>vous pouvez faire valoir votre garantie de résultats si vous ne constatez aucun résultats visibles</strong>.</p>"
+          }
+        },
+        "item_YJpcGa": {
+          "type": "item",
+          "settings": {
+            "title": "Comment ça se compare aux massages lymphatiques ?",
+            "content": "<p>Les massages peuvent vous offrir un soulagement \"en surface\" rapide, <strong>mais de quelques jours seulement</strong>.... Sans compter qu'<strong>une séance coûte environ 100€ à renouveler 3 voire 4 fois par mois</strong>.</p><p><strong>Les massages ne ciblent en aucun cas la cause profonde de votre rétention d'eau</strong>: le stress oxydatif qui ralentie votre lymphe et fait fuir les toxines dans vos tissus.</p><p><strong>Des milliers de clientes rapportent les mêmes signaux de soulagement et de légèreté</strong> depuis qu'elles ont relancé leur lymphe.</p><p>On vous rappelle aussi que <strong>vous pouvez faire valoir votre garantie de résultats si vous ne constatez aucun résultats visibles</strong>.</p>"
+          }
+        },
+        "item_m7KkBG": {
+          "type": "item",
+          "settings": {
+            "title": "Puis-je le prendre avec mes médicaments ?",
+            "content": "<p></p><ul><li>Si vous prenez des <strong>diurétiques</strong>, <strong>antihypertenseurs</strong>, <strong>anticoagulants/anti-plaquettaires</strong>, une <strong>hormonothérapie</strong>, ou en cas de <strong>maladie du foie/reins</strong> : <strong>demandez l’avis</strong> de votre professionnel de santé.</li><li>Déconseillé <strong>grossesse/allaitement</strong>.</li><li>Si antécédent de <strong>cancer hormonodépendant</strong> ou <strong>allergie aux Fabacées</strong> (famille du trèfle) : <strong>avis médical</strong>.</li></ul><p><em>Complément alimentaire. Ne se substitue pas à une alimentation variée, équilibrée et à un mode de vie sain.</em></p>"
+          }
+        }
+      },
+      "block_order": [
+        "item_WYnweB",
+        "item_PbCbGB",
+        "item_7z9ayW",
+        "item_7TnWWF",
+        "item_QyDQGB",
+        "item_YJpcGa",
+        "item_m7KkBG"
+      ],
+      "name": "FAQ",
+      "settings": {
+        "full_width": true,
+        "subheading": "",
+        "title": "FAQ",
+        "content": "",
+        "team_avatar_width": 160,
+        "support_hours": "Our customer support is available Monday to Friday: 8am-8:30pm.",
+        "answer_time": "Average answer time: 24h",
+        "button_text": "",
+        "button_url": "",
+        "text_position": "center",
+        "background": "",
+        "background_gradient": "",
+        "text_color": "",
+        "heading_color": "",
+        "heading_gradient": "",
+        "button_background": "",
+        "button_text_color": "",
+        "accordion_background": "",
+        "accordion_text_color": ""
+      }
     }
   },
   "order": [
@@ -998,6 +1083,7 @@
     "media_with_text_BQgerY",
     "multi_column_hWKibX",
     "custom_liquid_hi8BnA",
-    "multi_column_gQNeBB"
+    "multi_column_gQNeBB",
+    "faq_JJrFU9"
   ]
 }
