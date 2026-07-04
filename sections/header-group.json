@@ -45,10 +45,10 @@
         "enable_sticky": false,
         "autoplay": false,
         "cycle_speed": 6,
-        "text_size": "text-base",
+        "text_size": "text-xs",
         "navigation_mode": "scrolling",
         "scrolling_speed": 13,
-        "background": "#06957E",
+        "background": "#06957e",
         "background_gradient": "",
         "text_color": "#ffffff"
       }
